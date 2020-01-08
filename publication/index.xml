@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Vision and Learning Lab @ University of Alberta</title>
     <link>https://vision-and-learning-lab-ualberta.github.io/publication/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
