@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Vision and Learning Lab @ University of Alberta</title>
+    <title>Authors | Vision and Learning Lab @ UAlberta</title>
     <link>https://vision-and-learning-lab-ualberta.github.io/authors/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab @ UAlberta 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://vision-and-learning-lab-ualberta.github.io/authors/admin/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://vision-and-learning-lab-ualberta.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am an associate professor with the Department of Electrical and Computer Engineering, University of Alberta. I also hold an adjunct position with A&lt;em&gt;STAR, Singapore, where I have led a group in Machine Learning for Bioimage Analysis at the Bioinformatics Institute. Prior to joining University of Alberta in year 2018, I worked at A&lt;/em&gt;STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. I received my BSc degree in Computer Science from Jilin University in 1996, M. Eng. degree from Nankai University in 1999, and PhD in Computing Science from the University of Alberta in 2004. My research expertise is mainly on computer vision and machine learning. I am a member of the Institute of Electrical and Electronics Engineers (IEEE), the Association for Computing Machinery (ACM), and the Association for the Advancement of Artificial Intelligence (AAAI). I have supervised or co-supervised a number of research students and postdocs. Many of them have taken scientist or engineer positions at the major tech companies (Google, Nvidia, Bosch, OmniVision, etc.) or hold faculty positions at prestigious universities (e.g. Southeast University of China, China University of Geosciences, University of Adelaide of Australia).&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

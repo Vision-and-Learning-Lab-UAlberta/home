@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Vision and Learning Lab @ University of Alberta</title>
+    <title>Posts | Vision and Learning Lab @ UAlberta</title>
     <link>https://vision-and-learning-lab-ualberta.github.io/post/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab @ UAlberta 2020</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,17 +13,16 @@
     </image>
     
     <item>
-      <title>[NEW!] An opening for Postdoc researcher in Computer Vision and Machine Learning</title>
-      <link>https://vision-and-learning-lab-ualberta.github.io/post/getting-started/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://vision-and-learning-lab-ualberta.github.io/post/getting-started/</guid>
+      <title>An opening for Postdoc researcher in Computer Vision and Machine Learning.</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/writing-technical-content/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/writing-technical-content/</guid>
       <description>&lt;h2 id=&#34;joining-us&#34;&gt;Joining us&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;The Vision &amp;amp; Learning Lab at the ECE Dept. University of Alberta, is inviting outstanding Postdoc candidates to join us.&lt;/p&gt;
 &lt;p&gt;We are setting up a new lab at the ECE Dept., University of Alberta, focusing on exciting research topics in computer vision and machine learning. We are looking for exceptional Postdocs to join us.&lt;/p&gt;
 &lt;p&gt;Further information about the PI, Dr. Li Cheng, can be found below, or via  &lt;a href=&#34;https://www.ece.ualberta.ca/~lcheng5/&#34;&gt;https://www.ece.ualberta.ca/~lcheng5/&lt;/a&gt; or by direct inquiries to &lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Potential candidates are requested to email their CVs (in PDF) to Li Cheng (&lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;).&lt;/p&gt;
 &lt;h2 id=&#34;about-the-pi&#34;&gt;About the PI&amp;hellip;&lt;/h2&gt;
-&lt;hr&gt;
 &lt;p&gt;Li CHENG is an associate professor with the ECE Dept., University of Alberta, Canada. His research expertise is mainly in computer vision and machine learning, with application focus in both visual behavior analysis and biomedical image analysis. His research work has resulted in over 90 referred papers including those published at journals such as IEEE Trans. Pattern Analysis and Machine Intelligence, International Journal of Computer Vision, as well as conferences such as ICML, NIPS, ICCV, CVPR, MICCAI, and AAAI. He is a senior member of IEEE.&lt;/p&gt;
 </description>
     </item>

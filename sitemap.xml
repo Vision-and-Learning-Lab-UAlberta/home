@@ -3,60 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/authors/admin/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/post/getting-started/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/tags/academic/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/categories/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/categories/hiring/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/post/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/publication/</loc>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/project/shuang_hmr_2019/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/authors/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/tag/deep-learning/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/ji-yang/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/tag/motion-prediction/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/tag/pose-estimation/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/project/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/tags/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/publication-type/1/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/tag/cvpr/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/publication_types/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/publication/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/qi-liu/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/roger-zimmermann/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/shijian-lu/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/shuang-wu/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/shuyuan-jin/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/publication/shuang_hmr_2019/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/zhenguang-liu/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/project/ji_multitask_2020/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/post/writing-technical-content/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/tag/recruiting/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/chuan-guo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/sen-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/shihao-zou/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/xinxin-zuo/</loc>
   </url>
   
 </urlset>
