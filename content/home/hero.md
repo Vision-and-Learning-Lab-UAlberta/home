@@ -51,6 +51,6 @@ hero_media = ""
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-test Vision and Learning Lab is led by Dr. Li Cheng at the Department of Electrical and Computer Engineering at University of Alberta.
+Vision and Learning Lab is led by Dr. Li Cheng at the Department of Electrical and Computer Engineering at University of Alberta.
 
-Our areas of interest include Computer Vision and Machine Learning, where the research interests have been more toward interpreting the visual behaviors of humans and animals from images and videos, biomedical image analysis, and geometric aspect of machine learning. 
+Our areas of interest include Computer Vision and Machine Learning, where the research interests have been more toward interpreting the visual behaviors of humans and animals from images and videos, biomedical image analysis, and geometric aspect of machine learning.   
