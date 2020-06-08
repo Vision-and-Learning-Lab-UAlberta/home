@@ -8,6 +8,8 @@ tags:
 date: "2020-06-01T00:00:00Z"
 authors:
 - jiyang
+- Youdong Ma
+- licheng
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -4,7 +4,16 @@ summary: Towards natural and accurate future motion prediction of humans and ani
 tags:
 - Deep Learning
 - Motion Prediction
+authors:
+- shuangwu
+- Zhenguang Liu
+- Shuyuan Jin
+- Qi Liu
+- Shijian Lu
+- Roger Zimmermann
+- licheng
 date: "2019-04-27T00:00:00Z"
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://coderstellaj.github.io/Hierarchical-Motion-Recurrent-Network-Website/
