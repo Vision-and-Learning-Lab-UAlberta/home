@@ -30,10 +30,10 @@ education:
   courses:
   - course: Ph.D. in Electrical Engineering 
     institution: Yazd University, Iran
-    year: 2019-Now
+    year: 2015 - Now
   - course: M.Sc. in Electrical Engineering, Communication Systems Engineering
     institution: Yazd University, Iran
-    year: 2014-2019
+    year: 2011 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
