@@ -6,29 +6,29 @@
 
 
 [[main]]
+  name = "News"
+  url = "#posts"
+  weight = 10
+
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 20
+
+[[main]]
   name = "Publications"
   url = "#featured"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
   weight = 30
-
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 45
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 50
 
 [[main]]
   name = "People"
   url = "#people"
-  weight = 55
+  weight = 40
+
+[[main]]
+  name = "Journal Club"
+  url = "#talks"
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

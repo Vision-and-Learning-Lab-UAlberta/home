@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
-- Postdoc/Researchers
+- Postdoctoral Fellows
 ---
 Xinxin Zuo is Postdoctoral Fellow under the supervision of Prof. Li Cheng at University of Alberta and Prof. Minglun Gong at University of Guelph. She have graduated from the University of Kentucky with her Ph.D degree in 2019, advised by Prof. Ruigang Yang. Before that, She recieved my B.Eng. and M.Eng. degree from the School of Computer Science at Northwestern Polytechnical University in 2011 and 2014. Her research interests include Computer Vision and Computer Graphics, in particular in 3D Reconstruction and Human Modeling.
 
