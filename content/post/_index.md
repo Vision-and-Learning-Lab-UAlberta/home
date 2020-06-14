@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: News & Posts
 
 # View.
 #   1 = List
@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Find the full lists of news and posts here...

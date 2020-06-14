@@ -39,7 +39,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -63,8 +63,32 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
- 
+ css_style = "custom.scss"
  # CSS class.
  css_class = ""
 +++
+
+## Coming Talks:
+
+- **Generative Adversarial Minority Oversampling**, ICCV 2019
+  - By Hoang, June 14th - [Talk Slides] [[Original Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Mullick_Generative_Adversarial_Minority_Oversampling_ICCV_2019_paper.html)
+
+- **Structured Prediction Helps 3D Human Motion Modelling**, ICCV 2019
+  - By Chuan, June 21st - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/1910.09070)
+
+- **Learning from Demonstration in the Wild**, ICRA 2019
+  - By Youdong, June 27th - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/1811.03516)
+
+
+## Finished Talks:
+
+- **Tracking by Instance Detection: A Meta-Learning Approach**, CVPR 2020
+  - By Mojtaba, June 7th - [[Talk Slides]](/talk_slides/moj_june_7.pdf) [[Original Paper]](https://arxiv.org/abs/2004.00830)
+
+- **RigNet: Neural Rigging for Articulated Characters**, SIGGRAPH 2020
+  - By Sen, May 31st - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/2005.00559)
+
+- **D3S -- A Discriminative Single Shot Segmentation Tracker**, CVPR 2020
+  - By Javad, May 24th - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/1911.08862)
+
+Check [Full List](/talk).

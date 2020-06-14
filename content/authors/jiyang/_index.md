@@ -41,16 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jyang7@ualberta.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jyang7@ualberta.ca  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jiyangua/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=9tgfcy8AAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kulbear
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +69,9 @@ user_groups:
 - PhD Students
 ---
 
-Ji Yang is a PhD student at the Vision and Learning Lab. His research interests include computer vision and machine learning.
+Ji Yang is a PhD student with the Vision and Learning Lab at the
+Department of Electrical and Computer Engineering, University of Alberta.
+He received both his BSc Honors (2017) and MSc degree (2019) at the
+Department of Computing Science, University of Alberta.
+His research interests are mainly on computer vision, human hehavior
+analysis and machine learning.
