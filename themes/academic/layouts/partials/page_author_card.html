@@ -23,7 +23,7 @@
       <div class="media-body">
         <h5 class="card-title"><a href="{{$profile_url}}">{{.Title}}</a></h5>
         {{ with .Params.role }}<h6 class="card-subtitle">{{. | markdownify | emojify}}</h6>{{end}}
-        {{ with .Params.bio }}<p class="card-text">{{. | markdownify | emojify}}</p>{{end}}
+        <!-- {{ with .Params.bio }}<p class="card-text">{{. | markdownify | emojify}}</p>{{end}} -->
         {{ partial "social_links" . }}
       </div>
     </div>
