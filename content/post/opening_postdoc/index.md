@@ -1,12 +1,12 @@
 ---
-title: Our paper "SparseFusion Dynamic Human Avatar Modeling from Sparse RGBD Images" is accepted by IEEE TMM.  Congrats, Xinin & Sen!
+title: An opening for Postdoc researcher in Computer Vision and Machine Learning.
 subtitle: ''
 summary: ' '
-# authors:
-# - licheng
+authors:
+- licheng
 
 tags:
-- News
+- Recruiting
 
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
@@ -27,7 +27,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-<!-- Joining us...
+Joining us...
 ---------------------------------------------------------------------------------------
 The Vision & Learning Lab at the ECE Dept. University of Alberta, is inviting outstanding Postdoc candidates to join us. 
 
@@ -40,4 +40,4 @@ Potential candidates are requested to email their CVs (in PDF) to Li Cheng (lche
 
 About the PI...
 ---------------------------------------------------------------------------------------
-Li CHENG is an associate professor with the ECE Dept., University of Alberta, Canada. His research expertise is mainly in computer vision and machine learning, with application focus in both visual behavior analysis and biomedical image analysis. His research work has resulted in over 90 referred papers including those published at journals such as IEEE Trans. Pattern Analysis and Machine Intelligence, International Journal of Computer Vision, as well as conferences such as ICML, NIPS, ICCV, CVPR, MICCAI, and AAAI. He is a senior member of IEEE.  -->
+Li CHENG is an associate professor with the ECE Dept., University of Alberta, Canada. His research expertise is mainly in computer vision and machine learning, with application focus in both visual behavior analysis and biomedical image analysis. His research work has resulted in over 90 referred papers including those published at journals such as IEEE Trans. Pattern Analysis and Machine Intelligence, International Journal of Computer Vision, as well as conferences such as ICML, NIPS, ICCV, CVPR, MICCAI, and AAAI. He is a senior member of IEEE. 
