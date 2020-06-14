@@ -20,24 +20,25 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision and machine learning.
 
-
 interests:
 - Computer Vision
 - Machine Learning
 - Reinforcement Learning
 - Information Retrieval
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+Education
+======
+* Ph.D. candidate in Electrical and Computer Engineering  
+  University of Alberta, Canada, Jan 2019 - now  
+  Supervisor: Prof. [Li Cheng](https://www.ece.ualberta.ca/~lcheng5/)
+* M.Res. in Web Science and Big Data Analytics  
+  University College London, UK, Sept 2017 - Nov 2018  
+  Supervisor: Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)
+* B.S. in Electronic Information Engineering (Honor Class)  
+  Beijing Institute of Technology, China, Sept 2013 - June 2017  
+  Supervisor: Prof. [Huiqi Li](http://isc.bit.edu.cn/schools/iae/knowinprofessors10/113101.htm)
+* Exchange  
+  Hong Kong University of Science and Technology, Hong Kong, China, Sept 2016 - Jan 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,9 +54,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JimmyZou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +73,4 @@ user_groups:
 # - Visitors
 ---
 
-I am the first-year PhD student in the department of Electrical and Computer Engineering, University of Alberta, Canada. I am from Nanchang, China. My research interest includes computer vision and reinforcement learning (RL). I also participated in projects on multi-agent RL and some data mining topics, including information retrieval and natural language processing.
+I am a second-year PhD student in the department of Electrical and Computer Engineering, University of Alberta, Canada. I am from Nanchang, China. My research interest includes computer vision (CV) and reinforcement learning (RL). I also participated in projects on multi-agent RL and some data mining topics, including information retrieval and natural language processing. [My homepage](https://jimmyzou.github.io/)
