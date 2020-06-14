@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:cguo2@ualberta.ca".
+  link: mailto:cguo2@ualberta.ca  # For a direct email link, use "mailto:cguo2@ualberta.ca".
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -55,4 +55,4 @@ user_groups:
 - PhD Students
 ---
 
-Chuan Guo is the first year Phd student, under the supervision of Dr.Li Cheng. His work now focuses on modeling human motions, such as multi-modal human motion generation. He had two-year research experience in the Multimedia Group at Institute of Computing Technology, Chinese Academy of Sciences. Before that, he recieved his bachelor degree from Software Engineering College at Jilin University.
+Chuan Guo is the first year PhD student, under the supervision of Dr.Li Cheng. His work now focuses on modeling human motions, such as multi-modal human motion generation. He had two-year research experience in the Multimedia Group at Institute of Computing Technology, Chinese Academy of Sciences. Before that, he recieved his bachelor degree from Software Engineering College at Jilin University.

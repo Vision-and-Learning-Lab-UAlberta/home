@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ‘sen9@ualberta.ca’  # For a direct email link, use “mailto:test@example.org”.
+  link: sen9@ualberta.ca  # For a direct email link, use “mailto:test@example.org”.
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=QQTUl1cAAAAJ&hl=en

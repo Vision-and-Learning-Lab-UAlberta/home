@@ -23,14 +23,13 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Towards Natural and Accurate Future Motion Prediction of Humans and
-Animals"
-publication_short: ""
+publication: "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+publication_short: "CVPR"
 
 abstract: Anticipating the future motions of 3D articulate objects is challenging due to its non-linear and highly stochastic nature. Current approaches typically represent the skeleton of an articulate object as a set of 3D joints, which unfortunately ignores the relationship between joints, and fails to encode fine-grained anatomical constraints. Moreover, conventional recurrent neural networks, such as LSTM and GRU, are employed to model motion contexts, which inherently have difficulties in capturing long-term dependencies. To address these problems, we propose to explicitly encode anatomical constraints by modeling their skeletons with a Lie algebra representation. Importantly, a hierarchical recurrent network structure is developed to simultaneously encodes local contexts of individual frames and global contexts of the sequence. We proceed to explore the applications of our approach to several distinct quantities including human, fish, and mouse. Extensive experiments show that our approach achieves more natural and accurate predictions over state-of-the-art methods.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "A hierarchical recurrent network structure is developed to simultaneously encodes local contexts of individual frames and global contexts of the sequence."
 
 tags:
 - CVPR
@@ -38,7 +37,7 @@ featured: true
 
 links:
 # - name: Custom Link
-#   url: http://example.org
+# url: https://example.org
 url_pdf: https://www.ece.ualberta.ca/~lcheng5/papers/LiuEtAl_CVPR19.pdf
 url_code: 'https://github.com/BII-wushuang/Lie-Group-Motion-Prediction'
 # url_dataset: '#'
@@ -71,7 +70,7 @@ projects:
 slides: ""
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -79,5 +78,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
 

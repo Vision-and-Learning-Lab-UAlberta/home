@@ -1,7 +1,7 @@
 ---
 title: An opening for Postdoc researcher in Computer Vision and Machine Learning.
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+subtitle: ''
+summary: ' '
 authors:
 - licheng
 
@@ -23,7 +23,7 @@ projects: []
 math: true
 diagram: true
 image:
-  placement: 3
+  placement: 1
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
@@ -33,7 +33,7 @@ The Vision & Learning Lab at the ECE Dept. University of Alberta, is inviting ou
 
 We are setting up a new lab at the ECE Dept., University of Alberta, focusing on exciting research topics in computer vision and machine learning. We are looking for exceptional Postdocs to join us.
 
-Further information about the PI, Dr. Li Cheng, can be found below, or via  https://www.ece.ualberta.ca/~lcheng5/ or by direct inquiries to lcheng5@ualberta.ca. 
+Further information about the PI, Dr. Li Cheng, can be found below, or via https://www.ece.ualberta.ca/~lcheng5/ or by direct inquiries to lcheng5@ualberta.ca. 
 
 Potential candidates are requested to email their CVs (in PDF) to Li Cheng (lcheng5@ualberta.ca). 
 
