@@ -5,7 +5,7 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Vision and Learning Lab @ UAlberta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab @ UAlberta 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Vision and Learning Lab @ UAlberta</title>
@@ -55,28 +55,6 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://vision-and-learning-lab-ualberta.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://vision-and-learning-lab-ualberta.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>3D Pose Estimation and Future Motion Prediction from 2D Images</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/project/jiyang_multitask_2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -94,18 +72,21 @@
       <link>https://vision-and-learning-lab-ualberta.github.io/publication/shuangwu_hmr_2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shuangwu_hmr_2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -253,13 +234,13 @@ Three
     
     <item>
       <title>An opening for Postdoc researcher in Computer Vision and Machine Learning.</title>
-      <link>https://vision-and-learning-lab-ualberta.github.io/post/writing-technical-content/</link>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/opening_postdoc/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://vision-and-learning-lab-ualberta.github.io/post/writing-technical-content/</guid>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/opening_postdoc/</guid>
       <description>&lt;h2 id=&#34;joining-us&#34;&gt;Joining us&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;The Vision &amp;amp; Learning Lab at the ECE Dept. University of Alberta, is inviting outstanding Postdoc candidates to join us.&lt;/p&gt;
 &lt;p&gt;We are setting up a new lab at the ECE Dept., University of Alberta, focusing on exciting research topics in computer vision and machine learning. We are looking for exceptional Postdocs to join us.&lt;/p&gt;
-&lt;p&gt;Further information about the PI, Dr. Li Cheng, can be found below, or via  &lt;a href=&#34;https://www.ece.ualberta.ca/~lcheng5/&#34;&gt;https://www.ece.ualberta.ca/~lcheng5/&lt;/a&gt; or by direct inquiries to &lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further information about the PI, Dr. Li Cheng, can be found below, or via &lt;a href=&#34;https://www.ece.ualberta.ca/~lcheng5/&#34;&gt;https://www.ece.ualberta.ca/~lcheng5/&lt;/a&gt; or by direct inquiries to &lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Potential candidates are requested to email their CVs (in PDF) to Li Cheng (&lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;).&lt;/p&gt;
 &lt;h2 id=&#34;about-the-pi&#34;&gt;About the PI&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;Li CHENG is an associate professor with the ECE Dept., University of Alberta, Canada. His research expertise is mainly in computer vision and machine learning, with application focus in both visual behavior analysis and biomedical image analysis. His research work has resulted in over 90 referred papers including those published at journals such as IEEE Trans. Pattern Analysis and Machine Intelligence, International Journal of Computer Vision, as well as conferences such as ICML, NIPS, ICCV, CVPR, MICCAI, and AAAI. He is a senior member of IEEE.&lt;/p&gt;
