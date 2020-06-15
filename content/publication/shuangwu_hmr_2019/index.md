@@ -39,13 +39,14 @@ links:
 # - name: Custom Link
 # url: https://example.org
 url_pdf: https://www.ece.ualberta.ca/~lcheng5/papers/LiuEtAl_CVPR19.pdf
-url_code: 'https://github.com/BII-wushuang/Lie-Group-Motion-Prediction'
+url_code: https://github.com/BII-wushuang/Lie-Group-Motion-Prediction
 # url_dataset: '#'
 # url_poster: '#'
 url_project: 'https://coderstellaj.github.io/Hierarchical-Motion-Recurrent-Network-Website/'
 # url_slides: ''
 # url_source: '#'
 url_video: 'https://www.youtube.com/watch?v=qi33KKUzrVA&feature=emb_title'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

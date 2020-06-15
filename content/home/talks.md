@@ -89,6 +89,6 @@ subtitle = ""
   - By Sen, May 31st - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/2005.00559)
 
 - **D3S -- A Discriminative Single Shot Segmentation Tracker**, CVPR 2020
-  - By Javad, May 24th - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/1911.08862)
-
+  - By Javad, May 24th - [[Talk Slides]](/talk_slides/javad_may_24.pptx) [[Original Paper]](https://arxiv.org/abs/1911.08862)
+  
 Check [Full List](/talk).
