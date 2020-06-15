@@ -26,19 +26,35 @@ interests:
 - Reinforcement Learning
 - Information Retrieval
 
-Education
-======
-* Ph.D. candidate in Electrical and Computer Engineering  
-  University of Alberta, Canada, Jan 2019 - now  
-  Supervisor: Prof. [Li Cheng](https://www.ece.ualberta.ca/~lcheng5/)
-* M.Res. in Web Science and Big Data Analytics  
-  University College London, UK, Sept 2017 - Nov 2018  
-  Supervisor: Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)
-* B.S. in Electronic Information Engineering (Honor Class)  
-  Beijing Institute of Technology, China, Sept 2013 - June 2017  
-  Supervisor: Prof. [Huiqi Li](http://isc.bit.edu.cn/schools/iae/knowinprofessors10/113101.htm)
-* Exchange  
-  Hong Kong University of Science and Technology, Hong Kong, China, Sept 2016 - Jan 2017
+
+education:
+  courses:
+  - course: Ph.D. candidate in Electrical and Computer Engineering  
+    institution: University of Alberta, Canada
+    year: Jan 2019 - Now
+  - course: M.Res. in Web Science and Big Data Analytics 
+    institution: University College London, UK
+    year: Sept 2017 - Nov 2018
+  - course: B.S. in Electronic Information Engineering (Honor Class) 
+    institution: Beijing Institute of Technology, China
+    year: Sept 2013 - June 2017
+  - course: Exchange 
+    institution: Hong Kong University of Science and Technology, Hong Kong, China
+    year: Sept 2016 - Jan 2017
+
+# Education
+# ======
+# * Ph.D. candidate in Electrical and Computer Engineering  
+#   University of Alberta, Canada, Jan 2019 - now  
+#   Supervisor: Prof. [Li Cheng](https://www.ece.ualberta.ca/~lcheng5/)
+# * M.Res. in Web Science and Big Data Analytics  
+#   University College London, UK, Sept 2017 - Nov 2018  
+#   Supervisor: Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)
+# * B.S. in Electronic Information Engineering (Honor Class)  
+#   Beijing Institute of Technology, China, Sept 2013 - June 2017  
+#   Supervisor: Prof. [Huiqi Li](http://isc.bit.edu.cn/schools/iae/knowinprofessors10/113101.htm)
+# * Exchange  
+#   Hong Kong University of Science and Technology, Hong Kong, China, Sept 2016 - Jan 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
