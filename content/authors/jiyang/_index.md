@@ -66,7 +66,8 @@ email: "jyang7@ualberta.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+#- PhD Students
+- Lab Members
 ---
 
 Ji Yang is a PhD student with the Vision and Learning Lab at the

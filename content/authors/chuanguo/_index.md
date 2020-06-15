@@ -52,7 +52,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+#- PhD Students
+- Lab Members
 ---
 
 Chuan Guo is the first year PhD student, under the supervision of Dr.Li Cheng. His work now focuses on modeling human motions, such as multi-modal human motion generation. He had two-year research experience in the Multimedia Group at Institute of Computing Technology, Chinese Academy of Sciences. Before that, he recieved his bachelor degree from Software Engineering College at Jilin University.
