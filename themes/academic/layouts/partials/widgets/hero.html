@@ -4,7 +4,7 @@
 
 {{ if $page.Params.hero_media }}
 <div class="row">
-  <div class="col-md-12 order-md-12 text-center">
+  <div class="col-md-8 order-md-8 text-center">
 {{ end }}
 
     <h1 class="hero-title text-center">
@@ -55,11 +55,11 @@
     </p>
     {{ end }}
 
-  <!-- {{/* Hero image */}}
+  {{/* Hero image */}}
   {{ if $page.Params.hero_media }}
   </div>
-  <div class="col-6 mx-auto col-md-6 order-md-2 hero-media">
+  <div class="col-6 mx-auto col-md-4 order-md-8 hero-media">
     <img src="{{ printf "img/%s" $page.Params.hero_media | relURL }}" alt="">
   </div>
 </div>
-{{ end }} -->
+{{ end }}
