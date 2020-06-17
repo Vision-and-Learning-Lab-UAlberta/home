@@ -51,4 +51,4 @@ hero_media = "lab_photo.jpg"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Vision and Learning Lab is led by Dr. Li Cheng at the Department of Electrical and Computer Engineering, University of Alberta. Our research centers around computer vision, machine learning, biomedical image anlysis, and multimedia signal processing. 
+Vision and Learning Lab is led by Dr. Li Cheng at the Department of Electrical and Computer Engineering, University of Alberta. Our research centers around computer vision, machine learning, visual behavior analysis, biomedical image anlysis, and multimedia signal processing. 
