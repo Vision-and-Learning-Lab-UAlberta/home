@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Youdong
+title: Youdong Ma
 
 # Username (this should match the folder name)
 authors:
@@ -61,7 +61,7 @@ email: youdong@ualberta.ca
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- - Lab Members
+- Lab Members
 ---
 
 Youdong Ma obtained his BSc in Computing Science from University of Alberta in 2016. 
