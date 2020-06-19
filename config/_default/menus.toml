@@ -8,7 +8,6 @@
 # https://vision-and-learning-lab-ualberta.github.io/
 
 
-
 [[main]]
   name = "News"
   url = "#posts"

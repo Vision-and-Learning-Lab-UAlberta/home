@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ji Yang
+title: Youdong Ma
 
 # Username (this should match the folder name)
 authors:
-- jiyang
+- youdongma
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and machine learning.
+bio: My research interests is human behavior analysis using modern machine learning tools.
 
 interests:
-- Machine Learning
 - Computer Vision
+- Action Detection
 - Deep Learning
 
 education:
   courses:
-  - course: MSc in Computing Science (Sp. Multimedia)
+  - course: MSc in Computer Engineering
     institution: University of Alberta
-    year: 2019
-  - course: BSc in Computing Science (Honors)
+    year: 2020 - Now
+  
+  - course: BSc in Computing Science 
     institution: University of Alberta
-    year: 2017
+    year: 2013 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,19 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jyang7@ualberta.ca  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:youdong@ualberta.ca
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jiyangua/
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=9tgfcy8AAAAJ
+  link: https://www.linkedin.com/in/youdong-ma-526a54b3/
 - icon: github
   icon_pack: fab
-  link: https://github.com/kulbear
+  link: https://github.com/mayoudong1993
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,18 +56,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: jyang7@ualberta.ca
+email: youdong@ualberta.ca
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#- PhD Students
 - Lab Members
 ---
 
-Ji Yang is a PhD student with the Vision and Learning Lab at the
-Department of Electrical and Computer Engineering, University of Alberta.
-He received both his BSc Honors (2017) and MSc degree (2019) at the
-Department of Computing Science, University of Alberta.
-His research interests are mainly on computer vision, human hehavior
-analysis and machine learning.
+Youdong Ma obtained his BSc in Computing Science from University of Alberta in 2016. 
+He is a first-year master student with Vision and Learning Lab at the Department of 
+Electrical and Computer Engineering, University of Alberta. His research interest 
+is computer vision and human behavior analysis.
