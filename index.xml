@@ -5,7 +5,7 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Vision and Learning Lab @ UAlberta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Vision and Learning Lab @ UAlberta</title>
@@ -55,10 +55,10 @@
     </item>
     
     <item>
-      <title>Our paper &#34;SparseFusion Dynamic Human Avatar Modeling from Sparse RGBD Images&#34; is accepted by IEEE TMM.  Congrats, Xinin &amp; Sen!</title>
-      <link>https://vision-and-learning-lab-ualberta.github.io/post/gratz_sen_xinxin/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://vision-and-learning-lab-ualberta.github.io/post/gratz_sen_xinxin/</guid>
+      <title>SparseFusion: Dynamic Human Avatar Modeling from Sparse RGBD Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xinxin_tmm_2020/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xinxin_tmm_2020/</guid>
       <description></description>
     </item>
     
@@ -241,7 +241,7 @@ Three
     </item>
     
     <item>
-      <title>An opening for Postdoc researcher in Computer Vision and Machine Learning.</title>
+      <title></title>
       <link>https://vision-and-learning-lab-ualberta.github.io/post/opening_postdoc/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://vision-and-learning-lab-ualberta.github.io/post/opening_postdoc/</guid>
