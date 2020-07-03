@@ -47,5 +47,5 @@ header:
   - By Ji, April 26th - [[Talk Slides]](/talk_slides/ji_april_26.pdf) [[Original Paper]](https://arxiv.org/abs/1912.05656)
 
 - **Timeception for Complex Action Recognition**, CVPR 2019 
-  - By Mahdiar, April 19th - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/1812.01289)
+  - By Mahdiar, April 19th - [[Talk Slides]](/talk_slides/mahdiar_april_19.pptx) [[Original Paper]](https://arxiv.org/abs/1812.01289)
 
