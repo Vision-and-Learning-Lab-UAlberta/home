@@ -27,7 +27,7 @@ header:
 ### May 2020:
 
 - **RigNet: Neural Rigging for Articulated Characters**, SIGGRAPH 2020
-  - By Sen, May 31st - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/2005.00559)
+  - By Sen, May 31st - [[Talk Slides]](/talk_slides/sen_may_31.pdf) [[Original Paper]](https://arxiv.org/abs/2005.00559)
 
 - **D3S -- A Discriminative Single Shot Segmentation Tracker**, CVPR 2020
   - By Javad, May 24th - [[Talk Slides]](/talk_slides/javad_may_24.pptx) [[Original Paper]](https://arxiv.org/abs/1911.08862)

@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
+  - course: PhD in Electrical and Computer Engineering
+    institution: University of Alberta
+    year: 2019 - Now
   - course: MSc in Computing Science (Sp. Multimedia)
     institution: University of Alberta
-    year: 2019
+    year: 2017 - 2019
   - course: BSc in Computing Science (Honors)
     institution: University of Alberta
-    year: 2017
+    year: 2012 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
