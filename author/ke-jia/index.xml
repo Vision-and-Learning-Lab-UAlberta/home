@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ke Jia | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/ke-jia/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/ke-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ke Jia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ke Jia</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/ke-jia/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Learning to Label Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/jia-che-liu-wan-icpr-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/jia-che-liu-wan-icpr-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

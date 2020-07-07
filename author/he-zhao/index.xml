@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>He Zhao | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/he-zhao/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/he-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>He Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>He Zhao</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/he-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Improving retinal vessel segmentation with joint local loss by matting</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-pr-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-pr-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Segmentation of Un-annotated Retinal Fundus Images by Synthesis</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tmi-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tmi-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Retinal and Neuronal Images with Generative Adversarial Nets</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-med-ia-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-med-ia-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

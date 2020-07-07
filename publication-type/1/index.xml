@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Fully automated leg movement tracking in freely moving insects using Feature Learning Leg Segmentation and Tracking (FLLIT)</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/ban-et-al-jo-ve-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/ban-et-al-jo-ve-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Natural and Accurate Future Motion Prediction of Humans and Animals</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/publication/shuangwu_hmr_2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -41,6 +49,350 @@
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Multi-modal Multi-task Learning for Automatic Dietary Assessment</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiview and Multimodal Pervasive Indoor Localization</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-mm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-mm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative localization of a Golgi protein by imaging its fluorescence center of mass</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-jo-ve-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-jo-ve-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing Complex Activities by a Probabilistic Interval-based Model</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Self-Tuning Multiclass Classification Approach</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/qia-gon-che-cai-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/qia-gon-che-cai-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GHand: A GPU algorithm for realtime hand pose estimation using depth camera</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/nan-chi-che-eurographics-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/nan-chi-che-eurographics-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Boost Filamentary Structure Segmentation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gu-che-iccv-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gu-che-iccv-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Multivariate Regression with Grossly Corrupted Observations and Its Application to Personality Prediction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-che-zhu-acml-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-che-zhu-acml-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Random-Forest Random Field Approach for Cellular Image Segmentation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/jin-et-al-isbi-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/jin-et-al-isbi-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing Retinal Blood Vessels by Matrix-Forest Theorem of Directed Graphs</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Tracing of Retinal Blood Vessels Using Graphical Models</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/jay-et-al-scia-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/jay-et-al-scia-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Hand Pose Estimation from a Single Depth Image</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xu-che-iccv-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xu-che-iccv-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Distinctive Shape Features for Hematoma Classification in Brain CT Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gon-et-al-ictai-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gon-et-al-ictai-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riemannian Similarity Learning</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-icml-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-icml-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bag-of-Words Model for Cellular Image Segmentation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-springerbkchapt-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-springerbkchapt-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Cellular Segmentation for Microscopic Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foreground Segmentation of Live Videos using Locally Competing 1SVMs</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-cvpr-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-cvpr-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Estimated Motion in Real-time Background Subtraction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-icip-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-icip-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Learning to Label Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/jia-che-liu-wan-icpr-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/jia-che-liu-wan-icpr-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Action Recognition and Localization in Video using Structured Learning of Local Space-Time Features</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-sat-avss-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-sat-avss-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Action Recognition from Boosted Pose Estimation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wan-che-thi-zha-dicta-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wan-che-thi-zha-dicta-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit Motion-Shape Model: A generic approach for action matching</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-icpr-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-icpr-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference of the Structural Credit Risk Model using MLE</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/li-che-sch-cife-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/li-che-sch-cife-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based multiview video coding</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/bao-et-al-pcs-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/bao-et-al-pcs-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Background Subtraction from Dynamic Scenes</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-gon-iccv-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-gon-iccv-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-Driven Lossy Compression for Images and Video</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/bre-et-al-ivcnz-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/bre-et-al-ivcnz-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent image analogies using semi-supervised learning</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-vis-zha-cvpr-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-vis-zha-cvpr-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Human Action Segmentation and Recognition using. Semi-Markov Model</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shi-wan-che-smo-cvpr-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shi-wan-che-smo-cvpr-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction and Change Detection In Sequential Data for Interactive Applications</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-aaai-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-aaai-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Human Inputs on Semi-automatic Image Interpretation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-cae-bis-hcii-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-cae-bis-hcii-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Matching</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/cae-che-le-smo-iccv-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/cae-che-le-smo-iccv-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to compress images and videos</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-vis-cvpr-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-vis-cvpr-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Analysis of Lexical and Semantic for Enhanced Structural Language Model</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-che-gre-sch-icgi-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-che-gre-sch-icgi-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Learning Approach for Semi-automatic Road Tracking</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-prrs-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-prrs-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Discriminative Approach to Background Subtraction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-wan-sch-cae-vis-avss-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-wan-sch-cae-vis-avss-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting syntactic, semantic and lexical regularities in language modeling via directed Markov random fields</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-gre-sch-che-icml-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-gre-sch-che-icml-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Bayesian image modelling</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-jia-sch-wan-icml-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-jia-sch-wan-icml-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Stereo Matching</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-gmbv-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-gmbv-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forestry Scene Geometry Estimation via Statistical Learning</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-lcvpr-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-lcvpr-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach to Image Understanding: From Images to Virtual Forests</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doubly-MRF Stereo Matching</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icassp-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icassp-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Image Segmentation: A Bayesian Approach</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-a/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Trainable Hierarchical Hidden Markov Tree Model for color image Annotation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icpr-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icpr-02/</guid>
+      <description></description>
     </item>
     
   </channel>

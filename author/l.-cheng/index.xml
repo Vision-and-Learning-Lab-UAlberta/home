@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Cheng | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/l.-cheng/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/l.-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Cheng</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/l.-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Fully automated leg tracking of Drosophila neurodegeneration models reveals distinct conserved movement signatures</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wu-et-al-plos-bio-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wu-et-al-plos-bio-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Too Far to See? Not Really! Pedestrian Detection with Scale-aware Localization Policy</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transduction on Directed Graphs via Absorbing Random Walks</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tpami-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tpami-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion of Magnetic and Vision sensors for indoor localization: Infrastructure-free and More Effective</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-tmm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-tmm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand Action Detection from Ego-centric Depth Sequences</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xu-gov-che-pr-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xu-gov-che-pr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiview and Multimodal Pervasive Indoor Localization</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-mm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-mm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose Estimation from Line Correspondences: A Complete Analysis and A Series of Solutions</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-tpami-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-tpami-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative 3D analysis of complex single border cell behaviors in coordinated collective cell migration</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/cli-et-al-nc-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/cli-et-al-nc-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative localization of a Golgi protein by imaging its fluorescence center of mass</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-jo-ve-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-jo-ve-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segment 2D and 3D Filaments by Learning Structured and Contextual Features</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gu-et-al-tmi-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gu-et-al-tmi-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Graph-theoretical Approach for Tracing Filamentary Structures in Neuronal and Retinal Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tmi-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tmi-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel imaging method for quantitative Golgi localization reveals differential intra-Golgi trafficking of secretory cargos</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-m-bo-c-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-m-bo-c-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Recognition in Still Images with Minimum Annotation Efforts</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimate Hand Poses Efficiently from Single Depth Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Regularized Least Squares for Dimensionality Reduction of Large-Scale Data</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-sisc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-sisc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuronCyto II: An Automatic and Quantitative Solution for Crossover Neural Cells in High Throughput Screening</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/ong-et-al-cyto-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/ong-et-al-cyto-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Image Based Prominent Nucleoli Detection</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/yap-et-al-jpi-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/yap-et-al-jpi-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Foreground Segmentation and Boundary Matting for Live Videos</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gon-qia-che-tip-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gon-qia-che-tip-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Random-Forest Random Field Approach for Cellular Image Segmentation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/jin-et-al-isbi-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/jin-et-al-isbi-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myopia in Asian Subjects with Primary Angle Closure: Implications for Glaucoma Trends in East Asia</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/yon-et-al-optho-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/yon-et-al-optho-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing Flu-like Symptoms from Videos</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-bmcbioinfo-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-bmcbioinfo-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anterior segment optical coherence tomography parameters in subtypes of primary angle closure</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/guz-et-al-iovs-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/guz-et-al-iovs-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subgrouping of Primary Angle-Closure Suspects Based on Anterior Segment Optical Coherence Tomography Parameters</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/non-et-al-optho-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/non-et-al-optho-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

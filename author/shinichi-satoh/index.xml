@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shinichi Satoh | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/shinichi-satoh/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/shinichi-satoh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shinichi Satoh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shinichi Satoh</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/shinichi-satoh/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Local Action Elements for Action Analysis</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-cviu-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-cviu-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured learning of local features for human action classification and localization</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-ivc-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-ivc-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Action Recognition and Localization in Video using Structured Learning of Local Space-Time Features</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-sat-avss-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-sat-avss-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

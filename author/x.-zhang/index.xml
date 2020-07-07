@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Zhang | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/x.-zhang/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/x.-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>X. Zhang</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/x.-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Least Squares Approximation via Sparse Subsampled Randomized Hadamard Transform</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/ten-et-al-tbd-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/ten-et-al-tbd-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Too Far to See? Not Really! Pedestrian Detection with Scale-aware Localization Policy</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transduction on Directed Graphs via Absorbing Random Walks</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tpami-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tpami-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segment 2D and 3D Filaments by Learning Structured and Contextual Features</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gu-et-al-tmi-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gu-et-al-tmi-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Graph-theoretical Approach for Tracing Filamentary Structures in Neuronal and Retinal Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tmi-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tmi-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimate Hand Poses Efficiently from Single Depth Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Regularized Least Squares for Dimensionality Reduction of Large-Scale Data</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-sisc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-sisc-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

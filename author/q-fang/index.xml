@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Q Fang | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/q-fang/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/q-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Q Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Q Fang</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/q-fang/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Image Understanding: From Images to Virtual Forests</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-fan-ijcra-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-fan-ijcra-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach to Image Understanding: From Images to Virtual Forests</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

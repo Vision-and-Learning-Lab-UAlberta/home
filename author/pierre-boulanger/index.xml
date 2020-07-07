@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Boulanger | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/pierre-boulanger/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/pierre-boulanger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre Boulanger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pierre Boulanger</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/pierre-boulanger/</link>
+    </image>
+    
+    <item>
+      <title>Learning-based multiview video coding</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/bao-et-al-pcs-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/bao-et-al-pcs-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
