@@ -1,5 +1,5 @@
 ---
-title: "Detailed Human Shanpe and Pose Estimation from a Single Polarization image"
+title: "3D Human Shape Reconstruction from a Polarization Image"
 authors:
 - shihaozou
 - xinxinzuo
@@ -25,12 +25,9 @@ publication_types: ["1"]
 publication: "Proceedings of the European Conference on Computer Vision"
 publication_short: "ECCV"
 
-abstract: This paper tackles a new problem of estimating detailed 3D human shape from a single polarized 2D image, i.e. a polarization image. Polarization images are known to be able to capture polarized reflected lights that preserve rich geometric cues of an object, which has motivated its recent applications in reconstructing detailed surface normal of the objects of interest. Meanwhile, inspired by the recent breakthroughs in human shape estimation from a single color image, in this paper, we investigate the new question of whether the geometric cues from polarization camera could be leveraged in estimating detailed human body shapes. This has led to the curation of Polarization Human Shape and Pose Dataset (PHSPD), our home-grown polarization image dataset of various human shapes and poses. A dedicated deep learning approach is also proposed, that is composed of two stages: stage 1 aims at inferring the surface normal that retains individuals' fine surface shapes including clothing details; stage 2 is responsible for reconstructing detailed 3D body shapes based on a rough shape model (SMPL). Empirical evaluations on a synthetic SURREAL dataset as well as real-life PHSPD dataset demonstrate the competitive performance of our approach in estimating human shapes and poses. It suggests that polarization camera could be a promising alternative to 2D color and 3D depth imaging for human shape and pose estimation. In particular, normal maps from polarization imaging help in accurately recovering human shapes with clothing details.
-
-Test whether I can add other cotents here followed the abstract.
-
+abstract: This paper tackles the problem of estimating 3D body shape of clothed humans from single polarized 2D images, i.e. polarization images. Polarization images are known to be able to capture polarized reflected lights that preserve rich geometric cues of an object, which has motivated its recent applications in reconstructing surface normal of the objects of interest. Inspired by the recent advances in human shape estimation from single color images, in this paper, we attempt at estimating human body shapes by leveraging the geometric cues from single polarization images. A dedicated two-stage deep learning approach, SfP, is proposed: given a polarization image, stage one aims at inferring the fined-detailed body surface normal; stage two gears to reconstruct the 3D body shape of clothing details. Empirical evaluations on a synthetic dataset (SURREAL) as well as a real-world dataset (PHSPD) demonstrate the qualitative and quantitative performance of our approach in estimating human poses and shapes. This indicates polarization camera is a promising alternative to the more conventional color or depth imaging for human shape estimation. Further, normal maps inferred from polarization imaging play a significant role in accurately recovering the body shapes of clothed people.
 # Summary. An optional shortened abstract.
-summary: "This paper tackles a new problem of estimating detailed 3D human shape from a single polarized 2D image, i.e. a polarization image."
+summary: "This paper tackles a new problem of estimating 3D body shape of clothed humans from single polarized 2D images, i.e. a polarization image."
 
 tags:
 - ECCV
@@ -39,11 +36,11 @@ featured: true
 links:
 # - name: Custom Link
 # url: https://example.org
-url_pdf: '#'
+url_pdf: https://jimmyzou.github.io/files/eccv2020.pdf
 url_code: '#'
-url_dataset: '#'
+url_dataset: https://jimmyzou.github.io/publication/2020-PHSPDataset
 # url_poster: '#'
-# url_project: 
+url_project: https://jimmyzou.github.io/publication/2020-polarization-clothed-human-shape
 # url_slides: ''
 # url_source: '#'
 url_video: '#'
