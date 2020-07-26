@@ -5,7 +5,7 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/post/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>News &amp; Posts</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Our paper on 3D human shape estimation from polarization images is accepted by ECCV 2020</title>
+      <title>Our paper &#34;Action2Motion: Conditioned Generation of 3-D Human Motions&#34; is accepted by ACM Multimedia 2020</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;3D Human Shape Reconstruction from a Polarization Image&#34; is accepted by ECCV 2020</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/post/zou_eccv2020/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://vision-and-learning-lab-ualberta.github.io/post/zou_eccv2020/</guid>

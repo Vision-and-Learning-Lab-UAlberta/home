@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingyao Sun | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/qingyao-sun/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/qingyao-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingyao Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Qingyao Sun</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/qingyao-sun/</link>
+    </image>
+    
+    <item>
+      <title>Our paper &#34;Action2Motion: Conditioned Generation of 3-D Human Motions&#34; is accepted by ACM Multimedia 2020</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
