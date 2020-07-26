@@ -6,6 +6,6 @@ authors: ["S. Wu", "K. Tan", "L. Govindarajan", "J. Stewart", "H. Zhu", "L. Gu",
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*PLoS Biology*"
+publication: "*PLoS Computational Biology*"
 ---
 

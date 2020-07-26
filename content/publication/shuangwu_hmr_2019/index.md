@@ -42,7 +42,7 @@ url_pdf: https://www.ece.ualberta.ca/~lcheng5/papers/LiuEtAl_CVPR19.pdf
 url_code: https://github.com/BII-wushuang/Lie-Group-Motion-Prediction
 # url_dataset: '#'
 # url_poster: '#'
-url_project: 'https://coderstellaj.github.io/Hierarchical-Motion-Recurrent-Network-Website/'
+url_project: https://coderstellaj.github.io/Hierarchical-Motion-Recurrent-Network-Website/
 # url_slides: ''
 # url_source: '#'
 url_video: 'https://www.youtube.com/watch?v=qi33KKUzrVA&feature=emb_title'
@@ -60,8 +60,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- shuang_hmr_2019
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
