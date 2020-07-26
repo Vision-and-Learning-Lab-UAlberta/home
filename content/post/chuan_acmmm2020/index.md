@@ -1,16 +1,20 @@
 ---
-title: Our paper "3D Human Shape Reconstruction from a Polarization Image" is accepted by ECCV 2020
+title: "Our paper \"Action2Motion: Conditioned Generation of 3-D Human Motions\" is accepted by ACM Multimedia 2020"
 subtitle: ''
 summary: ' '
 authors:
-- shihaozou
+- chuanguo
 - xinxinzuo
 - senwang
+- shihaozou
+- Qingyao Sun
+- Annan Deng
+- Minglun Gong
 - licheng
 
 tags:
-date: "2020-07-04T00:00:00Z"
-lastmod: "2020-07-04T00:00:00Z"
+date: "2020-07-25T00:00:00Z"
+lastmod: "2020-07-25T00:00:00Z"
 featured: false
 draft: false
 
