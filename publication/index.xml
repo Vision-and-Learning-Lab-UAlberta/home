@@ -5,12 +5,20 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/publication/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Action2Motion: Conditioned Generation of 3D Human Motions</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3D Human Shape Reconstruction from a Polarization Image</title>
