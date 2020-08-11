@@ -13,7 +13,32 @@ header:
   image: ""
 ---
 
+### August 2020:
+
+- **MonoPerfCap: Human Performance Capture from Monocular Video**, TOG 2018 & **LiveCap: Real-time Human Performance Capture from Monocular Video**, TOG 2019
+  - By Xinxin, August 9th - [Talk Slides] [[Original Paper 1]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) [[Original Paper 2]](https://gvv.mpi-inf.mpg.de/projects/LiveCap/data/livecap.pdf)
+
+- **Listen to Look: Action Recognition by Previewing Audio**, CVPR 2020
+  - By TK, August 2nd - [[Talk Slides]](/talk_slides/shihao_july_26.pdf) [[Original Paper]](https://arxiv.org/pdf/1912.04487.pdf)
+
+### July 2020:
+
+- **EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera**, CVPR 2020
+  - By Shihao, July 26th - [[Talk Slides]](/talk_slides/shihao_july_26.pdf) [[Original Paper]](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)
+
+- **DeepCap: Monocular Human Performance Capture Using Weak Supervision**, CVPR 2020
+  - By Ji, July 19th - [[Talk Slides]](/talk_slides/ji_july_19.pdf) [[Original Paper]](https://people.mpi-inf.mpg.de/~mhaberma/projects/2020-cvpr-deepcap/data/paper.pdf)
+
+- **Long-term Human Motion Prediction with Scene Context**, ECCV 2020
+  - By Mahdiar, July 12th - [[Talk Slides]](/talk_slides/mahdiar_july_12.pdf) [[Original Paper]](https://arxiv.org/pdf/2007.03672.pdf)
+
+- **Deep Multi-View Learning via Task-Optimal CCA**, ICLR 2020
+  - By He, July 5th - [Talk Slides] [[Original Paper]](https://arxiv.org/pdf/1907.07739.pdf)
+
 ### June 2020:
+
+- **Learning from Demonstration in the Wild**, ICRA 2019
+  - By Youdong, June 27th - [[Talk Slides]](/talk_slides/youdong_june_27.pptx) [[Original Paper]](https://arxiv.org/abs/1811.03516)
 
 - **Structured Prediction Helps 3D Human Motion Modelling**, ICCV 2019
   - By Chuan, June 21st - [[Talk Slides]](/talk_slides/chuan_june_21.pdf) [[Original Paper]](https://arxiv.org/abs/1910.09070)

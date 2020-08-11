@@ -70,19 +70,19 @@ subtitle = ""
 
 ## Coming Talks:
 
-- **Learning from Demonstration in the Wild**, ICRA 2019
-  - By Youdong, June 27th - [Talk Slides] [[Original Paper]](https://arxiv.org/abs/1811.03516)
+- **MonoPerfCap: Human Performance Capture from Monocular Video**, TOG 2018 & **LiveCap: Real-time Human Performance Capture from Monocular Video**, TOG 2019
+  - By Xinxin, August 9th - [Talk Slides] [[Original Paper 1]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) [[Original Paper 2]](https://gvv.mpi-inf.mpg.de/projects/LiveCap/data/livecap.pdf)
 
 
 ## Finished Talks:
 
-- **Structured Prediction Helps 3D Human Motion Modelling**, ICCV 2019
-  - By Chuan, June 21st - [[Talk Slides]](/talk_slides/chuan_june_21.pdf) [[Original Paper]](https://arxiv.org/abs/1910.09070)
+- **EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera**, CVPR 2020
+  - By Shihao, July 26th - [[Talk Slides]](/talk_slides/shihao_july_26.pdf) [[Original Paper]](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)
 
-- **Tracking by Instance Detection: A Meta-Learning Approach**, CVPR 2020
-  - By Mojtaba, June 7th - [[Talk Slides]](/talk_slides/moj_june_7.pdf) [[Original Paper]](https://arxiv.org/abs/2004.00830)
+- **DeepCap: Monocular Human Performance Capture Using Weak Supervision**, CVPR 2020
+  - By Ji, July 19th - [[Talk Slides]](/talk_slides/ji_july_19.pdf) [[Original Paper]](https://people.mpi-inf.mpg.de/~mhaberma/projects/2020-cvpr-deepcap/data/paper.pdf)
 
-- **D3S -- A Discriminative Single Shot Segmentation Tracker**, CVPR 2020
-  - By Javad, May 24th - [[Talk Slides]](/talk_slides/javad_may_24.pptx) [[Original Paper]](https://arxiv.org/abs/1911.08862)
+- **Long-term Human Motion Prediction with Scene Context**, ECCV 2020
+  - By Mahdiar, July 12th - [[Talk Slides]](/talk_slides/mahdiar_july_12.pdf) [[Original Paper]](https://arxiv.org/pdf/2007.03672.pdf)
 
 Check [Full List](/talk).
