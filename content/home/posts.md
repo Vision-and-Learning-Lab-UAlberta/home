@@ -66,3 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<i class="far fa-newspaper pub-icon" aria-hidden="true"></i>Wei and Jingjing join our Lab as new PhD students this September - Welcome, Wei & Jingjing
+
+<i class="far fa-newspaper pub-icon" aria-hidden="true"></i>[Mojtaba](/author/seyed-mojtaba-marvasti-zadeh/) is to depart September 8th - wish you a safe trip, and keep in touch
