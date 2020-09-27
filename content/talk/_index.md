@@ -13,6 +13,17 @@ header:
   image: ""
 ---
 
+### September 2020:
+
+- **Transform and Tell: Entity-Aware News Image Captioning**, CVPR 2020
+  - By Hoang, September 11th - [Talk Slides] [[Original Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tran_Transform_and_Tell_Entity-Aware_News_Image_Captioning_CVPR_2020_paper.pdf)
+
+- **DGPose: Deep Generative Models for Human Body Analysis**, IJCV 2020
+  - By Chuan, September 18th - [[Talk Slides]](/talk_slides/chuan_sep_18.pdf) [[Original Paper]](https://arxiv.org/pdf/1804.06364.pdf)
+
+- **Learning to Estimate 3D Human Pose and Shape from a Single Color Image**, CVPR 2018
+  - By Youdong, September 25th - [Talk Slides] [[Original Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf)
+
 ### August 2020:
 
 - **MonoPerfCap: Human Performance Capture from Monocular Video**, TOG 2018 & **LiveCap: Real-time Human Performance Capture from Monocular Video**, TOG 2019

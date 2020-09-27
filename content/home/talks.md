@@ -70,9 +70,8 @@ subtitle = ""
 
 ## Coming Talks:
 
-- **MonoPerfCap: Human Performance Capture from Monocular Video**, TOG 2018 & **LiveCap: Real-time Human Performance Capture from Monocular Video**, TOG 2019
-  - By Xinxin, August 9th - [Talk Slides] [[Original Paper 1]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) [[Original Paper 2]](https://gvv.mpi-inf.mpg.de/projects/LiveCap/data/livecap.pdf)
-
+- **DGPose: Deep Generative Models for Human Body Analysis**, IJCV 2020
+  - By Chuan, September 18th - [[Talk Slides]](/talk_slides/chuan_sep_18.pdf) [[Original Paper]](https://arxiv.org/pdf/1804.06364.pdf)
 
 ## Finished Talks:
 
