@@ -1,17 +1,16 @@
 ---
-title: Our paper "COMET： Context-Aware IoU-Guided Network for Small Object Tracking" is accepted by ACCV 2020
+title: "Our paper \"Deep Learning for Visual Tracking: A Comprehensive Survey\" is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
 subtitle: ''
-summary: ' '
+summary: ''
 authors:
 - mojtabas
-- javadk
+- licheng
 - Hossein Ghanei-Yakhdan
 - Shohreh Kasaei
-- licheng
 
 tags:
-date: "2020-09-27T00:00:00Z"
-lastmod: "2020-09-27T00:00:00Z"
+date: "2020-11-27T00:00:00Z"
+lastmod: "2020-11-27T00:00:00Z"
 featured: false
 draft: false
 

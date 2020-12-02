@@ -13,6 +13,11 @@ header:
   image: ""
 ---
 
+### October 2020:
+
+- **Few-Shot Video Classification via Temporal Alignment**, CVPR 2020
+  - By Mahdiar, Oct 2nd - [[Talk Slides]](/talk_slides/mahdiar_oct_2.pptx) [[Original Paper]](https://arxiv.org/pdf/1906.11415.pdf)
+
 ### September 2020:
 
 - **Transform and Tell: Entity-Aware News Image Captioning**, CVPR 2020
@@ -25,6 +30,9 @@ header:
   - By Youdong, September 25th - [Talk Slides] [[Original Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf)
 
 ### August 2020:
+
+- **Video Object Segmentation with Episodic Graph Memory Networks**, ECCV 2020
+  - By Javad, August 16th - [[Talk Slides]](/talk_slides/javad_aug16.pptx) [[Original Paper]](https://arxiv.org/pdf/2007.07020.pdf)
 
 - **MonoPerfCap: Human Performance Capture from Monocular Video**, TOG 2018 & **LiveCap: Real-time Human Performance Capture from Monocular Video**, TOG 2019
   - By Xinxin, August 9th - [Talk Slides] [[Original Paper 1]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) [[Original Paper 2]](https://gvv.mpi-inf.mpg.de/projects/LiveCap/data/livecap.pdf)
