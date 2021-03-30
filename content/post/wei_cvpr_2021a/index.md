@@ -1,16 +1,23 @@
 ---
-title: "Our paper \"Deep Learning for Visual Tracking: A Comprehensive Survey\" is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+title: "Our paper \"Calibrated RGB-D Salient Object Detection\" is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021"
 subtitle: ''
-summary: ''
+summary: 'This paper systematically addresses the depth-related side effects via the designed calibration strategy towards boosting saliency detection accuracy.'
 authors:
-- mojtabas
+- weiji
+- jingjingli
+- Shuang Yu
+- Miao Zhang
+- Yongri Piao
+- Shunyu Yao
+- Qi Bi
+- Kai Ma
+- Yefeng Zheng
+- Huchuan Lu
 - licheng
-- Hossein Ghanei-Yakhdan
-- Shohreh Kasaei
 
 tags:
-date: "2020-11-27T00:00:00Z"
-lastmod: "2020-11-27T00:00:00Z"
+date: "2021-03-16T00:00:00Z"
+lastmod: "2021-03-16T00:00:00Z"
 featured: false
 draft: false
 

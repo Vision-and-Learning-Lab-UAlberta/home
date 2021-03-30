@@ -1,20 +1,16 @@
 ---
-title: "Our paper \"Action2Motion: Conditioned Generation of 3-D Human Motions\" is accepted by ACM Multimedia 2020"
+title: "Our paper \"Deep Learning for Visual Tracking: A Comprehensive Survey\" is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
 subtitle: ''
-summary: ' '
+summary: ''
 authors:
-- chuanguo
-- xinxinzuo
-- senwang
-- shihaozou
-- Qingyao Sun
-- Annan Deng
-- Minglun Gong
+- mojtabas
 - licheng
+- Hossein Ghanei-Yakhdan
+- Shohreh Kasaei
 
 tags:
-date: "2020-07-25T00:00:00Z"
-lastmod: "2020-07-25T00:00:00Z"
+date: "2020-11-27T00:00:00Z"
+lastmod: "2020-11-27T00:00:00Z"
 featured: false
 draft: false
 
