@@ -5,12 +5,44 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/author/jingjing-li/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/jingjing-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Jingjing Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jingjing Li</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/author/jingjing-li/</link>
     </image>
+    
+    <item>
+      <title>Our paper &#34;Calibrated RGB-D Salient Object Detection&#34; is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021a/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling&#34; is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021b/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibrated RGB-D Salient Object Detection</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_dcf/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_dcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_mrnet/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_mrnet/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
