@@ -5,12 +5,20 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/author/taivanbat-badamdorj/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/taivanbat-badamdorj/index.xml" rel="self" type="application/rss+xml" />
     <description>Taivanbat Badamdorj</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Taivanbat Badamdorj</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/author/taivanbat-badamdorj/</link>
     </image>
+    
+    <item>
+      <title>Our paper &#34;Joint Visual and Audio Learning for Video Highlight Detection&#34; is accepted by ICCV 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/tk_iccv2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/tk_iccv2021/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
