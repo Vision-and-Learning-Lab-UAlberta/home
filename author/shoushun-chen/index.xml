@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shoushun Chen | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/shoushun-chen/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/shoushun-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shoushun Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shoushun Chen</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/shoushun-chen/</link>
+    </image>
+    
+    <item>
+      <title>Our paper &#34;EventHPE: Event-based 3-D Human Pose Estimation&#34; is accepted by ICCV 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

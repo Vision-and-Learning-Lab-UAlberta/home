@@ -5,12 +5,36 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/post/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>News &amp; Posts</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Our paper &#34;Dual Learning Music Composition and Dance Choreography&#34; is accepted by ACM Multimedia 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/shuang_acmmm2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/shuang_acmmm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;EventHPE: Event-based 3-D Human Pose Estimation&#34; is accepted by ICCV 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Joint Visual and Audio Learning for Video Highlight Detection&#34; is accepted by ICCV 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/tk_iccv2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/tk_iccv2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Our paper &#34;Calibrated RGB-D Salient Object Detection&#34; is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021</title>
