@@ -66,7 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<i class="far fa-newspaper pub-icon" aria-hidden="true"></i>[Shihao](/author/shihao-zou/) has been awarded with the Alberta Innovates Scholarship! - Congratulations, Shihao!
-<br />
-<i class="far fa-newspaper pub-icon" aria-hidden="true"></i>[Wei](/author/wei-ji/) and [Jingjing](/author/jingjing-li/) join our Lab as new PhD students this September - Welcome, Wei & Jingjing!

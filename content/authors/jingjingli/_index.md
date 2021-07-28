@@ -41,7 +41,7 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: mailto:jyang7@ualberta.ca  # For a direct email link, use "mailto:test@example.org".
@@ -51,9 +51,9 @@ interests:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=9tgfcy8AAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=1QYsOAUAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/kulbear
@@ -72,3 +72,5 @@ user_groups:
 #- PhD Students
 - Lab Members
 ---
+
+Jingjing Li is a PhD student under the supervision of Prof. Li Cheng at the Vision and Learning Lab, University of Alberta. Her work now focuses on Visual Saliency Analysis, Human Activity Understanding, and Medical Image Processing. She received the M.Sc. degree and B.S. degree from Dalian University of Technology, China, in 2019 and 2017, respectively.

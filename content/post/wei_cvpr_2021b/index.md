@@ -1,5 +1,5 @@
 ---
-title: "Our paper \"Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling\" is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021"
+title: "Our paper \"Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling\" is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021 (Best Paper Candidate)"
 subtitle: ''
 summary: 'This paper proposes a principled research investigation on exploiting the rich agreement information among multiple raters for improving the calibrated performance.'
 authors:
@@ -12,7 +12,7 @@ authors:
 - jingjingli
 - Hanruo Liu
 - licheng
-- Yefneg Zhang
+- Yefeng Zheng
 
 tags:
 date: "2021-03-16T00:00:00Z"
