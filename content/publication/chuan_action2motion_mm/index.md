@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 28th ACM International Conference on Multimedia
-publication_short: ACM MultiMedia
+publication_short: ACM Multimedia
 
 abstract: "Action recognition is a relatively established task, where given an input sequence of human motion, the goal is to predict its action category. This paper, on the other hand, considers a relatively new problem, which could be thought of as an inverse of action recognition: given a prescribed action type, we aim to generate plausible human motion sequences in 3D. Importantly, the set of generated motions are expected to maintain its diversity to be able to explore the entire action-conditioned motion space; meanwhile, each sampled sequence faithfully resembles a natural human body articulation dynamics. Motivated by these objectives, we follow the physics law of human kinematics by adopting the Lie Algebra theory to represent the natural human motions; we also propose a temporal Variational Auto-Encoder (VAE) that encourages a diverse sampling of the motion space. A new 3D human motion dataset, HumanAct12, is also constructed. Empirical experiments over three distinct human motion datasets (including ours) demonstrate the effectiveness of our approach."
 
