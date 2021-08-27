@@ -1,46 +1,34 @@
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
+## Installation
 
-# Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+You need to first install Hugo, please follow [Hugo website](https://gohugo.io/getting-started/installing/) to install Hugo.
+If you are using Windows, note that you need to install [the extended version of Hugo](https://gohugo.io/getting-started/installing/#chocolatey-windows).
 
-[**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+## Edit the content on the website
+You can follow the instruction on https://academic-demo.netlify.app/ to check how to edit each of the specific section.
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+Everything you want to edit is located in `./content` folder, here I give a few examples for you to understand how is everything works.
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+### Your personal page
 
-## Install
+If you are a new member in our lab, you may want to create a personal page for yourself by copying one of the existing folder under `./content/authors`. For example, you are copying `./content/authors/jiyang`, then you only need to do 2 things to start. First, you want to replace `avatar.png` with your own photo (other format like `.jpg` is also supported). You also need to change the content in `_index.md`, it is a very straightforward markdown file.
 
-You can choose from one of the following four methods to install:
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+### Your project/publication page
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+Congratulations to have new publications! Similar to your personal page, you can copy an existing folder under `./content/publication` or `./content/projects` to start. The process is very similar to how you can do with your personal page: edit the content in `index.md` with your updates.
 
-## Ecosystem
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+## Live Demo
 
-## License
+In your terminal/command line tool, go to the home folder of this repo, then use 
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
+> hugo server
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+to start a local live server, you may check your website at http://localhost:1313/ (bind address 127.0.0.1).
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+This live server is not actually fully live, if you just change some contents in files like `index.md`, it is updated immediately without the need of restarting the server. However, if you do create a new subfolder under `./content/authors` or under `./content/publication`, sometime it just breaks, in that case, all you need to do is restart the server from your terminal/command line.
+
+## End
+
+If you have any further questions, please reach to Ji on Slack for assistance!
