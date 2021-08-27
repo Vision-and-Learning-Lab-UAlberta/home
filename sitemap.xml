@@ -1,1759 +1,1073 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/authors/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/dong-nie/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/hoang-t.n.-nguyen/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/jason-truong/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/post/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/post/hoang_emnlp2021/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/taivanbat-badamdorj/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/yingying-zhu/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vision-and-learning-lab-ualberta.github.io/author/yujie-liu/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/chuan-guo/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/minglun-gong/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/mrigank-rochan/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/post/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/shuang_acmmm2021/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/tk_iccv2021/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/pengyu-wang/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/sen-wang/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shihao-zou/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shijian-lu/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shoushun-chen/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shuang-wu/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/author/taivanbat-badamdorj/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision-and-learning-lab-ualberta.github.io/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/xiaoqin-hu/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/xinxin-zuo/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yang-wang/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/zhenguang-liu/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/cheng-bian/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/hanruo-liu/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/huchuan-lu/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/jingjing-li/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/junde-wu/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/kai-ma/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/miao-zhang/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021a/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021b/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/qi-bi/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shuang-yu/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shunyu-yao/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/wei-ji/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yefeng-zheng/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yongri-piao/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication-type/1/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_dcf/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/cvpr/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_mrnet/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication_types/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tags/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yefneg-zhang/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/hossein-ghanei-yakhdan/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/mojtaba_tits2020/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/seyed-mojtaba-marvasti-zadeh/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shohreh-kasaei/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/annan-deng/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/mm/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/motion-generation/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/qingyao-sun/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/tag3/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/post/zou_eccv2020/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/shihaozou_polarization_2020/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/chi-xu/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/eccv/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yiming-qian/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/cvprw/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/mahdiar_falcons_2020/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/fidel-omar-tito-cruz/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/mahdiar-nekoui/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication-type/2/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/jiangbin-zheng/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ruigang-yang/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/xinxin_tmm_2020/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/tmm/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/weiwei-yu/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/project/jiyang_multitask_2020/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/deep-learning/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ji-yang/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/motion-prediction/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/pose-estimation/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/project/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/youdong-ma/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/a.-banerjeea/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/d.-teng/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/delin-chu/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/ban-et-al-jo-ve-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/he-zhao/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/huiqi-li/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/lyu-et-al-mia-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-pr-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/ten-et-al-tbd-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-kokare/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/p.-porwal/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/s.-aw/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/s.-pachade/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/s.-wu/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/x.-zhang/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/qi-liu/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/roger-zimmermann/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shuyuan-jin/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/shuangwu_hmr_2019/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/project/shuangwu_hmr_2019/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/a.-chang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/b.-wong/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/c.-libedinsky/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/d.-li/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/e.-tan/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wu-et-al-plos-bio-19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/h.-zhu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/j.-stewart/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/k.-tan/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-cheng/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-govindarajan/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-gu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-katarya/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tpami-19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/xiaowei-zhang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/xudong-shi/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yu-sun/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/b.-li/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/f.-lin/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/hai-miao-hu/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/j.-de/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/qiuju-deng/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/sebastian-maurer-stroh/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tmi-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-med-ia-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tpami-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ye-yuan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yue-zhang/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yuhong-guo/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/a.-cliffe/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/anan-liu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/b.-chen/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/c.-xu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ch.-xu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/d.-doupe/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-tmm-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/g.-lin/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/h.-li/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/h.-sung/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/h.-tie/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/h.-zhao/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/xu-gov-che-pr-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/k.-ong/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-hwee/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-lu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-zhang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/luming-zhang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-mm-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-tpami-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/q.-liu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/cli-et-al-nc-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-jo-ve-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/r.-koch/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/r.-zimmermann/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/gu-et-al-tmi-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/w.-yu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/x.-sun/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/xiangnan-he/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/y.-yin/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/y.-zhang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/z.-liu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/archive/opening_postdoc/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/archive/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/tag/recruiting/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/de-et-al-tmi-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/tie-et-al-m-bo-c-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/a.-nanjappa/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/a.-vandongen/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-tip-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/d.-chu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/d.-mahajan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/david-s.-rosenblum/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/xu-et-al-ijcv-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-sisc-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/j.-cai/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/j.-lu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/j.-wu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-liao/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/li-liu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-ng/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/mi.-do/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/ong-et-al-cyto-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/r.-tan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/s.-ahmed/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/y.-yu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ye-liu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yongpo-jia/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/qia-gon-che-cai-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ashwin-nanjappa/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/yap-et-al-jpi-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/c.-huang/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/c.-yap/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/d.-giron/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/e.-kalaw/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/nan-chi-che-eurographics-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/h.-lee/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/gon-qia-che-tip-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/k.-chong/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/gu-che-iccv-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/lin-gu/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-gong/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-singh/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-che-zhu-acml-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/tingshao-zhu/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/y.-law/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/y.-qian/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/jin-et-al-isbi-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-cmig-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/a.-how/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/feng-lin/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/j.-zhang/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/jaydeep-de/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/jia-zhang/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/k.-yong/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-wang/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/lakshmi-govindarajan/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-nongpiur/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/meiguang-jin/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/yon-et-al-optho-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/qing-nie/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-bmcbioinfo-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/s.-maurer-stroh/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/s.-perera/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-pan-tnnls-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/sinno-jialin-pan/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/t.-aung/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/t.-gong/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/t.-thi/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/de-li-che-bmcbioinfo-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/guz-et-al-iovs-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/jay-et-al-scia-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/bolan-su/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/boon-chuan-pang/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/c.-c.-tchoyoson-lim/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/c.-guzman/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/cheng-kiang-lee/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/chew-lim-tan/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/d.-friedman/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/dale-schuurman/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/pie-et-al-ivc-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/xu-che-iccv-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wan-et-al-ci-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/gon-et-al-ictai-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/guoyin-zhao/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/hwee-kuan-lee/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/l.-foo/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/li-cheng-nengli-lim/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/liang-wang/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-baskaran/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-dash/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/m.-he/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/matthew-turk/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/matti-pietikainen/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-icml-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/russell-greiner/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shaojun-wang/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shaomin-wang/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shimiao-li/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/non-et-al-optho-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/tengfei-ma/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/tianxia-gong/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-springerbkchapt-12/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/andre-cheah/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-cviu-12/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/jian-zhang/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/li-wang/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ning-ye/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/shinichi-satoh/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-ivc-12/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/tuan-hue-thi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/weimiao-yu/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/alex-smola/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/dale-schuurmans/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-11/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/shi-et-al-ijcv-11/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wan-che-wan-tip-11/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-cvpr-11/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-icip-11/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/qinfeng-shi/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-tip-11/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/terry-caelli/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/jia-che-liu-wan-icpr-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-sat-avss-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wan-che-thi-zha-dicta-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/thi-che-zha-wan-icpr-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/ke-jia/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/nianjun-liu/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/julian-mcauley/</loc>
     <lastmod>2009-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/cae-et-al-tpami-09/</loc>
     <lastmod>2009-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/quoc-le/</loc>
     <lastmod>2009-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/tiberio-caetano/</loc>
     <lastmod>2009-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication-type/5/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/baochun-bai/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/cheng-lei/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/guoying-zhao/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/thi-et-al-avss-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/li-che-sch-cife-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/janelle-harms/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/jun-zhou/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/bao-et-al-pcs-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/lei-wang/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/igi-book-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/nathan-brewer/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/pierre-boulanger/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-gon-iccv-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/sijun-lu/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-sv-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/bre-et-al-ivcnz-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/walter-bischof/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/yuxi-li/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-vis-zha-cvpr-08/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/shi-wan-che-smo-cvpr-08/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-aaai-08/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/s.-v.-n.-vishwanathan/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/xinhua-zhang/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-cviu-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-cae-bis-hcii-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/cae-che-le-smo-iccv-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-vis-cvpr-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-tgrs-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/russ-greiner/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-che-gre-sch-icgi-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-bis-prrs-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-wan-sch-cae-vis-avss-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/arturo-sanchez-azofeifa/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-tpami-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-fan-ijcra-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-gre-sch-che-icml-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/feng-jiao/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/q-fang/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-jia-sch-wan-icml-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-gmbv-04/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-lcvpr-04/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-b/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icassp-03/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-a/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icpr-02/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/et-al./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/he-yan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/javad-khaghani/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vision-and-learning-lab-ualberta.github.io/author/youdong-ma/</loc>
   </url>
-  
 </urlset>

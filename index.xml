@@ -5,9 +5,9 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Vision and Learning Lab @ UAlberta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Vision and Learning Lab @ UAlberta</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/</link>
     </image>
@@ -52,6 +52,14 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Automated Generation of Accurate &amp; Fluent Medical X-ray Reports&#34; is accepted by EMNLP 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/hoang_emnlp2021/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/hoang_emnlp2021/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -519,8 +527,11 @@ Three
       <description>&lt;h2 id=&#34;joining-us&#34;&gt;Joining us&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;The Vision &amp;amp; Learning Lab at the ECE Dept. University of Alberta, is inviting outstanding Postdoc candidates to join us.&lt;/p&gt;
 &lt;p&gt;We are setting up a new lab at the ECE Dept., University of Alberta, focusing on exciting research topics in computer vision and machine learning. We are looking for exceptional Postdocs to join us.&lt;/p&gt;
-&lt;p&gt;Further information about the PI, Dr. Li Cheng, can be found below, or via &lt;a href=&#34;https://www.ece.ualberta.ca/~lcheng5/&#34;&gt;https://www.ece.ualberta.ca/~lcheng5/&lt;/a&gt; or by direct inquiries to &lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Potential candidates are requested to email their CVs (in PDF) to Li Cheng (&lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Further information about the PI, Dr. Li Cheng, can be found below, or via 
+&lt;a href=&#34;https://www.ece.ualberta.ca/~lcheng5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ece.ualberta.ca/~lcheng5/&lt;/a&gt; or by direct inquiries to 
+&lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Potential candidates are requested to email their CVs (in PDF) to Li Cheng (
+&lt;a href=&#34;mailto:lcheng5@ualberta.ca&#34;&gt;lcheng5@ualberta.ca&lt;/a&gt;).&lt;/p&gt;
 &lt;h2 id=&#34;about-the-pi&#34;&gt;About the PI&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;Li CHENG is an associate professor with the ECE Dept., University of Alberta, Canada. His research expertise is mainly in computer vision and machine learning, with application focus in both visual behavior analysis and biomedical image analysis. His research work has resulted in over 90 referred papers including those published at journals such as IEEE Trans. Pattern Analysis and Machine Intelligence, International Journal of Computer Vision, as well as conferences such as ICML, NIPS, ICCV, CVPR, MICCAI, and AAAI. He is a senior member of IEEE.&lt;/p&gt;
 </description>
