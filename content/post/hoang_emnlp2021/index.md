@@ -3,7 +3,7 @@ title: "Our paper \"Automated Generation of Accurate & Fluent Medical X-ray Repo
 subtitle: ''
 summary: ' '
 authors:
-- Hoang T.N. Nguyen
+- hoangn
 - Dong Nie
 - tk
 - Yujie Liu
