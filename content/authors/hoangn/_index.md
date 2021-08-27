@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: MSc in Computer and Engineering
+  - course: MSc in Electrical and Computer Engineering
     institution: University of Alberta
     year: 2019 - Now
   - course: BSc in Computer Science
