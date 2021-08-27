@@ -29,6 +29,38 @@ to start a local live server, you may check your website at http://localhost:131
 
 This live server is not actually fully live, if you just change some contents in files like `index.md`, it is updated immediately without the need of restarting the server. However, if you do create a new subfolder under `./content/authors` or under `./content/publication`, sometime it just breaks, in that case, all you need to do is restart the server from your terminal/command line.
 
+## Deployment
+
+Once you are satisfied with your editing, you can build the website for deployment by using
+
+> hugo
+
+You will see something like the following
+
+```
+Start building sites …
+hugo v0.87.0-B0C541E4+extended windows/amd64 BuildDate=2021-08-03T10:57:28Z VendorInfo=gohugoio
+
+                   | EN
+-------------------+------
+  Pages            | 623
+  Paginator pages  |  30
+  Non-page files   | 126
+  Static files     |  26
+  Processed images |  65
+  Aliases          |  21
+  Sitemaps         |   1
+  Cleaned          |   0
+
+Total in 646 ms
+```
+
+Once the building process is finished, the website content is ready in `./public`.
+
+***Now you can commit your change to the repo and push it to GitHub!***
+
+You can wait for the website auto update (processed monthly), or you can reach to Ji on Slack to see the changes immediately on the publicly available website https://vision-and-learning-lab-ualberta.github.io/.
+
 ## End
 
 If you have any further questions, please reach to Ji on Slack for assistance!
