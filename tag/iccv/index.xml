@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICCV | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/tag/iccv/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/tag/iccv/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICCV</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ICCV</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/tag/iccv/</link>
+    </image>
+    
+    <item>
+      <title>EventHPE: Event-based 3D Human Pose and Shape Estimation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Visual and Audio Learning for Video Highlight Detection</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/tk_joint_2021/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/tk_joint_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

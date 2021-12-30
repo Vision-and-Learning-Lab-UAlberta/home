@@ -5,12 +5,36 @@
     <link>https://vision-and-learning-lab-ualberta.github.io/author/minglun-gong/</link>
       <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/minglun-gong/index.xml" rel="self" type="application/rss+xml" />
     <description>Minglun Gong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2021</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Minglun Gong</title>
       <link>https://vision-and-learning-lab-ualberta.github.io/author/minglun-gong/</link>
     </image>
+    
+    <item>
+      <title>3D Pose Estimation and Future Motion Prediction from 2D Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/ji_3d_2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/ji_3d_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;3D pose estimation and future motion prediction from 2D images&#34; is accepted by Pattern Recogntion</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/ji_pr_2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/ji_pr_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EventHPE: Event-based 3D Human Pose and Shape Estimation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Our paper &#34;EventHPE: Event-based 3-D Human Pose Estimation&#34; is accepted by ICCV 2021</title>
