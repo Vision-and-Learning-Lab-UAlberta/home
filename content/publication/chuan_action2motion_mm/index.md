@@ -39,7 +39,6 @@ summary: A temporal VAE archtecture model equipped with Lie Algebra representati
 tags:
   - MM
   - Motion Generation
-  - Tag3
 
 featured: true
 

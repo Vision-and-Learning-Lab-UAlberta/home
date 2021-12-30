@@ -37,7 +37,7 @@ links:
 # - name: Custom Link
 # url: https://example.org
 url_pdf: https://jimmyzou.github.io/files/eccv2020.pdf
-url_code: '#'
+# url_code: '#'
 url_dataset: https://jimmyzou.github.io/publication/2020-PHSPDataset
 # url_poster: '#'
 url_project: https://jimmyzou.github.io/publication/2020-polarization-clothed-human-shape
