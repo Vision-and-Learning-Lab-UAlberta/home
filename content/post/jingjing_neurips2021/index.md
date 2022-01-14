@@ -1,5 +1,5 @@
 ---
-title: "Our paper \"Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection\" is accepted by Neurips 2021"
+title: "Our paper \"Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection\" is accepted by NeurIPS 2021"
 subtitle: ''
 summary: ''
 authors:

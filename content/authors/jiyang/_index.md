@@ -4,7 +4,7 @@ title: Ji Yang
 
 # Username (this should match the folder name)
 authors:
-- jiyang
+- jiyang # HELP: i don't know what username I should use or change?
 
 # Is this the primary user of the site?
 superuser: false
