@@ -68,7 +68,7 @@ email: trannhat@ualberta.ca
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- PhD Students
-- Lab Members
+- Alumni
 ---
 
 Hoang is a MSc student with the Vision and Learning Lab at the

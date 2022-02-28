@@ -62,7 +62,7 @@ email: "mojtaba.marvasti@ualberta.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Visiting Students
-- Lab Members
+- Alumni
 ---
 
 The focus of my research is on visual object tracking.

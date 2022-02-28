@@ -66,7 +66,7 @@ email: hyan8@ualberta.ca
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 ---
 
 He Yan received the master’s degree from Nanjing Forestry University, Jiangsu, China, in 2014. 

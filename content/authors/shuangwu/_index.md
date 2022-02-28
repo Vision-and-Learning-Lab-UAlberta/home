@@ -64,7 +64,7 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- PhD Students
-- Lab Members
+- Alumni
 ---
 
 Chuan Guo is a PhD student at the Vision and Learning Lab. His research interests include computer vision and machine learning.
