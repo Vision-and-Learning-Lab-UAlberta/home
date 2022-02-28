@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qing Nie | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/qing-nie/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/qing-nie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qing Nie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Qing Nie</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/qing-nie/</link>
+    </image>
+    
+    <item>
+      <title>A retinal vessel boundary tracking method based on Bayesian theory and multi-scale line detection</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-cmig-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zha-et-al-cmig-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

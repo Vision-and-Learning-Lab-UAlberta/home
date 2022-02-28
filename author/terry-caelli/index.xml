@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terry Caelli | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/terry-caelli/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/terry-caelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Terry Caelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Terry Caelli</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/terry-caelli/</link>
+    </image>
+    
+    <item>
+      <title>Real-time Discriminative Background Subtraction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-tip-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-tip-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian stereo matching</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-cviu-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-cviu-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Human Inputs on Semi-automatic Image Interpretation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-cae-bis-hcii-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/zho-che-cae-bis-hcii-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Discriminative Approach to Background Subtraction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-wan-sch-cae-vis-avss-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-wan-sch-cae-vis-avss-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Component Optimization for Image Understanding: a Bayesian Approach</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-tpami-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-tpami-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Image Understanding: From Images to Virtual Forests</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-fan-ijcra-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-fan-ijcra-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Stereo Matching</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-gmbv-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-gmbv-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forestry Scene Geometry Estimation via Statistical Learning</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-lcvpr-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-lcvpr-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach to Image Understanding: From Images to Virtual Forests</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doubly-MRF Stereo Matching</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icassp-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icassp-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Image Segmentation: A Bayesian Approach</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-a/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-vi-03-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Trainable Hierarchical Hidden Markov Tree Model for color image Annotation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icpr-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-cae-icpr-02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

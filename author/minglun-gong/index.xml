@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minglun Gong | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/minglun-gong/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/minglun-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Minglun Gong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Minglun Gong</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/minglun-gong/</link>
+    </image>
+    
+    <item>
+      <title>3D Pose Estimation and Future Motion Prediction from 2D Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/ji_3d_2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/ji_3d_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;3D pose estimation and future motion prediction from 2D images&#34; is accepted by Pattern Recogntion</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/ji_pr_2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/ji_pr_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EventHPE: Event-based 3D Human Pose and Shape Estimation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;EventHPE: Event-based 3-D Human Pose Estimation&#34; is accepted by ICCV 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action2Motion: Conditioned Generation of 3D Human Motions</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Action2Motion: Conditioned Generation of 3-D Human Motions&#34; is accepted by ACM Multimedia 2020</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Human Shape Reconstruction from a Polarization Image</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shihaozou_polarization_2020/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shihaozou_polarization_2020/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SparseFusion: Dynamic Human Avatar Modeling from Sparse RGBD Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/xinxin_tmm_2020/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/xinxin_tmm_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Self-Tuning Multiclass Classification Approach</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/qia-gon-che-cai-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/qia-gon-che-cai-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foreground Segmentation of Live Videos using Locally Competing 1SVMs</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-cvpr-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-cvpr-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Estimated Motion in Real-time Background Subtraction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-icip-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/gon-che-icip-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Discriminative Background Subtraction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-tip-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-tip-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Background Subtraction from Dynamic Scenes</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-gon-iccv-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-gon-iccv-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

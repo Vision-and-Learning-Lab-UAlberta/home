@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongri Piao | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/yongri-piao/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/yongri-piao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongri Piao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yongri Piao</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/yongri-piao/</link>
+    </image>
+    
+    <item>
+      <title>Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/jingjing_joint_2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/jingjing_joint_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection&#34; is accepted by NeurIPS 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/jingjing_neurips2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/jingjing_neurips2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Calibrated RGB-D Salient Object Detection&#34; is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021a/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/wei_cvpr_2021a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibrated RGB-D Salient Object Detection</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_dcf/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wei_cvpr21_dcf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

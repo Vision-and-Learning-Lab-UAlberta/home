@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaomin Wang | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/shaomin-wang/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/shaomin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaomin Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shaomin Wang</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/shaomin-wang/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Syntactic, Semantic, and Lexical Regularities in Language Modeling via Directed Markov Random Fields</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wan-et-al-ci-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wan-et-al-ci-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Analysis of Lexical and Semantic for Enhanced Structural Language Model</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-che-gre-sch-icgi-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-che-gre-sch-icgi-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting syntactic, semantic and lexical regularities in language modeling via directed Markov random fields</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-gre-sch-che-icml-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/wan-wan-gre-sch-che-icml-05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

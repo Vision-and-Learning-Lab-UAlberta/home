@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shihao Zou | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/shihao-zou/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/shihao-zou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shihao Zou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shihao Zou</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/shihao-zou/</link>
+    </image>
+    
+    <item>
+      <title>EventHPE: Event-based 3D Human Pose and Shape Estimation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shihao_eventhpe_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;EventHPE: Event-based 3-D Human Pose Estimation&#34; is accepted by ICCV 2021</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/shihao_iccv2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action2Motion: Conditioned Generation of 3D Human Motions</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Action2Motion: Conditioned Generation of 3-D Human Motions&#34; is accepted by ACM Multimedia 2020</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;3D Human Shape Reconstruction from a Polarization Image&#34; is accepted by ECCV 2020</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/zou_eccv2020/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/zou_eccv2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Human Shape Reconstruction from a Polarization Image</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shihaozou_polarization_2020/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shihaozou_polarization_2020/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

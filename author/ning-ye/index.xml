@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ning Ye | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/ning-ye/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/ning-ye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ning Ye</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ning Ye</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/ning-ye/</link>
+    </image>
+    
+    <item>
+      <title>A Bag-of-Words Model for Cellular Image Segmentation</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-springerbkchapt-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-springerbkchapt-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Cellular Segmentation for Microscopic Images</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/che-et-al-miccai-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

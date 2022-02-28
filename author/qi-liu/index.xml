@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qi Liu | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/qi-liu/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/qi-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qi Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Qi Liu</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/qi-liu/</link>
+    </image>
+    
+    <item>
+      <title>Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shuang_investigating_2022/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shuang_investigating_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction&#34; is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence!</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/shuang_tpami2022/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/shuang_tpami2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Natural and Accurate Future Motion Prediction of Humans and Animals</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/shuangwu_hmr_2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/shuangwu_hmr_2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Motion Recurrent Network for Future Motion Prediction of Humans and Animals</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/project/shuangwu_hmr_2019/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/project/shuangwu_hmr_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-modal Multi-task Learning for Automatic Dietary Assessment</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

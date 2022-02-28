@@ -13,6 +13,13 @@ header:
   image: ""
 ---
 
+### Feburary 2022:
+- **Masked Autoencoders Are Scalable Vision Learners**
+  - By Zhan, Feb 15th - [[Talk Slides]](/talk_slides/zhan_feb_15.pdf) [[Original Paper]](https://arxiv.org/pdf/2111.06377.pdf)
+
+- **Non-local Neural Networks**, CVPR 2018
+  - By Liam, Feb 1st - [[Talk Slides]](/talk_slides/liam_feb_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1711.07971.pdf)
+
 ### October 2020:
 
 - **Few-Shot Video Classification via Temporal Alignment**, CVPR 2020

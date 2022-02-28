@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Zhang | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/yue-zhang/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/yue-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yue Zhang</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/yue-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Multi-modal Multi-task Learning for Automatic Dietary Assessment</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/liu-et-al-aaai-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

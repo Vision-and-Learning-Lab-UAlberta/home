@@ -70,18 +70,15 @@ subtitle = ""
 
 ## Coming Talks:
 
-- **DGPose: Deep Generative Models for Human Body Analysis**, IJCV 2020
-  - By Chuan, September 18th - [[Talk Slides]](/talk_slides/chuan_sep_18.pdf) [[Original Paper]](https://arxiv.org/pdf/1804.06364.pdf)
+- **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
+  - By Yuxuan, Mar 1st - [[Original Paper]](https://arxiv.org/pdf/1703.09471.pdf)
 
 ## Finished Talks:
 
-- **EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera**, CVPR 2020
-  - By Shihao, July 26th - [[Talk Slides]](/talk_slides/shihao_july_26.pdf) [[Original Paper]](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)
+- **Masked Autoencoders Are Scalable Vision Learners**
+  - By Zhan, Feb 15th - [[Talk Slides]](/talk_slides/zhan_feb_15.pdf) [[Original Paper]](https://arxiv.org/pdf/2111.06377.pdf)
 
-- **DeepCap: Monocular Human Performance Capture Using Weak Supervision**, CVPR 2020
-  - By Ji, July 19th - [[Talk Slides]](/talk_slides/ji_july_19.pdf) [[Original Paper]](https://people.mpi-inf.mpg.de/~mhaberma/projects/2020-cvpr-deepcap/data/paper.pdf)
-
-- **Long-term Human Motion Prediction with Scene Context**, ECCV 2020
-  - By Mahdiar, July 12th - [[Talk Slides]](/talk_slides/mahdiar_july_12.pdf) [[Original Paper]](https://arxiv.org/pdf/2007.03672.pdf)
+- **Non-local Neural Networks**, CVPR 2018
+  - By Liam, Feb 1st - [[Talk Slides]](/talk_slides/liam_feb_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1711.07971.pdf)
 
 Check [Full List](/talk).

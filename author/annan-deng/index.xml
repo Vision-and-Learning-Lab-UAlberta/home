@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annan Deng | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/annan-deng/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/annan-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annan Deng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Annan Deng</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/annan-deng/</link>
+    </image>
+    
+    <item>
+      <title>Action2Motion: Conditioned Generation of 3D Human Motions</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/chuan_action2motion_mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Action2Motion: Conditioned Generation of 3-D Human Motions&#34; is accepted by ACM Multimedia 2020</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/chuan_acmmm2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

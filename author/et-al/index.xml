@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>et al. | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/et-al./</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>et al.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>et al.</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/et-al./</link>
+    </image>
+    
+    <item>
+      <title>IDRiD: Diabetic Retinopathy - Segmentation and Grading Challenge</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/publication/lyu-et-al-mia-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/publication/lyu-et-al-mia-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
