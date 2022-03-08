@@ -69,16 +69,13 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-
-- **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
-  - By Yuxuan, Mar 1st - [[Original Paper]](https://arxiv.org/pdf/1703.09471.pdf)
+- **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization**, CVPR 2020
+  - By Shasha, Mar 8th - [[Original Paper]](https://arxiv.org/pdf/2004.00452.pdf)
 
 ## Finished Talks:
-
+- **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
+  - By Yuxuan, Mar 1st - [[Talk Slides]](/talk_slides/yuxuan_Mar_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1703.09471.pdf)
 - **Masked Autoencoders Are Scalable Vision Learners**
   - By Zhan, Feb 15th - [[Talk Slides]](/talk_slides/zhan_feb_15.pdf) [[Original Paper]](https://arxiv.org/pdf/2111.06377.pdf)
-
-- **Non-local Neural Networks**, CVPR 2018
-  - By Liam, Feb 1st - [[Talk Slides]](/talk_slides/liam_feb_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1711.07971.pdf)
 
 Check [Full List](/talk).

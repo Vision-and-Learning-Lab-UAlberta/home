@@ -12,7 +12,10 @@ header:
   caption: ""
   image: ""
 ---
-
+### March 2022:
+- **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
+  - By Yuxuan, Mar 1st - [[Talk Slides]](/talk_slides/yuxuan_Mar_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1703.09471.pdf)
+  
 ### Feburary 2022:
 - **Masked Autoencoders Are Scalable Vision Learners**
   - By Zhan, Feb 15th - [[Talk Slides]](/talk_slides/zhan_feb_15.pdf) [[Original Paper]](https://arxiv.org/pdf/2111.06377.pdf)
