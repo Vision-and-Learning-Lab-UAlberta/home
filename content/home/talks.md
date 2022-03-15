@@ -69,13 +69,13 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization**, CVPR 2020
-  - By Shasha, Mar 8th - [[Original Paper]](https://arxiv.org/pdf/2004.00452.pdf)
+- **WiFi Structure from Motion in the Wild**, ICRA 2022
+  - By Yiming Qian (Guest speaker), Mar 15th [[Original Paper]](https://drive.google.com/file/d/1rOKqGDQ1NtVay3-DUvhJPDhjIXD5ydSH/view) 
 
 ## Finished Talks:
+- **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization**, CVPR 2020
+  - By Shasha, Mar 8th - [[Talk Slides]](/talk_slides/shasha_mar_08.pdf) [[Original Paper]](https://arxiv.org/pdf/2004.00452.pdf)
 - **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
   - By Yuxuan, Mar 1st - [[Talk Slides]](/talk_slides/yuxuan_Mar_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1703.09471.pdf)
-- **Masked Autoencoders Are Scalable Vision Learners**
-  - By Zhan, Feb 15th - [[Talk Slides]](/talk_slides/zhan_feb_15.pdf) [[Original Paper]](https://arxiv.org/pdf/2111.06377.pdf)
 
 Check [Full List](/talk).

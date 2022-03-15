@@ -13,6 +13,8 @@ header:
   image: ""
 ---
 ### March 2022:
+- **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization**, CVPR 2020
+  - By Shasha, Mar 8th - [[Talk Slides]](/talk_slides/shasha_mar_08.pdf) [[Original Paper]](https://arxiv.org/pdf/2004.00452.pdf)
 - **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
   - By Yuxuan, Mar 1st - [[Talk Slides]](/talk_slides/yuxuan_Mar_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1703.09471.pdf)
   
