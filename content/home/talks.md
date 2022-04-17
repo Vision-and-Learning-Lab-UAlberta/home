@@ -69,13 +69,13 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **WiFi Structure from Motion in the Wild**, ICRA 2022
-  - By Yiming Qian (Guest speaker), Mar 15th [[Original Paper]](https://drive.google.com/file/d/1rOKqGDQ1NtVay3-DUvhJPDhjIXD5ydSH/view) 
+- **Deep Metric Learning for Weakly Supervised Action Localization**, WACV 2020
+  - By Jingjing Li, Apr 12th [[Original Paper]](https://arxiv.org/abs/2001.07793) 
 
 ## Finished Talks:
-- **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization**, CVPR 2020
-  - By Shasha, Mar 8th - [[Talk Slides]](/talk_slides/shasha_mar_08.pdf) [[Original Paper]](https://arxiv.org/pdf/2004.00452.pdf)
-- **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
-  - By Yuxuan, Mar 1st - [[Talk Slides]](/talk_slides/yuxuan_Mar_01.pdf) [[Original Paper]](https://arxiv.org/pdf/1703.09471.pdf)
+- **[Ph.D. Oral Defence dry run]**
+  - By Shuang, Apr 5th 
+- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**, ICCV 2021
+  - By Yilin, Mar 29th - [[Talk Slides]](/talk_slides/yilin_Mar_29.pdf) [[Original Paper]](https://arxiv.org/abs/2103.14030)
 
 Check [Full List](/talk).

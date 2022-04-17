@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xingyu Li | Vision and Learning Lab @ UAlberta</title>
+    <link>https://vision-and-learning-lab-ualberta.github.io/author/xingyu-li/</link>
+      <atom:link href="https://vision-and-learning-lab-ualberta.github.io/author/xingyu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingyu Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vision and Learning Lab, Univerity of Alberta 2022</copyright><lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vision-and-learning-lab-ualberta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xingyu Li</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/author/xingyu-li/</link>
+    </image>
+    
+    <item>
+      <title>Our paper &#34;Generating Diverse and Natural 3D Human Motions from Text&#34; is accepted by IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2022!</title>
+      <link>https://vision-and-learning-lab-ualberta.github.io/post/chuan_cvpr_2022/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://vision-and-learning-lab-ualberta.github.io/post/chuan_cvpr_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

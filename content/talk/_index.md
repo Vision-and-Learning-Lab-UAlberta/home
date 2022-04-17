@@ -12,7 +12,12 @@ header:
   caption: ""
   image: ""
 ---
+### April 2022:
+- **[Ph.D. Oral Defence dry run]**
+  - By Shuang, Apr 5th 
 ### March 2022:
+- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**, ICCV 2021
+  - By Yilin, Mar 29th - [[Talk Slides]](/talk_slides/yilin_Mar_29.pdf) [[Original Paper]](https://arxiv.org/abs/2103.14030)
 - **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization**, CVPR 2020
   - By Shasha, Mar 8th - [[Talk Slides]](/talk_slides/shasha_mar_08.pdf) [[Original Paper]](https://arxiv.org/pdf/2004.00452.pdf)
 - **Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective**, ICCV 2017
