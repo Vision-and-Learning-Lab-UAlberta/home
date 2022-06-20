@@ -1,5 +1,5 @@
 ---
-title: "Our paper \"Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction\" is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence!"
+title: "Our paper \"Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction\" is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!"
 
 subtitle: ''
 summary: ''

@@ -69,13 +69,12 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **Deep Metric Learning for Weakly Supervised Action Localization**, WACV 2020
-  - By Jingjing Li, Apr 12th [[Original Paper]](https://arxiv.org/abs/2001.07793) 
+- (To be updated ...)
 
 ## Finished Talks:
-- **[Ph.D. Oral Defence dry run]**
-  - By Shuang, Apr 5th 
-- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**, ICCV 2021
-  - By Yilin, Mar 29th - [[Talk Slides]](/talk_slides/yilin_Mar_29.pdf) [[Original Paper]](https://arxiv.org/abs/2103.14030)
+- **SimPoE: Simulated Character Control for 3D Human Pose Estimation**, CVPR 2021
+  - By Yuxuan, Jun 14th - [[Talk Slides]](/talk_slides/yuxuan_Jun_14.pdf) [[Original Paper]](https://arxiv.org/abs/2104.00683)
+- **Efficient Regional Memory Network for Video Object Segmentation**, CVPR 2021
+  - By Wei, Jun 07th - [[Talk Slides]](/talk_slides/wei_Jun_07.pptx) [[Original Paper]](https://arxiv.org/abs/2103.12934)
 
 Check [Full List](/talk).

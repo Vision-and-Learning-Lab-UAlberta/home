@@ -12,6 +12,16 @@ header:
   caption: ""
   image: ""
 ---
+### June 2022:
+- **SimPoE: Simulated Character Control for 3D Human Pose Estimation**, CVPR 2021
+  - By Yuxuan, Jun 14th - [[Talk Slides]](/talk_slides/yuxuan_Jun_14.pdf) [[Original Paper]](https://arxiv.org/abs/2104.00683)
+- **Efficient Regional Memory Network for Video Object Segmentation**, CVPR 2021
+  - By Wei, Jun 07th - [[Talk Slides]](/talk_slides/wei_Jun_07.pptx) [[Original Paper]](https://arxiv.org/abs/2103.12934)
+  
+### May 2022:
+- **D-NeRF: Neural Radiance Fields for Dynamic Scenes**, CVPR 2020
+  - By Xinxin, May 31st - [[Talk Slides]](/talk_slides/xinxin_May_31.pdf) [[Original Paper]](https://arxiv.org/abs/2011.13961)
+
 ### April 2022:
 - **[Ph.D. Oral Defence dry run]**
   - By Shuang, Apr 5th 
