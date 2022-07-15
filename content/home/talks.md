@@ -72,9 +72,9 @@ subtitle = ""
 - (To be updated ...)
 
 ## Finished Talks:
+- **How Do Vision Transformers Work?**, ICLR 2022
+  - By Zhan, Jul 12nd - [[Talk Slides]](/talk_slides/zhan_2022_jul_12.pptx) [[Original Paper]](https://arxiv.org/abs/2202.06709)
 - **SimPoE: Simulated Character Control for 3D Human Pose Estimation**, CVPR 2021
   - By Yuxuan, Jun 14th - [[Talk Slides]](/talk_slides/yuxuan_Jun_14.pdf) [[Original Paper]](https://arxiv.org/abs/2104.00683)
-- **Efficient Regional Memory Network for Video Object Segmentation**, CVPR 2021
-  - By Wei, Jun 07th - [[Talk Slides]](/talk_slides/wei_Jun_07.pptx) [[Original Paper]](https://arxiv.org/abs/2103.12934)
 
 Check [Full List](/talk).

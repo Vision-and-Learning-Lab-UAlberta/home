@@ -12,6 +12,10 @@ header:
   caption: ""
   image: ""
 ---
+### July 2022:
+- **How Do Vision Transformers Work?**, ICLR 2022
+  - By Zhan, Jul 12nd - [[Talk Slides]](/talk_slides/zhan_2022_jul_12.pptx) [[Original Paper]](https://arxiv.org/abs/2202.06709)
+  
 ### June 2022:
 - **SimPoE: Simulated Character Control for 3D Human Pose Estimation**, CVPR 2021
   - By Yuxuan, Jun 14th - [[Talk Slides]](/talk_slides/yuxuan_Jun_14.pdf) [[Original Paper]](https://arxiv.org/abs/2104.00683)
