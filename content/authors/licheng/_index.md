@@ -48,7 +48,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 
 user_groups:
-- Lab Members
+- Lab Director
 ---
 
 I am an associate professor with the Department of Electrical and Computer Engineering, University of Alberta. Prior to joining University of Alberta in year 2018, I worked at A\*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. I received my BSc degree in Computer Science from Jilin University in 1996, M. Eng. degree from Nankai University in 1999, and PhD in Computing Science from the University of Alberta in 2004. My research expertise is mainly on computer vision and machine learning.
