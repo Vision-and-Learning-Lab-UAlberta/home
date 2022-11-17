@@ -56,7 +56,7 @@ email: ""
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
 #- Postdoctoral Fellows
-- Lab Members
+- Alumni
 ---
 Sen Wang is a Postdoctoral Fellow under the supervision of Dr. Li Cheng at University of Alberta and Dr. Minglun Gong at University of Guelph. 
 He have graduated from the Northwestern Polytechnical University with his Ph.D degree in 2019, advised by Dr. Runxiao Wang. Before that, he recieved my B.Eng. degree from the School of Mechanical Engineering from Northwestern Polytechnical University in 2011. During 2015-2016, he was a Visiting Ph.D Student at University of Kentucky, advised by Dr. Ruigang Yang. 
