@@ -4,7 +4,7 @@ title: Gohar Javed
 
 # Username (this should match the folder name)
 authors:
-- yilinwang
+- gohar
 
 # Is this the primary user of the site?
 superuser: false
