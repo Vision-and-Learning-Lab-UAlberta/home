@@ -1,5 +1,5 @@
 ---
-title: "Our paper \"Multispectral Video Semantic Segmentation: A Benchmark Dataset and Baseline\" is accepted by IEEE Conference on Computer Vision and Pattern Recognition 2023!"
+title: "Our CVPR 2023 workshop paper \"Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications\" has won the most insightful paper award presented by the 1st Workshop on Vision-based InduStrial InspectiON"
 subtitle: ''
 summary: ''
 authors:
@@ -8,8 +8,8 @@ authors:
 - licheng
 
 tags:
-date: "2023-02-28T00:00:00Z"
-lastmod: "2023-02-28T00:00:00Z"
+date: "2023-07-28T00:00:00Z"
+lastmod: "2023-07-28T00:00:00Z"
 featured: false
 draft: false
 
