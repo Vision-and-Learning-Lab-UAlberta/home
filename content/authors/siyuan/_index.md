@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Muhammad Gohar Javed
+title: Siyuan Li
 
 # Username (this should match the folder name)
 authors:
-- gohar
+- siyuan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Graduate
+role: PhD Graduate
 
 # Organizations/Affiliations
 organizations:
