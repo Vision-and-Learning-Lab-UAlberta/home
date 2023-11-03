@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: The 32nd British Machine Vision Conference
-publication_short: BMVC
+publication_short: "*British Machine Vision Conference(BMVC)*"
 
 abstract: "The space of human motions is vast, ranging from daily behaviors of healthy adults to the slow and stiff motions of Parkinson's patients, or to infant motions. This poses significant challenges when the task is focused on a relatively niche motion subspace such as physical rehabilitation: often the target datasets are limited and less-annotated; meanwhile, there exist large-scale, well-annotated benchmarks, typically consisting of daily activities from healthy adults. This observation inspires us to propose a two-stage pipeline that takes advantage of the best of both worlds: a non-expert network starts to learn the representation of normal motions from source datasets, by estimating the pace and a set of manually inpainted joints of the pose sequence; this is followed by an expert network that takes as input these representations as well as the appearance features of the dedicated motions from the target dataset, to assess the quality of the specific actions. Empirical experiments on two very different motion assessment applications (physical rehabilitation of Parkinson's & stroke patients, and neuromotor behaviors of infants) demonstrate the superior performance of our approach."
 

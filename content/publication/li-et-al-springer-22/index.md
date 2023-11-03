@@ -19,8 +19,8 @@ publishDate: "2022-09-22T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: Springer
-publication_short: Springer
+publication: "*MICCAI Workshop on Resource-Efficient Medical Image Analysis(REMIA)*"
+publication_short: "*MICCAI Workshop on Resource-Efficient Medical Image Analysis(REMIA)*"
 
 abstract: ""
 

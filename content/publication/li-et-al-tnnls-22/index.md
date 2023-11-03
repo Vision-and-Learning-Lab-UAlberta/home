@@ -19,8 +19,8 @@ publishDate: "2020-12-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-publication_short: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+publication: "*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*"
+publication_short: "*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*"
 
 abstract: ""
 

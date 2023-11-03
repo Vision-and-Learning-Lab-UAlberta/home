@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 29th ACM International Conference on Multimedia
-publication_short: ACM Multimedia
+publication_short: "*Proceedings of the 29th ACM International Conference on Multimedia*"
 
 abstract: "Music and dance have always co-existed as pillars of human activities, contributing immensely to the cultural, social, and entertainment functions in virtually all societies. Notwithstanding the gradual systematization of music and dance into two independent disciplines, their intimate connection is undeniable and one art-form often appears incomplete without the other. Recent research works have studied generative models for dance sequences conditioned on music. The dual task of composing music for given dances, however, has been largely overlooked. In this paper, we propose a novel extension, where we jointly model both tasks in a dual learning approach. To leverage the duality of the two modalities, we introduce an optimal transport objective to align feature embeddings, as well as a cycle consistency loss to foster overall consistency. Experimental results demonstrate that our dual learning framework improves individual task performance, delivering generated music compositions and dance choreographs that are realistic and faithful to the conditioned inputs."
 

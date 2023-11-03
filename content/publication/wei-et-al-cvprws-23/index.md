@@ -16,7 +16,7 @@ date: "2023-07-01T00:00:00Z"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2023-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of IEEE Conference on Computer Vision and Pattern Recognition Workshop
-publication_short: CVPR Workshop
+publication: Workshop on Vision-based InduStrial InspectiON at CVPR 2023 (Best Paper), 1-11
+publication_short: "*Workshop on Vision-based InduStrial InspectiON at CVPR 2023 (Best Paper), 1-11*"
 
 abstract: "Recently, Meta AI Research approaches a general, promptable Segment Anything Model (SAM) pre-trained on an unprecedentedly large segmentation dataset (SA-1B). Without a doubt, the emergence of SAM will yield significant benefits for a wide array of practical image segmentation applications. In this study, we conduct a series of intriguing investigations into the performance of SAM across various applications, particularly in the fields of natural images, agriculture, manufacturing, remote sensing, and healthcare. We analyze and discuss the benefits and limitations of SAM, while also presenting an outlook on its future development in segmentation tasks. By doing so, we aim to give a comprehensive understanding of SAM's practical applications. This work is expected to provide insights that facilitate future research activities toward generic segmentation. Source code is publicly available."
 
@@ -41,7 +41,7 @@ tags:
 featured: false
 
 links:
-# url_pdf: https://arxiv.org/pdf/2006.03630.pdf
+url_pdf: https://arxiv.org/abs/2304.05750
 # url_code: https://github.com/BII-wushuang/Lie-Group-Motion-Prediction
 # url_dataset:
 # url_poster:

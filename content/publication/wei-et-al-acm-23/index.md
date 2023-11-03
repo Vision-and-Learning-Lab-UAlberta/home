@@ -26,7 +26,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ACM International Conference on Multimedia 2023
-publication_short: ACM MM 2023
+publication_short: "*ACM International Conference on Multimedia*"
 
 abstract: ""
 
@@ -40,7 +40,7 @@ tags:
 featured: false
 
 links:
-# url_pdf: https://arxiv.org/pdf/2006.03630.pdf
+url_pdf: https://www.mdpi.com/2072-4292/14/11/2673
 # url_code: https://github.com/BII-wushuang/Lie-Group-Motion-Prediction
 # url_dataset:
 # url_poster:

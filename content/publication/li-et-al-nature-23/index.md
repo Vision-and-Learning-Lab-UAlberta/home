@@ -2,13 +2,74 @@
 title: "BigNeuron: A resource to benchmark and predict best-performing algorithms for automated reconstruction of neuronal morphology"
 authors:
 - Linus Manubens-Gil
-- '...'
+- Zhi Zhou
+- Hanbo Chen
+- Arvind Ramanathan
+- Xiaoxiao Liu
+- Yufeng Liu
+- Alessandro Bria
+- Todd Gillette
+- Zongcai Ruan
+- Jian Yang
+- Miroslav Radojević
+- Ting Zhao
 - licheng
-- '...'
+- Lei Qu
+- Siqi Liu
+- Kristofer E Bouchard
+- Lin Gu
+- Weidong Cai
+- Shuiwang Ji
+- Badrinath Roysam
+- Ching-Wei Wang
+- Hongchuan Yu
+- Amos Sironi
+- Daniel Maxim Iascone
+- Jie Zhou
+- Erhan Bas
+- Eduardo Conde-Sousa
+- Paulo Aguiar
+- Xiang Li
+- Yujie Li
+- Sumit Nanda
+- Yuan Wang
+- Leila Muresan
+- Pascal Fua
+- Bing Ye
+- Hai-yan He
+- Jochen F Staiger
+- Manuel Peter
+- Daniel N Cox
+- Michel Simonneau
+- Marcel Oberlaender
+- Gregory Jefferis
+- Kei Ito
+- Paloma Gonzalez-Bellido
+- Jinhyun Kim
+- Edwin Rubel
+- Hollis T Cline
+- Hongkui Zeng
+- Aljoscha Nern
+- Ann-Shyn Chiang
+- Jianhua Yao
+- Jane Roskams
+- Rick Livesey
+- Janine Stevens
+- Tianming Liu
+- Chinh Dang
+- Yike Guo
+- Ning Zhong
+- Georgia Tourassi
+- Sean Hill
+- Michael Hawrylycz
+- Christof Koch
+- Erik Meijering
+- Giorgio A Ascoli
 - Hanchuan Peng
 
+
 date: "2023-05-11T00:00:00Z"
-doi: "10.1038/s41592-023-01848-5"
+doi: "https://doi.org/10.1101/2022.05.10.491406"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-11T00:00:00Z"
@@ -21,7 +82,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Nature Methods
-publication_short: Nature Methods
+publication_short: "*Nature Methods, 1-12*"
 
 abstract: ""
 

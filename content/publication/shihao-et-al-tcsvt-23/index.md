@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Circuits and Systems for Video Technology"
-publication_short: "IEEE Transactions on Circuits and Systems for Video Technology"
+publication_short: "*IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)*"
 
 abstract: "Multi-person pose understanding from RGB videos involves three complex tasks: pose estimation, tracking and motion forecasting. Intuitively, accurate multi-person pose estimation facilitates robust tracking, and robust tracking builds crucial history for correct motion forecasting. Most existing works either focus on a single task or employ multi-stage approaches to solving multiple tasks separately, which tends to make sub-optimal decision at each stage and also fail to exploit correlations among the three tasks. In this paper, we propose Snipper, a unified framework to perform multi-person 3D pose estimation, tracking, and motion forecasting simultaneously in a single stage. We propose an efficient yet powerful deformable attention mechanism to aggregate spatiotemporal information from the video snippet. Building upon this deformable attention, a video transformer is learned to encode the spatiotemporal features from the multi-frame snippet and to decode informative pose features for multi-person pose queries. Finally, these pose queries are regressed to predict multi-person pose trajectories and future motions in a single shot. In the experiments, we show the effectiveness of Snipper on three challenging public datasets where our generic model rivals specialized state-of-art baselines for pose estimation, tracking, and forecasting."
 # Summary. An optional shortened abstract.

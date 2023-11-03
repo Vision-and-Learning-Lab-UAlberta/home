@@ -1,5 +1,5 @@
 ---
-title: "Our CVPR 2023 workshop paper \"Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications\" has won the most insightful paper award presented by the 1st Workshop on Vision-based InduStrial InspectiON"
+title: "Our CVPR 2023 workshop paper \"Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications\" has won the most insightful paper award presented by the 1st Workshop on Vision-based InduStrial InspectiON!"
 subtitle: ''
 summary: ''
 authors:

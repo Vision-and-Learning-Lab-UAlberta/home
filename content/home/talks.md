@@ -69,12 +69,11 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- (To be updated ...)
+- **3D Reconstruction from a single-view via linear perspective** *(Guest Talk)*
+  - By Yiming Qian, *Nov 3rd, 2023*
 
 ## Finished Talks:
-- **How Do Vision Transformers Work?**, ICLR 2022
-  - By Zhan, Jul 12nd - [[Talk Slides]](/talk_slides/zhan_2022_jul_12.pptx) [[Original Paper]](https://arxiv.org/abs/2202.06709)
-- **SimPoE: Simulated Character Control for 3D Human Pose Estimation**, CVPR 2021
-  - By Yuxuan, Jun 14th - [[Talk Slides]](/talk_slides/yuxuan_Jun_14.pdf) [[Original Paper]](https://arxiv.org/abs/2104.00683)
+- **Training Diffusion Models with Reinforcement Learning**
+  - By Gohar, *Oct 12th, 2023* - [[Talk Slides]](/talk_slides/231020_gohar.pdf) [[Original Paper]](https://arxiv.org/abs/2305.13301)
 
 Check [Full List](/talk).

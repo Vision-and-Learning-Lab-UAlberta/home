@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication:  IEEE Transactions on Pattern Analysis and Machine Intelligence
-publication_short: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+publication_short: "*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*"
 
 abstract: "Predicting human motion from historical pose sequence is crucial for a machine to succeed in intelligent interactions with humans. One aspect that has been obviated so far, is the fact that how we represent the skeletal pose has a critical impact on the prediction results. Yet there is no effort that investigates across different pose representation schemes. We conduct an indepth study on various pose representations with a focus on their effects on the motion prediction task. Moreover, recent approaches build upon off-the-shelf RNN units for motion prediction. These approaches process input pose sequence sequentially and inherently have difficulties in capturing long-term dependencies. In this paper, we propose a novel RNN architecture termed AHMR for motion prediction which simultaneously models local motion contexts and a global context. We further explore a geodesic loss and a forward kinematics loss, which have more geometric significance than the widely employed L2 loss. Interestingly, we applied our method to a range of articulate objects including human, fish, and mouse. Empirical results show that our approach outperforms the state-of-the-art methods in short-term prediction and achieves much enhanced long-term prediction proficiency, such as retaining natural human-like motions over 50 seconds predictions. Our codes are released."
 

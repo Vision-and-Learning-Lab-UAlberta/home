@@ -24,7 +24,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops
-publication_short: CVPRW
+publication_short:  "*International Workshop on Computer Vision in Sports (CVsports) at CVPR 2020*"
 
 abstract: "Isn't it about time to help judges with the challenging task of evaluating athletes' performances in sports with extreme poses? To tackle this problem and inspired by human judges' grading schema, we propose a virtual refereeing network to evaluate the execution of a diving performance. This assessment would be based on visual clues as well as the body joints sequence of the action video. In order to cover the unusual body contortions in such scenarios, we present ExPose: annotated dataset of Extreme Poses. We further introduce a simple yet effective module to assess the difficulty of the performance based on the extracted joints sequence. Finally, the overall score of the performance would be reported as the multiplication of the execution and difficulty scores. The results demonstrate our proposed lightweight network not only achieves state-of-the-art results compared to previous studies in diving but also shows acceptable generalization to other contortive sports."
 # Summary. An optional shortened abstract.
