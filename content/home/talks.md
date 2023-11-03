@@ -74,6 +74,6 @@ subtitle = ""
 
 ## Finished Talks:
 - **Training Diffusion Models with Reinforcement Learning**
-  - By Gohar, *Oct 12th, 2023* - [[Talk Slides]](/talk_slides/231020_gohar.pdf) [[Original Paper]](https://arxiv.org/abs/2305.13301)
+  - By Gohar, *Oct 20th, 2023* - [[Talk Slides]](/talk_slides/231020_gohar.pdf) [[Original Paper]](https://arxiv.org/abs/2305.13301)
 
 Check [Full List](/talk).
