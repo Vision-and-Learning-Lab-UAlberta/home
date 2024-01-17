@@ -61,7 +61,8 @@ email: youdong@ualberta.ca
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+#- Lab Members
+- Alumni
 ---
 
 Youdong Ma obtained his BSc in Computing Science from University of Alberta in 2016. 

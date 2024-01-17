@@ -4,27 +4,49 @@ title: Yuxuan Mu
 
 # Username (this should match the folder name)
 authors:
-- yilinwang
+- yuxuanmu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Graduate
+role: M.Sc. student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Alberta
   url: ""
 
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests lies in 3D computer vision.
+
 interests:
-- Computer Vision
+- Human Motion Modeling
+- 3D reconstruction
+
+education:
+  courses:
+  - course: Msc in Electrical and Computer Engineering
+    institution: University of Alberta
+    year: 2021 - Now
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:cguo2@ualberta.ca" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:ymu3@ualberta.ca # For a direct email link, use "mailto:cguo2@ualberta.ca".
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email:
+email: "ymu3@ualberta.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Lab Members
 ---
+
+Yuxuan Mu is a M.Sc. student under the supervision of Dr. Li Cheng. His work focuses on human motion generative modling. For more information, please visit his [personal webpage](https://yxmu.foo).

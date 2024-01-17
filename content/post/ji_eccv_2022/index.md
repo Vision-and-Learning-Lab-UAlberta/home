@@ -9,7 +9,7 @@ authors:
 - senwang
 - Zhenbo Yu
 - Xingyu Li
-- Bingbig Ni
+- Bingbing Ni
 - Minglun Gong
 - licheng
 

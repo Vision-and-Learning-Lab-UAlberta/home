@@ -1,15 +1,15 @@
 ---
 title: "Our paper \"Generative Human Motion Stylization in Latent Space
-\" is accepted by International Conference on Learning Representations(ICLR) 2024!"
+\" is accepted by International Conference on Learning Representations (ICLR) 2024!"
 subtitle: ''
 summary: ''
 authors:
 - chuanguo
+- yuxuanmu
 - xinxinzuo
-- senwang
-- Xinshuang Liu
-- shihaozou
-- Minglun Gong
+- Peng Dai
+- Youliang Yan
+- Juwei Lu
 - licheng
 
 tags:

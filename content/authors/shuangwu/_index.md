@@ -67,4 +67,3 @@ user_groups:
 - Alumni
 ---
 
-Chuan Guo is a PhD student at the Vision and Learning Lab. His research interests include computer vision and machine learning.
