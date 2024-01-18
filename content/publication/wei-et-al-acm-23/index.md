@@ -40,7 +40,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://www.mdpi.com/2072-4292/14/11/2673
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3581783.3611738
 # url_code: https://github.com/BII-wushuang/Lie-Group-Motion-Prediction
 # url_dataset:
 # url_poster:

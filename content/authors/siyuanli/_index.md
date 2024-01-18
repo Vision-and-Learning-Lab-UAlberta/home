@@ -58,4 +58,4 @@ user_groups:
 - Lab Members
 ---
 
-Siyuan Li is a Phd student under the supervision of Dr.Li Cheng. Her work now focuses on modeling stylized 3D character motions and animations.
+Siyuan Li is a Phd student under the supervision of Dr.Li Cheng and Dr.Xingyu Li. Her work now focuses on modeling stylized 3D character motions and animations.
