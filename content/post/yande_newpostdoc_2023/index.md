@@ -1,5 +1,5 @@
 ---
-title: "Welcome Dr. Yande Li, who recently joined in our lab as a Post Doc Fellow."
+title: "Welcome Dr. Yande Li, who recently joined in our lab as a Postdoc Fellow."
 subtitle: ''
 summary: ''
 authors:
