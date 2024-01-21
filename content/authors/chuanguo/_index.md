@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Electrical and Computer Engineering(Transfer)
     institution: University of Alberta
-    year: 2020 - Now
+    year: 2020 - 2024
   - course: Msc in Electrical and Computer Engineering
     institution: University of Alberta
     year: 2019 - 2020
@@ -43,19 +43,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:cguo2@ualberta.ca".
+  link: mailto:cguo2@ualberta.ca  # For a direct email link, use "mailto:cguo2@ualberta.ca".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RnkuBmUAAAAJ&hl=en
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cguo2@ualberta.ca"
+email: "guochuan5513@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 ---
 
-Chuan Guo is a Phd student under the supervision of Dr.Li Cheng. His work now focuses on modeling human motions, such as multi-modal human motion generation. He had two-year research experience in the Multimedia Group at Institute of Computing Technology, Chinese Academy of Sciences. Before that, he recieved his bachelor degree from Software Engineering College at Jilin University. For more information, please visit his [personal webpage](https://ericguo5513.github.io/).
+Chuan Guo obtained his PhD degree in the ECE department, University of Alberta, under the supervision of Dr.Li Cheng. His work now focuses on modeling human motions, such as multi-modal human motion generation. He had two-year research experience in the Multimedia Group at Institute of Computing Technology, Chinese Academy of Sciences. Before that, he recieved his bachelor degree from Software Engineering College at Jilin University. For more information, please visit his [personal webpage](https://ericguo5513.github.io/).
