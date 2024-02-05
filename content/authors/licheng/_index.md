@@ -15,7 +15,7 @@ organizations:
   url: "https://www.ece.ualberta.ca/~lcheng5/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an associate professor with the Department of Electrical and Computer Engineering, University of Alberta. I also hold an adjunct position with A*STAR, Singapore, where I have led a group in Machine Learning for Bioimage Analysis at the Bioinformatics Institute. Prior to joining University of Alberta in year 2018, I worked at A*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. I received my BSc degree in Computer Science from Jilin University in 1996, M. Eng. degree from Nankai University in 1999, and PhD in Computing Science from the University of Alberta in 2004. My research expertise is mainly on computer vision and machine learning.
+bio: I am a full professor with the Department of Electrical and Computer Engineering, University of Alberta. I also hold an adjunct position with A*STAR, Singapore, where I have led a group in Machine Learning for Bioimage Analysis at the Bioinformatics Institute. Prior to joining University of Alberta in year 2018, I worked at A*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. I received my BSc degree in Computer Science from Jilin University in 1996, M. Eng. degree from Nankai University in 1999, and PhD in Computing Science from the University of Alberta in 2004. My research expertise is mainly on computer vision and machine learning.
 
 interests:
 - Computer Vision
@@ -51,4 +51,4 @@ user_groups:
 - Lab Director
 ---
 
-I am an associate professor with the Department of Electrical and Computer Engineering, University of Alberta. Prior to joining University of Alberta in year 2018, I worked at A\*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. I received my BSc degree in Computer Science from Jilin University in 1996, M. Eng. degree from Nankai University in 1999, and PhD in Computing Science from the University of Alberta in 2004. My research expertise is mainly on computer vision and machine learning.
+I am a full professor with the Department of Electrical and Computer Engineering, University of Alberta. Prior to joining University of Alberta in year 2018, I worked at A\*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. I received my BSc degree in Computer Science from Jilin University in 1996, M. Eng. degree from Nankai University in 1999, and PhD in Computing Science from the University of Alberta in 2004. My research expertise is mainly on computer vision and machine learning.

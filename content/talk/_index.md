@@ -12,6 +12,14 @@ header:
   caption: ""
   image: ""
 ---
+### November 2023:
+- **3D Reconstruction from a single-view via linear perspective** *(Guest Talk)*
+  - By Yiming Qian, *Nov 3rd, 2023*
+
+### October 2023:
+- **Training Diffusion Models with Reinforcement Learning**
+  - By Gohar, *Oct 20th, 2023* - [[Talk Slides]](/talk_slides/231020_gohar.pdf) [[Original Paper]](https://arxiv.org/abs/2305.13301)
+
 ### July 2022:
 - **How Do Vision Transformers Work?**, ICLR 2022
   - By Zhan, Jul 12nd - [[Talk Slides]](/talk_slides/zhan_2022_jul_12.pptx) [[Original Paper]](https://arxiv.org/abs/2202.06709)

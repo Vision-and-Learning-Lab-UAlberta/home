@@ -69,11 +69,14 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **3D Reconstruction from a single-view via linear perspective** *(Guest Talk)*
-  - By Yiming Qian, *Nov 3rd, 2023*
+- **DiffMesh: A Motion-aware Diffusion-like Framework for Human Mesh Recovery from Videos**
+  - By Yande, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_yandeli_DiffMesh.pptx) [[Original Paper]](https://arxiv.org/abs/2303.13397)
+
+- **Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset**
+  - By Siyuan, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_siyuanli_Motion-X.pptx) [[Original Paper]](https://motion-x-dataset.github.io/)
 
 ## Finished Talks:
-- **Training Diffusion Models with Reinforcement Learning**
-  - By Gohar, *Oct 20th, 2023* - [[Talk Slides]](/talk_slides/231020_gohar.pdf) [[Original Paper]](https://arxiv.org/abs/2305.13301)
+- **3D Reconstruction from a single-view via linear perspective** *(Guest Talk)*
+  - By Yiming Qian, *Nov 3rd, 2023*
 
 Check [Full List](/talk).
