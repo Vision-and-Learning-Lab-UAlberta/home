@@ -69,14 +69,16 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+
+
+## Finished Talks:
 - **DiffMesh: A Motion-aware Diffusion-like Framework for Human Mesh Recovery from Videos**
   - By Yande, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_yandeli_DiffMesh.pptx) [[Original Paper]](https://arxiv.org/abs/2303.13397)
 
 - **Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset**
   - By Siyuan, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_siyuanli_Motion-X.pptx) [[Original Paper]](https://motion-x-dataset.github.io/)
 
-## Finished Talks:
-- **3D Reconstruction from a single-view via linear perspective** *(Guest Talk)*
-  - By Yiming Qian, *Nov 3rd, 2023*
+- **When it comes to HUGE**
+  - By Zhenglin, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_zhenglin_huge_model.pdf)
 
 Check [Full List](/talk).
