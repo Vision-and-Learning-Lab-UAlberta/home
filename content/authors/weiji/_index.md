@@ -73,4 +73,4 @@ user_groups:
 - Lab Members
 ---
 
-Wei Ji is a PhD student under the supervision of Prof. Li Cheng. His work focuses on designing efficient computer vision algorithms for 3D scene understanding, visual saliency analysis, and medical image processing.
+Wei Ji is a PhD student under the supervision of Prof. Li Cheng. His work focuses on designing efficient computer vision algorithms for complex scene understanding, medical image analysis and multi-modal learning.

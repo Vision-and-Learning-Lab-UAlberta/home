@@ -69,22 +69,16 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **Reasoning with Foundation Models**
+  - By Zhenglin, *March 18th, 2024* - [[Talk Slides]](/talk_slides/20240318_zhenglin_Reasoning_with_Foundation_Models.pptx)
+
+
+
+## Finished Talks:
 - **SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**
   - By Hamid, *March 5th, 2024* - [[Talk Slides]](/talk_slides/20240305_hamid_SLOPER4D.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_SLOPER4D_A_Scene-Aware_Dataset_for_Global_4D_Human_Pose_Estimation_CVPR_2023_paper.pdf)
 
 - **Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape**
   - By Siyuan, *March 5th, 2024* - [[Talk Slides]](/talk_slides/20240305_siyuanli_Animal3D.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Animal3D_A_Comprehensive_Dataset_of_3D_Animal_Pose_and_Shape_ICCV_2023_paper.pdf)
-
-
-
-## Finished Talks:
-- **DiffMesh: A Motion-aware Diffusion-like Framework for Human Mesh Recovery from Videos**
-  - By Yande, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_yandeli_DiffMesh.pptx) [[Original Paper]](https://arxiv.org/abs/2303.13397)
-
-- **Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset**
-  - By Siyuan, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_siyuanli_Motion-X.pptx) [[Original Paper]](https://motion-x-dataset.github.io/)
-
-- **When it comes to HUGE**
-  - By Zhenglin, *Feb 5th, 2024* - [[Talk Slides]](/talk_slides/20240205_zhenglin_huge_model.pdf)
 
 Check [Full List](/talk).
