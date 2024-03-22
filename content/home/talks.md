@@ -69,12 +69,13 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **Reasoning with Foundation Models**
-  - By Zhenglin, *March 18th, 2024* - [[Talk Slides]](/talk_slides/20240318_zhenglin_Reasoning_with_Foundation_Models.pptx)
 
 
 
 ## Finished Talks:
+- **Reasoning with Foundation Models**
+  - By Zhenglin, *March 18th, 2024* - [[Talk Slides]](/talk_slides/20240318_zhenglin_Reasoning_with_Foundation_Models.pdf)
+
 - **SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**
   - By Hamid, *March 5th, 2024* - [[Talk Slides]](/talk_slides/20240305_hamid_SLOPER4D.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_SLOPER4D_A_Scene-Aware_Dataset_for_Global_4D_Human_Pose_Estimation_CVPR_2023_paper.pdf)
 
