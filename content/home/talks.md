@@ -69,7 +69,8 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-
+- **Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera**
+  - By Hamid, *April 1, 2024* - [[Talk Slides]](/talk_slides/20240401_hamid_Mocap_Everyone_Everywhere.pptx) [[Original Paper]](https://arxiv.org/abs/2401.00847)
 
 
 ## Finished Talks:
