@@ -69,18 +69,12 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera**
-  - By Hamid, *April 1, 2024* - [[Talk Slides]](/talk_slides/20240401_hamid_Mocap_Everyone_Everywhere.pptx) [[Original Paper]](https://arxiv.org/abs/2401.00847)
+- **Introduction to Sora**
+  - By Yuxuan, *April 15, 2024* - [[Talk Slides]](/talk_slides/20240415_Yuxuan_Sora.pptx)
 
 
 ## Finished Talks:
-- **Reasoning with Foundation Models**
-  - By Zhenglin, *March 18th, 2024* - [[Talk Slides]](/talk_slides/20240318_zhenglin_Reasoning_with_Foundation_Models.pdf)
-
-- **SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**
-  - By Hamid, *March 5th, 2024* - [[Talk Slides]](/talk_slides/20240305_hamid_SLOPER4D.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_SLOPER4D_A_Scene-Aware_Dataset_for_Global_4D_Human_Pose_Estimation_CVPR_2023_paper.pdf)
-
-- **Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape**
-  - By Siyuan, *March 5th, 2024* - [[Talk Slides]](/talk_slides/20240305_siyuanli_Animal3D.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Animal3D_A_Comprehensive_Dataset_of_3D_Animal_Pose_and_Shape_ICCV_2023_paper.pdf)
+- **Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera**
+  - By Hamid, *April 1, 2024* - [[Talk Slides]](/talk_slides/20240401_hamid_Mocap_Everyone_Everywhere.pptx) [[Original Paper]](https://arxiv.org/abs/2401.00847)
 
 Check [Full List](/talk).
