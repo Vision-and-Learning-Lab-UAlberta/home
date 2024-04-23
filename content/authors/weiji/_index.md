@@ -70,7 +70,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- PhD Students
-- Lab Members
+- Alumni
 ---
 
-Wei Ji is a PhD student under the supervision of Prof. Li Cheng. His work focuses on designing efficient computer vision algorithms for complex scene understanding, medical image analysis and multi-modal learning.
+Wei Ji obtained his PhD degree in the ECE department, University of Alberta, under the supervision of Prof. Li Cheng. His work focuses on designing efficient computer vision algorithms for complex scene understanding, medical image analysis and multi-modal learning.
