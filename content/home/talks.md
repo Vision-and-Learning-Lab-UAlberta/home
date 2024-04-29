@@ -69,11 +69,17 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **Introduction to Sora**
-  - By Yuxuan, *April 15, 2024* - [[Talk Slides]](/talk_slides/20240415_Yuxuan_Sora.pptx)
+- **Learning Physically Simulated Tennis Skills from Broadcast Videos**
+  - By Yilin, *April 29, 2024* - [[Talk Slides]](/talk_slides/20240429_yilin.pptx)
+
+- **SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation**
+  - By Hamid, *April 29, 2024* - [[Talk Slides]](/talk_slides/20240429_hamid_SMPLer-X.pptx)
 
 
 ## Finished Talks:
+- **Introduction to Sora**
+  - By Yuxuan, *April 15, 2024* - [[Talk Slides]](/talk_slides/20240415_Yuxuan_Sora.pptx)
+
 - **Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera**
   - By Hamid, *April 1, 2024* - [[Talk Slides]](/talk_slides/20240401_hamid_Mocap_Everyone_Everywhere.pptx) [[Original Paper]](https://arxiv.org/abs/2401.00847)
 
