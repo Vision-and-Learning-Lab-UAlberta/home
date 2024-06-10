@@ -73,7 +73,7 @@ subtitle = ""
   - By Yande, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_yande.pptx)
 
 - **Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis**
-  - By Ji, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_jiyang.pptx) [[Original Paper]](https://research.nvidia.com/labs/toronto-ai/DMTet/assets/dmtet.pdf)
+  - By Ji, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_jiyang.pdf) [[Original Paper]](https://research.nvidia.com/labs/toronto-ai/DMTet/assets/dmtet.pdf)
 
 
 ## Finished Talks:
