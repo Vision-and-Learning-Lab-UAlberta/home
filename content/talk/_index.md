@@ -12,18 +12,37 @@ header:
   caption: ""
   image: ""
 ---
+### June 2024:
+- **Animate Anyone & MusePose**
+  - By Yande, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_yande.pptx)
+
+- **Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis**
+  - By Ji, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_jiyang.pptx) [[Original Paper]](https://research.nvidia.com/labs/toronto-ai/DMTet/assets/dmtet.pdf)
+
+### May 2024:
+- **Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**
+  - By Jingjing, *May 27, 2024* - [[Talk Slides]](/talk_slides/20240527_jingjing.pptx)
+
+- **Language Model Beats Diffusion– Tokenizer is Key to Visual Generation**
+  - By Gohar, *May 27, 2024* - [[Talk Slides]](/talk_slides/20240527_gohar.pptx)
+
 ### April 2024:
+- **Learning Physically Simulated Tennis Skills from Broadcast Videos**
+  - By Yilin, *April 29, 2024* - [[Talk Slides]](/talk_slides/20240429_yilin.pptx)
+
+- **SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation**
+  - By Hamid, *April 29, 2024* - [[Talk Slides]](/talk_slides/20240429_hamid_SMPLer-X.pptx)
+
 - **Introduction to Sora**
   - By Yuxuan, *April 15, 2024* - [[Talk Slides]](/talk_slides/20240415_Yuxuan_Sora.pptx)
 
 - **Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera**
   - By Hamid, *April 1, 2024* - [[Talk Slides]](/talk_slides/20240401_hamid_Mocap_Everyone_Everywhere.pptx) [[Original Paper]](https://arxiv.org/abs/2401.00847)
 
+### March 2024:
 - **Reasoning with Foundation Models**
   - By Zhenglin, *March 18th, 2024* - [[Talk Slides]](/talk_slides/20240318_zhenglin_Reasoning_with_Foundation_Models.pdf)
 
-
-### March 2024:
 - **SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**
   - By Hamid, *March 5th, 2024* - [[Talk Slides]](/talk_slides/20240305_hamid_SLOPER4D.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_SLOPER4D_A_Scene-Aware_Dataset_for_Global_4D_Human_Pose_Estimation_CVPR_2023_paper.pdf)
 

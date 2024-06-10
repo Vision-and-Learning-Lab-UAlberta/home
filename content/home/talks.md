@@ -69,18 +69,18 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **Learning Physically Simulated Tennis Skills from Broadcast Videos**
-  - By Yilin, *April 29, 2024* - [[Talk Slides]](/talk_slides/20240429_yilin.pptx)
+- **Animate Anyone & MusePose**
+  - By Yande, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_yande.pptx)
 
-- **SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation**
-  - By Hamid, *April 29, 2024* - [[Talk Slides]](/talk_slides/20240429_hamid_SMPLer-X.pptx)
+- **Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis**
+  - By Ji, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_jiyang.pptx) [[Original Paper]](https://research.nvidia.com/labs/toronto-ai/DMTet/assets/dmtet.pdf)
 
 
 ## Finished Talks:
-- **Introduction to Sora**
-  - By Yuxuan, *April 15, 2024* - [[Talk Slides]](/talk_slides/20240415_Yuxuan_Sora.pptx)
+- **Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**
+  - By Jingjing, *May 27, 2024* - [[Talk Slides]](/talk_slides/20240527_jingjing.pptx)
 
-- **Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera**
-  - By Hamid, *April 1, 2024* - [[Talk Slides]](/talk_slides/20240401_hamid_Mocap_Everyone_Everywhere.pptx) [[Original Paper]](https://arxiv.org/abs/2401.00847)
+- **Language Model Beats Diffusion– Tokenizer is Key to Visual Generation**
+  - By Gohar, *May 27, 2024* - [[Talk Slides]](/talk_slides/20240527_gohar.pptx)
 
 Check [Full List](/talk).
