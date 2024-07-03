@@ -2,6 +2,10 @@
 # Display name
 title: Hamid Mohammadi
 
+# Username (this should match the folder name)
+authors:
+- hamid
+
 # Role/position
 role: Ph.D. student
 
@@ -42,13 +46,13 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JinMmm8AAAAJ&hl=en
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/sandstorm12
-- icon: linkedin
-  icon_pack: fas
+- icon: linkedin-in
+  icon_pack: fab
   link: https://www.linkedin.com/in/hamidcv/
-- icon: house
-  icon_pack: fas
+- icon: cv
+  icon_pack: ai
   link: https://sandstorm12.github.io/
 
 
