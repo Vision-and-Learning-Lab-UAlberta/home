@@ -12,6 +12,13 @@ header:
   caption: ""
   image: ""
 ---
+### July 2024:
+- **WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds**
+  - By Yilin, *July 22, 2024* - [[Talk Slides]](/talk_slides/20240722_yilinwang_WalkTheDog.pptx) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3641519.3657508)
+
+- **Improving Semantic Correspondence with Viewpoint Guided Spherical Maps**
+  - By Siyuan, *July 22, 2024* - [[Talk Slides]](/talk_slides/20240722_siyuanli_Semantic_Correspondence.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Mariotti_Improving_Semantic_Correspondence_with_Viewpoint-Guided_Spherical_Maps_CVPR_2024_paper.pdf)
+
 ### June 2024:
 - **Animate Anyone & MusePose**
   - By Yande, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_yande.pptx)

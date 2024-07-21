@@ -69,18 +69,18 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds**
+  - By Yilin, *July 22, 2024* - [[Talk Slides]](/talk_slides/20240722_yilinwang_WalkTheDog.pptx) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3641519.3657508)
+
+- **Improving Semantic Correspondence with Viewpoint Guided Spherical Maps**
+  - By Siyuan, *July 22, 2024* - [[Talk Slides]](/talk_slides/20240722_siyuanli_Semantic_Correspondence.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Mariotti_Improving_Semantic_Correspondence_with_Viewpoint-Guided_Spherical_Maps_CVPR_2024_paper.pdf)
+
+
+## Finished Talks:
 - **Animate Anyone & MusePose**
   - By Yande, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_yande.pptx)
 
 - **Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis**
   - By Ji, *June 10, 2024* - [[Talk Slides]](/talk_slides/20240610_jiyang.pdf) [[Original Paper]](https://research.nvidia.com/labs/toronto-ai/DMTet/assets/dmtet.pdf)
-
-
-## Finished Talks:
-- **Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**
-  - By Jingjing, *May 27, 2024* - [[Talk Slides]](/talk_slides/20240527_jingjing.pptx)
-
-- **Language Model Beats Diffusion– Tokenizer is Key to Visual Generation**
-  - By Gohar, *May 27, 2024* - [[Talk Slides]](/talk_slides/20240527_gohar.pptx)
 
 Check [Full List](/talk).
