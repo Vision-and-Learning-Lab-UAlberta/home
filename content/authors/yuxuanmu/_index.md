@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Sc. student
+role: M.Sc.
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lies in 3D computer vision.
+bio: My research interests lies in 3D computer vision and animation.
 
 interests:
-- Human Motion Modeling
-- 3D reconstruction
+- Character Motion Modeling
+- 3D Reconstruction and Generation
 
 education:
   courses:
   - course: Msc in Electrical and Computer Engineering
     institution: University of Alberta
-    year: 2021 - Now
+    year: 2021 - 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,12 +41,12 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ymu3@ualberta.ca"
+email: "yxmutthew@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 ---
 
-Yuxuan Mu is a M.Sc. student under the supervision of Dr. Li Cheng. His work focuses on human motion generative modling. For more information, please visit his [personal webpage](https://yxmu.foo).
+Yuxuan Mu obtained his master's degree in the ECE department, University of Alberta, under the supervision of Dr. Li Cheng. His works involve 3D human motion estimation, generation, physics simulation and rendering. For more information, please visit his [personal webpage](https://yxmu.foo).
