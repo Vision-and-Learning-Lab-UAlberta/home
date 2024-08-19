@@ -69,19 +69,16 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based
-Motion Refinement**
-  - By Hamid, *August 06, 2024* - [[Talk Slides]](/talk_slides/20240806_hamid_EgoWholeBody.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Egocentric_Whole-Body_Motion_Capture_with_FisheyeViT_and_Diffusion-Based_Motion_Refinement_CVPR_2024_paper.pdf)
-
 - **Telling Left from Right: Identifying Geometry-AwareSemantic Correspondence**
-  - By Siyuan, *August 06, 2024* - [[Talk Slides]](/talk_slides/20240806_siyuan_Telling_Left_from_Right.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Telling_Left_from_Right_Identifying_Geometry-Aware_Semantic_Correspondence_CVPR_2024_paper.pdf)
+  - By Siyuan, *August 19, 2024* - [[Talk Slides]](/talk_slides/20240819_siyuan_Telling_Left_from_Right.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Telling_Left_from_Right_Identifying_Geometry-Aware_Semantic_Correspondence_CVPR_2024_paper.pdf)
+
+- **Achieving  Human  Level  Competitive  Robot  Table  Tennis**
+  - By Gohar, *August 19, 2024* - [[Talk Slides]](/talk_slides/20240819_gohar_Robot_Table_Tennis.pptx) [[Original Paper]](https://arxiv.org/pdf/2408.03906)
 
 
 ## Finished Talks:
-- **WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds**
-  - By Yilin, *July 22, 2024* - [[Talk Slides]](/talk_slides/20240722_yilinwang_WalkTheDog.pptx) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3641519.3657508)
-
-- **Improving Semantic Correspondence with Viewpoint Guided Spherical Maps**
-  - By Siyuan, *July 22, 2024* - [[Talk Slides]](/talk_slides/20240722_siyuanli_Semantic_Correspondence.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Mariotti_Improving_Semantic_Correspondence_with_Viewpoint-Guided_Spherical_Maps_CVPR_2024_paper.pdf)
+- **Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based
+Motion Refinement**
+  - By Hamid, *August 06, 2024* - [[Talk Slides]](/talk_slides/20240806_hamid_EgoWholeBody.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Egocentric_Whole-Body_Motion_Capture_with_FisheyeViT_and_Diffusion-Based_Motion_Refinement_CVPR_2024_paper.pdf)
 
 Check [Full List](/talk).
