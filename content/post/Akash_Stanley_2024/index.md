@@ -1,13 +1,13 @@
 ---
-title: "Welcome Akash Ghimire, who recently joined in our lab as a MSc student."
+title: "Akash has been awarded the Stanley G. Jones Master's Scholarship in Applied Electrical and Computer Engineering. Congratulations!"
 subtitle: ''
 summary: ''
 authors:
-- akash
+- Akash
 
 tags:
-date: "2024-09-01T00:00:00Z"
-lastmod: "2024-09-01T00:00:00Z"
+date: "2024-06-26T00:00:00Z"
+lastmod: "2024-06-26T00:00:00Z"
 featured: false
 draft: false
 

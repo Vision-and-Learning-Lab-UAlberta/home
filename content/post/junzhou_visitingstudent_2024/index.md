@@ -1,13 +1,13 @@
 ---
-title: "Welcome Akash Ghimire, who recently joined in our lab as a MSc student."
+title: "Welcome Jun Zhou, who recently joined in our lab as a visiting PhD student."
 subtitle: ''
 summary: ''
 authors:
-- akash
+- junzhou
 
 tags:
-date: "2024-09-01T00:00:00Z"
-lastmod: "2024-09-01T00:00:00Z"
+date: "2024-10-04T00:00:00Z"
+lastmod: "2024-10-04T00:00:00Z"
 featured: false
 draft: false
 

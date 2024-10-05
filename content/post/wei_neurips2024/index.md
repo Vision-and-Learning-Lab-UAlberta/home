@@ -1,13 +1,20 @@
 ---
-title: "Welcome Akash Ghimire, who recently joined in our lab as a MSc student."
+title: "Our paper \"Unleashing Multispectral Video's Potential in Semantic Segmentation: A Semi-supervised Viewpoint and New UAV-View Benchmark\" is accepted by NeurIPS 2024."
 subtitle: ''
 summary: ''
 authors:
-- akash
+- weiji
+- jingjingli
+- Wenbo Li
+- Yilin Shen
+- licheng
+- Hongxia Jin
+
+
 
 tags:
-date: "2024-09-01T00:00:00Z"
-lastmod: "2024-09-01T00:00:00Z"
+date: "2024-09-25T00:00:00Z"
+lastmod: "2024-09-25T00:00:00Z"
 featured: false
 draft: false
 

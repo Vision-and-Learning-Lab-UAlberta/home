@@ -1,13 +1,16 @@
 ---
-title: "Welcome Akash Ghimire, who recently joined in our lab as a MSc student."
+title: "Our paper \"RegionGrasp: A Novel Task for Contact Region Controllable Hand Grasp Generation\" is accepted by European Conference on Computer Vision (ECCV) Workshop HANDS@ECCV2024!"
 subtitle: ''
 summary: ''
 authors:
-- akash
+- yilinwang
+- chuanguo
+- licheng
+- Hai Jiang
 
 tags:
-date: "2024-09-01T00:00:00Z"
-lastmod: "2024-09-01T00:00:00Z"
+date: "2024-08-20T00:00:00Z"
+lastmod: "2024-08-20T00:00:00Z"
 featured: false
 draft: false
 
