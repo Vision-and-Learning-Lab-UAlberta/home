@@ -69,18 +69,17 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **Multi-Person Text-to-Motion Synthesis**
+  - By Yilin, *Oct 18, 2024* - [[Talk Slides]](/talk_slides/20240920_yande_Multiply.pptx)
+
+- **Video Instance Perception using Multi-Modality Data**
+  - By guest speaker Dr. Pengyu Zhang, *Oct 18, 2024*
+
+## Finished Talks:
 - **MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild**
   - By Yande, *Sept 20, 2024* - [[Talk Slides]](/talk_slides/20240920_yande_Multiply.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_MultiPly_Reconstruction_of_Multiple_People_from_Monocular_Video_in_the_CVPR_2024_paper.pdf)
 
 - **IMAGEBIND: One Embedding Space To Bind Them All**
   - By Jingjing, *Sept 20, 2024* - [[Talk Slides]](/talk_slides/20240920_jingjing_ImageBind.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)
-
-
-## Finished Talks:
-- **Telling Left from Right: Identifying Geometry-AwareSemantic Correspondence**
-  - By Siyuan, *August 19, 2024* - [[Talk Slides]](/talk_slides/20240819_siyuan_Telling_Left_from_Right.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Telling_Left_from_Right_Identifying_Geometry-Aware_Semantic_Correspondence_CVPR_2024_paper.pdf)
-
-- **Achieving  Human  Level  Competitive  Robot  Table  Tennis**
-  - By Gohar, *August 19, 2024* - [[Talk Slides]](/talk_slides/20240819_gohar_Robot_Table_Tennis.pptx) [[Original Paper]](https://arxiv.org/pdf/2408.03906)
 
 Check [Full List](/talk).
