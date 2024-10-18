@@ -70,7 +70,7 @@ subtitle = ""
 
 ## Coming Talks:
 - **Multi-Person Text-to-Motion Synthesis**
-  - By Yilin, *Oct 18, 2024* - [[Talk Slides]](/talk_slides/20240920_yande_Multiply.pptx)
+  - By Yilin, *Oct 18, 2024* - [[Talk Slides]](/talk_slides/20241018_yilin_text2motion.pptx)
 
 - **Video Instance Perception using Multi-Modality Data**
   - By guest speaker Dr. Pengyu Zhang, *Oct 18, 2024*
