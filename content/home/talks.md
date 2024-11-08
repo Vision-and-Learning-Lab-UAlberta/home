@@ -70,12 +70,15 @@ subtitle = ""
 
 ## Coming Talks:
 - **Multi-Person Text-to-Motion Synthesis**
-  - By Yilin, *Oct 18, 2024* - [[Talk Slides]](/talk_slides/20241018_yilin_text2motion.pptx)
+  - By Yilin, *Nov 8, 2024* - [[Talk Slides]](/talk_slides/20241018_yilin_text2motion.pptx)
 
+- **Autoregressive Image Generation without Vector Quantization_Hang**
+  - By Hang, *Nov 8, 2024* - [[Talk Slides]](/talk_slides/20241108_hang.pptx) [[Original Paper]](https://arxiv.org/pdf/2406.11838)
+
+## Finished Talks:
 - **Video Instance Perception using Multi-Modality Data**
   - By guest speaker Dr. Pengyu Zhang, *Oct 18, 2024*
 
-## Finished Talks:
 - **MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild**
   - By Yande, *Sept 20, 2024* - [[Talk Slides]](/talk_slides/20240920_yande_Multiply.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_MultiPly_Reconstruction_of_Multiple_People_from_Monocular_Video_in_the_CVPR_2024_paper.pdf)
 
