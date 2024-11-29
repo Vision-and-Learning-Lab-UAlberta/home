@@ -13,8 +13,11 @@ header:
   image: ""
 ---
 ### Nov 2024:
+- **EgoAvatar, Whole-Body 3D Gaussian Avatar, and GaussianBody**
+  - By Hamid, *Nov 29, 2024* - [[Talk Slides]](/talk_slides/20241129_hamid.pptx) [[Original Paper1]](https://arxiv.org/pdf/2410.01835) [[Original Paper2]](https://arxiv.org/pdf/2407.21686) [[Original Paper3]](https://arxiv.org/pdf/2401.09720)
+
 - **Multi-Person Text-to-Motion Synthesis**
-  - By Yilin, *Nov 8, 2024* - [[Talk Slides]](/talk_slides/20241018_yilin_text2motion.pptx)
+  - By Yilin, *Nov 29, 2024* - [[Talk Slides]](/talk_slides/20241018_yilin_text2motion.pptx)
 
 - **Autoregressive Image Generation without Vector Quantization_Hang**
   - By Hang, *Nov 8, 2024* - [[Talk Slides]](/talk_slides/20241108_hang.pptx) [[Original Paper]](https://arxiv.org/pdf/2406.11838)
