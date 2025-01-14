@@ -69,16 +69,19 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **Visual Grounding**
+  - By Akash, *Jan 14, 2025* - [[Talk Slides]](/talk_slides/20250114_Akash_Visual_Grounding.pptx)
+
+- **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
+  - By Jun, *Jan 14, 2025* - [[Talk Slides]](/talk_slides/20250114_JunZhou.pptx) [[Original Paper]](https://pimforce.hcitech.org/static/pdfs/Posture-Informed%20Muscular%20Force%20Learning%20for%20Robust%20Hand%20Pressure%20Estimation_compressed.pdf)
+
+
+## Finished Talks:
 - **Multi-Person Text-to-Motion Synthesis**
   - By Yilin, *Nov 29, 2024* - [[Talk Slides]](/talk_slides/20241018_yilin_text2motion.pptx)
 
 - **EgoAvatar, Whole-Body 3D Gaussian Avatar, and GaussianBody**
   - By Hamid, *Nov 29, 2024* - [[Talk Slides]](/talk_slides/20241129_hamid.pptx) [[Original Paper1]](https://arxiv.org/pdf/2410.01835) [[Original Paper2]](https://arxiv.org/pdf/2407.21686) [[Original Paper3]](https://arxiv.org/pdf/2401.09720)
-
-
-## Finished Talks:
-- **Autoregressive Image Generation without Vector Quantization_Hang**
-  - By Hang, *Nov 8, 2024* - [[Talk Slides]](/talk_slides/20241108_hang.pptx) [[Original Paper]](https://arxiv.org/pdf/2406.11838)
 
 
 Check [Full List](/talk).

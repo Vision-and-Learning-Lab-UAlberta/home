@@ -12,6 +12,14 @@ header:
   caption: ""
   image: ""
 ---
+### Jan 2025:
+- **Visual Grounding**
+  - By Akash, *Jan 14, 2025* - [[Talk Slides]](/talk_slides/20250114_Akash_Visual_Grounding.pptx)
+
+- **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
+  - By Jun, *Jan 14, 2025* - [[Talk Slides]](/talk_slides/20250114_JunZhou.pptx) [[Original Paper]](https://pimforce.hcitech.org/static/pdfs/Posture-Informed%20Muscular%20Force%20Learning%20for%20Robust%20Hand%20Pressure%20Estimation_compressed.pdf)
+
+
 ### Nov 2024:
 - **EgoAvatar, Whole-Body 3D Gaussian Avatar, and GaussianBody**
   - By Hamid, *Nov 29, 2024* - [[Talk Slides]](/talk_slides/20241129_hamid.pptx) [[Original Paper1]](https://arxiv.org/pdf/2410.01835) [[Original Paper2]](https://arxiv.org/pdf/2407.21686) [[Original Paper3]](https://arxiv.org/pdf/2401.09720)
