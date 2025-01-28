@@ -13,6 +13,12 @@ header:
   image: ""
 ---
 ### Jan 2025:
+- **2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields**
+  - By Siyuan, *Jan 28, 2025* - [[Talk Slides]](/talk_slides/20250128_siyuan.pdf) [[Original Paper]](https://surfsplatting.github.io/)
+
+- **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**
+  - By Jing, *Jan 28, 2025* - [[Talk Slides]](/talk_slides/20250128_JingWang.pptx) [[Original Paper]](https://journals.sagepub.com/doi/pdf/10.1177/02783649241273668?casa_token=Sqcwms9YXWUAAAAA:thO1IeRf5guzlaEfzyFdFqJ3uddfcsyvCAYJxDhOFl_OCVxeAuveHXM2XjQHD_FpU01pVJSoiqbZ)
+
 - **Visual Grounding**
   - By Akash, *Jan 14, 2025* - [[Talk Slides]](/talk_slides/20250114_Akash_Visual_Grounding.pptx)
 

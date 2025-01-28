@@ -2,8 +2,12 @@
 # Display name
 title: Muhammad Gohar Javed
 
+# Username (this should match the folder name)
+authors:
+- gohar
+
 # Role/position
-role: Masters student
+role: Masters Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -11,19 +15,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in Computer Vision, Generative AI, Human Motion Analysis and Reinforcement Learning
+bio: My research interests lie in Computer Vision, Generative AI, Digital Avatars and Human Motion Analysis
 
 interests:
 - Computer Vision
 - Generative AI
+- Digit Avatars
 - Human Motion Analysis
-- Reinforcement Learning
 
 education:
   courses:
-  - course: Msc in Electrical and Computer Engineering
+  - course: MSc in Electrical and Computer Engineering
     institution: University of Alberta
-    year: 2022 - Present
+    year: 2022 - 2024
   - course: Bachelor of Electrical Engineering
     institution: National University of Sciences and Technology
     year: 2016 - 2020
@@ -47,7 +51,7 @@ email: "javed4@ualberta.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 ---
 
-Gohar is a Masters student under the supervision of Dr. Li Cheng and Dr. Xingyu Li, studying Electrical and Computer Engineering. His work now focuses on Generative AI and Reinforcement Learning to model human motion for digital characters. He has two years of industrial experience in various Computer Vision projects at Teradata and Hotpot.AI, including Image Matting, Image Inpainting and 3D Fault Detection. Before that, he recieved his Bachelors degree in Electrical Engineering from National University of Sciences and Technology, where he conducted research on Neural Network Acceleration for Embedded Hardware. For more information, please visit his [linkedin page](https://www.linkedin.com/in/goharjaved/).
+Gohar obtained his MSc in Signal and Image Processing at the Dept of Electrical and Computer Engineering, University of Alberta. He worked under the supervision of Dr. Li Cheng and Dr. Xingyu Li, on digital character control using Generative AI, focusing on Human Motion and Interaction Generation. Previously, he worked in the industry at AltaML, Teradata and Hotpot.AI, on various Computer Vision and Machine Learning projects including Image Matting, Generative Inpainting, 3D Fault Detection and Predictive Analysis. Before that, he recieved his Bachelors degree in Electrical Engineering from National University of Sciences and Technology, where he conducted research on Neural Network Acceleration for Embedded Hardware. For more information, please visit his [personal webpage](https://gohar-malik.github.io/).

@@ -69,19 +69,19 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields**
+  - By Siyuan, *Jan 28, 2025* - [[Talk Slides]](/talk_slides/20250128_siyuan.pdf) [[Original Paper]](https://surfsplatting.github.io/)
+
+- **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**
+  - By Jing, *Jan 28, 2025* - [[Talk Slides]](/talk_slides/20250128_JingWang.pptx) [[Original Paper]](https://journals.sagepub.com/doi/pdf/10.1177/02783649241273668?casa_token=Sqcwms9YXWUAAAAA:thO1IeRf5guzlaEfzyFdFqJ3uddfcsyvCAYJxDhOFl_OCVxeAuveHXM2XjQHD_FpU01pVJSoiqbZ)
+
+
+## Finished Talks:
 - **Visual Grounding**
   - By Akash, *Jan 14, 2025* - [[Talk Slides]](/talk_slides/20250114_Akash_Visual_Grounding.pptx)
 
 - **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
   - By Jun, *Jan 14, 2025* - [[Talk Slides]](/talk_slides/20250114_JunZhou.pptx) [[Original Paper]](https://pimforce.hcitech.org/static/pdfs/Posture-Informed%20Muscular%20Force%20Learning%20for%20Robust%20Hand%20Pressure%20Estimation_compressed.pdf)
-
-
-## Finished Talks:
-- **Multi-Person Text-to-Motion Synthesis**
-  - By Yilin, *Nov 29, 2024* - [[Talk Slides]](/talk_slides/20241018_yilin_text2motion.pptx)
-
-- **EgoAvatar, Whole-Body 3D Gaussian Avatar, and GaussianBody**
-  - By Hamid, *Nov 29, 2024* - [[Talk Slides]](/talk_slides/20241129_hamid.pptx) [[Original Paper1]](https://arxiv.org/pdf/2410.01835) [[Original Paper2]](https://arxiv.org/pdf/2407.21686) [[Original Paper3]](https://arxiv.org/pdf/2401.09720)
 
 
 Check [Full List](/talk).
