@@ -12,6 +12,11 @@ header:
   caption: ""
   image: ""
 ---
+### Feb 2025:
+- **Splatter Image: Ultra-Fast Single-View 3D Reconstruction**
+  - By Hang, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_hang_Splatter_Image.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Szymanowicz_Splatter_Image_Ultra-Fast_Single-View_3D_Reconstruction_CVPR_2024_paper.pdf)
+
+
 ### Jan 2025:
 - **2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields**
   - By Siyuan, *Jan 28, 2025* - [[Talk Slides]](/talk_slides/20250128_siyuan.pdf) [[Original Paper]](https://surfsplatting.github.io/)
