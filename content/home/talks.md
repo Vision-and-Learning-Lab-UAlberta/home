@@ -69,6 +69,9 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **One Step Diffusion via Shortcut Models**
+  - By Yilin, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_Yilin.pptx) [[Original Paper]](https://arxiv.org/pdf/2410.12557)
+
 - **Splatter Image: Ultra-Fast Single-View 3D Reconstruction**
   - By Hang, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_hang_Splatter_Image.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Szymanowicz_Splatter_Image_Ultra-Fast_Single-View_3D_Reconstruction_CVPR_2024_paper.pdf)
 
