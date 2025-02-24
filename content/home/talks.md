@@ -69,20 +69,15 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **Single View Reconstruction**
+  - By Akash, *Feb 25, 2025* - [[Talk Slides]](/talk_slides/20250225_Akash_Single_View_Reconstruction.pptx) [[Original Paper]](https://arxiv.org/pdf/2406.04343)
+
+
+## Finished Talks:
 - **One Step Diffusion via Shortcut Models**
   - By Yilin, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_Yilin.pptx) [[Original Paper]](https://arxiv.org/pdf/2410.12557)
 
 - **Splatter Image: Ultra-Fast Single-View 3D Reconstruction**
   - By Hang, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_hang_Splatter_Image.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Szymanowicz_Splatter_Image_Ultra-Fast_Single-View_3D_Reconstruction_CVPR_2024_paper.pdf)
-
-
-
-## Finished Talks:
-- **2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields**
-  - By Siyuan, *Jan 28, 2025* - [[Talk Slides]](/talk_slides/20250128_siyuan.pdf) [[Original Paper]](https://surfsplatting.github.io/)
-
-- **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**
-  - By Jing, *Jan 28, 2025* - [[Talk Slides]](/talk_slides/20250128_JingWang.pptx) [[Original Paper]](https://journals.sagepub.com/doi/pdf/10.1177/02783649241273668?casa_token=Sqcwms9YXWUAAAAA:thO1IeRf5guzlaEfzyFdFqJ3uddfcsyvCAYJxDhOFl_OCVxeAuveHXM2XjQHD_FpU01pVJSoiqbZ)
-
 
 Check [Full List](/talk).
