@@ -12,6 +12,10 @@ header:
   caption: ""
   image: ""
 ---
+### Mar 2025:
+- **Automated Creation of Digital Cousins for Robust Policy Learning**
+  - By Jing, *Mar 25, 2025* - [[Talk Slides]](/talk_slides/20250323_JingWang.pptx) [[Original Paper]](https://arxiv.org/abs/2410.07408)
+
 ### Feb 2025:
 - **One Step Diffusion via Shortcut Models**
   - By Yilin, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_Yilin.pptx) [[Original Paper]](https://arxiv.org/pdf/2410.12557)

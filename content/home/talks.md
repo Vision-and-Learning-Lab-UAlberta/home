@@ -69,11 +69,14 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-- **Single View Reconstruction**
-  - By Akash, *Feb 25, 2025* - [[Talk Slides]](/talk_slides/20250225_Akash_Single_View_Reconstruction.pptx) [[Original Paper]](https://arxiv.org/pdf/2406.04343)
+- **Automated Creation of Digital Cousins for Robust Policy Learning**
+  - By Jing, *Mar 25, 2025* - [[Talk Slides]](/talk_slides/20250323_JingWang.pptx) [[Original Paper]](https://arxiv.org/abs/2410.07408)
 
 
 ## Finished Talks:
+- **Single View Reconstruction**
+  - By Akash, *Feb 25, 2025* - [[Talk Slides]](/talk_slides/20250225_Akash_Single_View_Reconstruction.pptx) [[Original Paper]](https://arxiv.org/pdf/2406.04343)
+
 - **One Step Diffusion via Shortcut Models**
   - By Yilin, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_Yilin.pptx) [[Original Paper]](https://arxiv.org/pdf/2410.12557)
 
