@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 ### Mar 2025:
+- **Zero-1-to-3: Zero-shot One Image to 3D Object & Dreamfusion: Text-to-3d Using 2d Diffusion**
+  - By Hamid, *Mar 25, 2025* - [[Talk Slides]](/talk_slides/20250325_Hamid.pptx) [[Original Paper1]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Zero-1-to-3_Zero-shot_One_Image_to_3D_Object_ICCV_2023_paper.pdf)[[Original Paper2]](https://arxiv.org/pdf/2209.14988)
+
 - **Automated Creation of Digital Cousins for Robust Policy Learning**
   - By Jing, *Mar 25, 2025* - [[Talk Slides]](/talk_slides/20250323_JingWang.pptx) [[Original Paper]](https://arxiv.org/abs/2410.07408)
 
