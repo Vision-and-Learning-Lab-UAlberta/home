@@ -69,6 +69,14 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **3DGS and New Trends in Rendering**
+  - By Li Cheng, *April 8, 2025* - [[Talk Slides]](/talk_slides/20250408_LiCheng_NewRenderingOpportunities.pdf)
+
+- **EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild & HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**
+  - By Jun Zhou, *April 8, 2025* - [[Talk Slides]](/talk_slides/20250408_JunZhou.pptx) [[Original Paper1]](https://lym29.github.io/EasyHOI-page/)[[Original Paper2]](https://hawor-project.github.io/)
+
+
+## Finished Talks:
 - **Zero-1-to-3: Zero-shot One Image to 3D Object & Dreamfusion: Text-to-3d Using 2d Diffusion**
   - By Hamid, *Mar 25, 2025* - [[Talk Slides]](/talk_slides/20250325_Hamid.pptx) [[Original Paper1]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Zero-1-to-3_Zero-shot_One_Image_to_3D_Object_ICCV_2023_paper.pdf)[[Original Paper2]](https://arxiv.org/pdf/2209.14988)
 
@@ -76,14 +84,5 @@ subtitle = ""
   - By Jing, *Mar 25, 2025* - [[Talk Slides]](/talk_slides/20250323_JingWang.pptx) [[Original Paper]](https://arxiv.org/abs/2410.07408)
 
 
-## Finished Talks:
-- **Single View Reconstruction**
-  - By Akash, *Feb 25, 2025* - [[Talk Slides]](/talk_slides/20250225_Akash_Single_View_Reconstruction.pptx) [[Original Paper]](https://arxiv.org/pdf/2406.04343)
-
-- **One Step Diffusion via Shortcut Models**
-  - By Yilin, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_Yilin.pptx) [[Original Paper]](https://arxiv.org/pdf/2410.12557)
-
-- **Splatter Image: Ultra-Fast Single-View 3D Reconstruction**
-  - By Hang, *Feb 11, 2025* - [[Talk Slides]](/talk_slides/20250211_hang_Splatter_Image.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Szymanowicz_Splatter_Image_Ultra-Fast_Single-View_3D_Reconstruction_CVPR_2024_paper.pdf)
 
 Check [Full List](/talk).
