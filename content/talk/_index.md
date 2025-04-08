@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 ### April 2025:
+- **Reconstructing Humans with a Biomechanically Accurate Skeleton**
+  - By Siyuan, *April 8, 2025* - [[Talk Slides]](/talk_slides/20250408-Siyuan.pdf) [[Original Paper]](https://arxiv.org/abs/2503.21751)
+
 - **3DGS and New Trends in Rendering**
   - By Li Cheng, *April 8, 2025* - [[Talk Slides]](/talk_slides/20250408_LiCheng_NewRenderingOpportunities.pdf)
 
