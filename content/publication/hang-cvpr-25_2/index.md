@@ -1,5 +1,5 @@
 ---
-title: "CasaGPT: Cuboid Arrangement and Scene Assembly for Interior Design"
+title: "CASAGPT: Cuboid Arrangement and Scene Assembly for Interior Design"
 
 # if the author is from our lab, then you need to match it with the folder name you can find here
 # https://github.com/Vision-and-Learning-Lab-UAlberta/home/tree/master/content/authors
@@ -39,8 +39,8 @@ tags:
 featured: true
 
 links:
-# url_pdf: https://arxiv.org/abs/2207.01696
-# url_code: https://github.com/EricGuo5513/action-to-motion
+url_pdf: https://arxiv.org/abs/2504.19478
+url_code: https://github.com/CASAGPT/CASA-GPT
 # url_dataset: https://ericguo5513.github.io/action-to-motion/#data
 # url_poster:
 # url_project: https://ericguo5513.github.io/TM2T/

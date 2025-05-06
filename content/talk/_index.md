@@ -12,6 +12,11 @@ header:
   caption: ""
   image: ""
 ---
+### May 2025:
+- **SAM2 & A Distractor-Aware Memory for Visual Object Tracking with SAM2**
+  - By Pengyu, *May 7, 2025* - [[Talk Slides]](/talk_slides/20250507-Pengyu.pdf) [[Original Paper1]](https://ai.meta.com/sam2/) [[Original Paper2]](https://arxiv.org/abs/2411.17576)
+
+
 ### April 2025:
 - **Reconstructing Humans with a Biomechanically Accurate Skeleton**
   - By Siyuan, *April 8, 2025* - [[Talk Slides]](/talk_slides/20250408-Siyuan.pdf) [[Original Paper]](https://arxiv.org/abs/2503.21751)
