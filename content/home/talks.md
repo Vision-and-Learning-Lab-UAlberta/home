@@ -69,16 +69,16 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**
+  - By Hamid, *June 3, 2025* - [[Talk Slides]](/talk_slides/20250603_hamid_3D_Hand_Reconstruction.pdf) [[Original Paper]](https://arxiv.org/abs/2409.12259)
+
+## Finished Talks:
+- **Infinite Photorealistic Worlds using Procedural Generation**
+  - By Hang, *May 20, 2025* - [[Talk Slides]](/talk_slides/20250520_Infinigen.pptx) [[Original Paper]](https://arxiv.org/abs/2306.09310)
+
 - **SAM2 & A Distractor-Aware Memory for Visual Object Tracking with SAM2**
   - By Pengyu, *May 7, 2025* - [[Talk Slides]](/talk_slides/20250507-Pengyu.pdf) [[Original Paper1]](https://ai.meta.com/sam2/) [[Original Paper2]](https://arxiv.org/abs/2411.17576)
 
-
-## Finished Talks:
-- **3DGS and New Trends in Rendering**
-  - By Li Cheng, *April 8, 2025* - [[Talk Slides]](/talk_slides/20250408_LiCheng_NewRenderingOpportunities.pdf)
-
-- **EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild & HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**
-  - By Jun Zhou, *April 8, 2025* - [[Talk Slides]](/talk_slides/20250408_JunZhou.pptx) [[Original Paper1]](https://lym29.github.io/EasyHOI-page/)[[Original Paper2]](https://hawor-project.github.io/)
 
 
 
