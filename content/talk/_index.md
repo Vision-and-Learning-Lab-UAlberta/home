@@ -16,6 +16,9 @@ header:
 - **WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**
   - By Hamid, *June 3, 2025* - [[Talk Slides]](/talk_slides/20250603_hamid_3D_Hand_Reconstruction.pdf) [[Original Paper]](https://arxiv.org/abs/2409.12259)
 
+- **ICLR 2025 Paper Sharing**
+  - By Yilin, *June 3, 2025* - [[Talk Slides]](/talk_slides/20250603_yilin.pptx)
+
 ### May 2025:
 - **Infinite Photorealistic Worlds using Procedural Generation**
   - By Hang, *May 20, 2025* - [[Talk Slides]](/talk_slides/20250520_Infinigen.pptx) [[Original Paper]](https://arxiv.org/abs/2306.09310)
