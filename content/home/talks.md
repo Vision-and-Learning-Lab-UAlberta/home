@@ -69,18 +69,17 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **Learning Dense Hand Contact Estimation from Imbalanced Data**
+  - By Jun, *June 17, 2025* - [[Talk Slides]](/talk_slides/20250617_Jun.pptx) [[Original Paper1]](https://arxiv.org/pdf/2505.11152) [[Original Paper2]](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Pose-Guided_Temporal_Enhancement_for_Robust_Low-Resolution_Hand_Reconstruction_CVPR_2025_paper.pdf)
+
+
+## Finished Talks:
 - **WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**
   - By Hamid, *June 3, 2025* - [[Talk Slides]](/talk_slides/20250603_hamid_3D_Hand_Reconstruction.pdf) [[Original Paper]](https://arxiv.org/abs/2409.12259)
 
 - **ICLR 2025 Paper Sharing**
   - By Yilin, *June 3, 2025* - [[Talk Slides]](/talk_slides/20250603_yilin.pptx)
 
-## Finished Talks:
-- **Infinite Photorealistic Worlds using Procedural Generation**
-  - By Hang, *May 20, 2025* - [[Talk Slides]](/talk_slides/20250520_Infinigen.pptx) [[Original Paper]](https://arxiv.org/abs/2306.09310)
-
-- **SAM2 & A Distractor-Aware Memory for Visual Object Tracking with SAM2**
-  - By Pengyu, *May 7, 2025* - [[Talk Slides]](/talk_slides/20250507-Pengyu.pdf) [[Original Paper1]](https://ai.meta.com/sam2/) [[Original Paper2]](https://arxiv.org/abs/2411.17576)
 
 
 
