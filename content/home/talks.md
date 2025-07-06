@@ -69,16 +69,17 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **Model Unification for Object Tracking and Segmentation**
+  - By Pengyu, *July 7, 2025* - [[Talk Slides]](/talk_slides/20250707_Pengyu.pptx) [[Original Paper1]](https://arxiv.org/pdf/2207.07078) [[Original Paper2]](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Matching_Anything_by_Segmenting_Anything_CVPR_2024_paper.html)
+
+- **Evaluating the Potential of Hardware-Accelerated Neural Rendering to Supplant Ray Tracing**
+  - By Siyuan, *July 7, 2025*
+
+## Finished Talks:
 - **Learning Dense Hand Contact Estimation from Imbalanced Data**
   - By Jun, *June 17, 2025* - [[Talk Slides]](/talk_slides/20250617_Jun.pptx) [[Original Paper1]](https://arxiv.org/pdf/2505.11152) [[Original Paper2]](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Pose-Guided_Temporal_Enhancement_for_Robust_Low-Resolution_Hand_Reconstruction_CVPR_2025_paper.pdf)
 
 
-## Finished Talks:
-- **WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**
-  - By Hamid, *June 3, 2025* - [[Talk Slides]](/talk_slides/20250603_hamid_3D_Hand_Reconstruction.pdf) [[Original Paper]](https://arxiv.org/abs/2409.12259)
-
-- **ICLR 2025 Paper Sharing**
-  - By Yilin, *June 3, 2025* - [[Talk Slides]](/talk_slides/20250603_yilin.pptx)
 
 
 
