@@ -12,6 +12,13 @@ header:
   caption: ""
   image: ""
 ---
+### August 2025:
+- **VGGT: Visual Geometry Grounded Transformer**
+  - By Hang, *Aug 19, 2025* - [[Talk Slides]](/talk_slides/20250819_Hang_VGGT.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf)
+
+- **CVPR 2025 Paper Sharing**
+  - By Jingjing, *Aug 19, 2025* - [[Talk Slides]](/talk_slides/20250819_Jingjing_CVPR2025papersharing.pptx)
+
 ### July 2025:
 - **Model Unification for Object Tracking and Segmentation**
   - By Pengyu, *July 7, 2025* - [[Talk Slides]](/talk_slides/20250707_Pengyu.pptx) [[Original Paper1]](https://arxiv.org/pdf/2207.07078) [[Original Paper2]](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Matching_Anything_by_Segmenting_Anything_CVPR_2024_paper.html)
