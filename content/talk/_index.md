@@ -13,6 +13,16 @@ header:
   image: ""
 ---
 ### August 2025:
+- **SIGGRAPH 2025 Paper Sharing**
+  - By Yilin, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Yilin.pptx)
+  - By Siyuan, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Siyuan.pdf)
+  - By Jiahui, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Jiahui.pptx)
+  - By Hang, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Hang.pptx)
+  - By Jun, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Jun.pptx)
+
+- **CVPR 2025 Paper Sharing**
+  - By Jingjing, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250819_Jingjing_CVPR2025papersharing.pptx)
+
 - **VGGT: Visual Geometry Grounded Transformer**
   - By Hang, *Aug 19, 2025* - [[Talk Slides]](/talk_slides/20250819_Hang_VGGT.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf)
 

@@ -69,23 +69,22 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **SIGGRAPH 2025 Paper Sharing**
+  - By Yilin, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Yilin.pptx)
+  - By Siyuan, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Siyuan.pdf)
+  - By Jiahui, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Jiahui.pptx)
+  - By Hang, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Hang.pptx)
+  - By Jun, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Jun.pptx)
+
+- **CVPR 2025 Paper Sharing**
+  - By Jingjing, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250819_Jingjing_CVPR2025papersharing.pptx)
+
+## Finished Talks:
 - **VGGT: Visual Geometry Grounded Transformer**
   - By Hang, *Aug 19, 2025* - [[Talk Slides]](/talk_slides/20250819_Hang_VGGT.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf)
 
-- **CVPR 2025 Paper Sharing**
-  - By Jingjing, *Aug 19, 2025* - [[Talk Slides]](/talk_slides/20250819_Jingjing_CVPR2025papersharing.pptx)
-
 - **High-Authenticity and High-Fidelity Multimodal Generation**
   - By Prof. Shijian Lu, *Aug 21, 2025*
-
-## Finished Talks:
-- **Model Unification for Object Tracking and Segmentation**
-  - By Pengyu, *July 7, 2025* - [[Talk Slides]](/talk_slides/20250707_Pengyu.pptx) [[Original Paper1]](https://arxiv.org/pdf/2207.07078) [[Original Paper2]](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Matching_Anything_by_Segmenting_Anything_CVPR_2024_paper.html)
-
-- **Evaluating the Potential of Hardware-Accelerated Neural Rendering to Supplant Ray Tracing**
-  - By Siyuan, *July 7, 2025*
-
-
 
 
 
