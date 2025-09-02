@@ -69,6 +69,14 @@ subtitle = ""
 +++
 
 ## Coming Talks:
+- **CVPR 2025 Paper Sharing**
+  - By Jingjing, *Sep 2, 2025* - [[Talk Slides]](/talk_slides/20250819_Jingjing_CVPR2025papersharing.pptx)
+
+- **3D Trajectories in Video Generation Tasks**
+  - By Jiahui, *Sep 2, 2025* - [[Talk Slides]](/talk_sxslides/20250902_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2412.07759)
+
+
+## Finished Talks:
 - **SIGGRAPH 2025 Paper Sharing**
   - By Yilin, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Yilin.pptx)
   - By Siyuan, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Siyuan.pdf)
@@ -76,17 +84,8 @@ subtitle = ""
   - By Hang, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Hang.pptx)
   - By Jun, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Jun.pptx)
 
-- **CVPR 2025 Paper Sharing**
-  - By Jingjing, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250819_Jingjing_CVPR2025papersharing.pptx)
-
-## Finished Talks:
 - **VGGT: Visual Geometry Grounded Transformer**
   - By Hang, *Aug 19, 2025* - [[Talk Slides]](/talk_slides/20250819_Hang_VGGT.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf)
-
-- **High-Authenticity and High-Fidelity Multimodal Generation**
-  - By Prof. Shijian Lu, *Aug 21, 2025*
-
-
 
 
 
