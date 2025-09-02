@@ -14,7 +14,7 @@ header:
 ---
 ### August 2025:
 - **3D Trajectories in Video Generation Tasks**
-  - By Jiahui, *Sep 2, 2025* - [[Talk Slides]](/talk_sxslides/20250902_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2412.07759)
+  - By Jiahui, *Sep 2, 2025* - [[Talk Slides]](/talk_slides/20250902_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2412.07759)
 
 - **SIGGRAPH 2025 Paper Sharing**
   - By Yilin, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Yilin.pptx)

@@ -73,7 +73,7 @@ subtitle = ""
   - By Jingjing, *Sep 2, 2025* - [[Talk Slides]](/talk_slides/20250819_Jingjing_CVPR2025papersharing.pptx)
 
 - **3D Trajectories in Video Generation Tasks**
-  - By Jiahui, *Sep 2, 2025* - [[Talk Slides]](/talk_sxslides/20250902_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2412.07759)
+  - By Jiahui, *Sep 2, 2025* - [[Talk Slides]](/talk_slides/20250902_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2412.07759)
 
 
 ## Finished Talks:
