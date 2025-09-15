@@ -12,10 +12,18 @@ header:
   caption: ""
   image: ""
 ---
-### August 2025:
+### September 2025:
+- **World-Grounded Human Motion Recovery via Gravity-View Coordinates**
+  - By Litao, *Sep 16, 2025* - [[Talk Slides]](/talk_slides/20250916_litao.pptx) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3680528.3687565?casa_token=b_eo3zNu16UAAAAA:BGeRfhUGjwspCcYySbqrNig85z9rykaPvVy6Gf1ztQJCEpU4PMs9wPVtUBlSnRHOLx6NQrLlKOM9)
+
+- **Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions**
+  - By Yubo, *Sep 16, 2025* - [[Talk Slides]](/talk_slides/20250916_yubo.key) [[Original Paper]](https://arxiv.org/abs/2410.20294)
+
 - **3D Trajectories in Video Generation Tasks**
   - By Jiahui, *Sep 2, 2025* - [[Talk Slides]](/talk_slides/20250902_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2412.07759)
 
+
+### August 2025:
 - **SIGGRAPH 2025 Paper Sharing**
   - By Yilin, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Yilin.pptx)
   - By Siyuan, *Aug 27, 2025* - [[Talk Slides]](/talk_slides/20250827_SIGGRAPH_Siyuan.pdf)
