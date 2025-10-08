@@ -12,6 +12,14 @@ header:
   caption: ""
   image: ""
 ---
+### October 2025:
+- **Order-aware Interactive Segmentation**
+  - By Yuezhe, *Oct 8, 2025* - [[Talk Slides]](/talk_slides/20251008_yuezhe.pptx) [[Original Paper]](https://arxiv.org/abs/2410.12214)
+
+- **MaskControl: Spatio-Temporal Control for Masked Motion Synthesis**
+  - By Yilin, *Oct 8, 2025* - [[Talk Slides]](/talk_slides/20251008_yilin.pptx) [[Original Paper]](https://arxiv.org/html/2410.10780v3)
+
+
 ### September 2025:
 - **World-Grounded Human Motion Recovery via Gravity-View Coordinates**
   - By Litao, *Sep 16, 2025* - [[Talk Slides]](/talk_slides/20250916_litao.pptx) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3680528.3687565?casa_token=b_eo3zNu16UAAAAA:BGeRfhUGjwspCcYySbqrNig85z9rykaPvVy6Gf1ztQJCEpU4PMs9wPVtUBlSnRHOLx6NQrLlKOM9)
