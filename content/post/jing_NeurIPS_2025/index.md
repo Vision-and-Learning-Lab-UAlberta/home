@@ -1,13 +1,20 @@
 ---
-title: "Welcome Jiahui, who recently joined in our lab as a MSc student."
+title: "Our paper \"Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies
+\" is accepted by NeurIPS 2025! Congrats to Jing Wang."
 subtitle: ''
 summary: ''
 authors:
-- jiahuipeng
+  - jingwang # in our lab
+  - Weiting Peng
+  - Jing Tang
+  - Zeyu Gong
+  - Xihua Wang
+  - Bo Tao
+  - licheng # in our lab
 
 tags:
-date: "2025-09-01T00:00:00Z"
-lastmod: "2025-09-01T00:00:00Z"
+date: "2025-09-18T00:00:00Z"
+lastmod: "2024-02-27T00:00:00Z"
 featured: false
 draft: false
 

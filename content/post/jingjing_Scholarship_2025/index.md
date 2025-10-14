@@ -1,13 +1,13 @@
 ---
-title: "Welcome Jiahui, who recently joined in our lab as a MSc student."
+title: "Congratulates to Jingjing for being awarded the Stephen and Olga Anhill Graduate Scholarship in Electrical and Computer Engineering."
 subtitle: ''
 summary: ''
 authors:
-- jiahuipeng
+- jingjingli
 
 tags:
-date: "2025-09-01T00:00:00Z"
-lastmod: "2025-09-01T00:00:00Z"
+date: "2025-09-24T00:00:00Z"
+lastmod: "2025-09-24T00:00:00Z"
 featured: false
 draft: false
 

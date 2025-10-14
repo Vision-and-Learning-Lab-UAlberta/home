@@ -1,13 +1,13 @@
 ---
-title: "Welcome Jiahui, who recently joined in our lab as a MSc student."
+title: "Congratulates to Dr. Jingjing Li for successfully defending her PhD thesis!"
 subtitle: ''
 summary: ''
 authors:
-- jiahuipeng
+- jingjingli
 
 tags:
-date: "2025-09-01T00:00:00Z"
-lastmod: "2025-09-01T00:00:00Z"
+date: "2025-09-26T00:00:00Z"
+lastmod: "2025-09-26T00:00:00Z"
 featured: false
 draft: false
 

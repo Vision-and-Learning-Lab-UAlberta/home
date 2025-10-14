@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 ### October 2025:
+- **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**
+  - By Akash, *Oct 14, 2025* - [[Talk Slides]](/talk_slides/20251014_Akash_SeeGrounder.pptx) [[Original Paper]](https://arxiv.org/abs/2412.04383)
+
 - **Order-aware Interactive Segmentation**
   - By Yuezhe, *Oct 8, 2025* - [[Talk Slides]](/talk_slides/20251008_yuezhe.pptx) [[Original Paper]](https://arxiv.org/abs/2410.12214)
 
