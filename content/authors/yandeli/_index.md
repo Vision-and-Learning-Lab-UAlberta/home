@@ -61,7 +61,7 @@ email: "yande@ualberta.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
- - Lab Members
-#- Alumni
+# - Lab Members
+- Alumni
 ---
 Yande Li is a Postdoctoral Fellow at the University of Alberta, supervised by Prof. Li Cheng. He received his B.Eng., M.Eng., and Ph.D degrees from Lanzhou University, China in 2016, 2019, and 2023, respectively. From August 2021 to January 2023, he was a visiting student at the University of Guelph, Canada, supervised by Prof. Minglun Gong. His research interests include Computer Vision and Computer Graphics, with a focus on 3D Pose Estimation and Facial Expression Recognition.

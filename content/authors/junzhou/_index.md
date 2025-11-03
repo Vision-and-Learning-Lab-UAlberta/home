@@ -57,7 +57,7 @@ email: "jchow@cug.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
- - Lab Members
-#- Alumni
+# - Lab Members
+- Alumni
 ---
 Jun Zhou is currently a visiting PhD student at the University of Alberta, where he is under the supervision of Prof. Li Cheng. He is pursuing his Ph.D. at China University of Geosciences in China. Jun obtained his Bachelor of Engineering degree from Huazhong Agricultural University in 2018. His research interests lie in the fields of Computer Vision and Human-Computer Interaction, with a specific focus on Hand Gesture Recognition and Hand-Object Pose Estimation.
