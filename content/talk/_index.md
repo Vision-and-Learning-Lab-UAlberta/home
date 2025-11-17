@@ -13,8 +13,11 @@ header:
   image: ""
 ---
 ### November 2025:
+- **SAM3: Segment Anything with Concepts**
+  - By Pengyu, *Nov 18, 2025* - [[Talk Slides]](/talk_slides/20251118_pengyu.pptx) [[Original Paper]](https://openreview.net/forum?id=r35clVtGzw)
+
 - **Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**
-  - By Jing, *Nov 4, 2025* - [[Talk Slides]](/talk_slides/20251104_jing.pdf) [[Original Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2aee1c4159e48407d68fe16ae8e6e49e-Abstract-Conference.html)
+  - By Jing, *Nov 18, 2025* - [[Talk Slides]](/talk_slides/20251118_jing.pdf) [[Original Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2aee1c4159e48407d68fe16ae8e6e49e-Abstract-Conference.html)
 
 - **DimensionX: Create Any 3D and 4D Scenes from a Single Image with Decoupled Video Diffusion**
   - By Siyuan, *Nov 4, 2025* - [[Talk Slides]](/talk_slides/20251104_siyuan.pdf) [[Original Paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_DimensionX_Create_Any_3D_and_4D_Scenes_from_a_Single_ICCV_2025_paper.html)
