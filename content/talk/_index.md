@@ -12,6 +12,13 @@ header:
   caption: ""
   image: ""
 ---
+### December 2025:
+- **Generating Physically Stable and Buildable Brick Structures from Text**
+  - By Hang, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20251216_hang_BrickGPT.pdf) [[Original Paper]](https://arxiv.org/abs/2505.05469)
+
+- **Back to Basics: Let Denoising Generative Models Denoise**
+  - By Yilin, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20251216_yilin.pptx) [[Original Paper]](https://arxiv.org/abs/2511.13720)
+
 ### November 2025:
 - **SAM3: Segment Anything with Concepts**
   - By Pengyu, *Nov 18, 2025* - [[Talk Slides]](/talk_slides/20251118_pengyu.pptx) [[Original Paper]](https://openreview.net/forum?id=r35clVtGzw)
