@@ -74,8 +74,7 @@ subtitle = ""
   - By Ji, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20260129_ji.pdf) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3730930)
 
 - **LISA: Reasoning Segmentation via Large Language Model**
-  - By Jingjing, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20251216_yilin.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf)
-
+  - By Jingjing, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20260129_jingjing.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf)
 
 
 
