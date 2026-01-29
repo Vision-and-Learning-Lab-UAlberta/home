@@ -69,23 +69,22 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-### Dec 2025:
-- **Generating Physically Stable and Buildable Brick Structures from Text**
-  - By Hang, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20251216_hang_BrickGPT.pdf) [[Original Paper]](https://arxiv.org/abs/2505.05469)
+### Jan 2026:
+- **One Model to Rig Them All: Diverse Skeleton Rigging with UniRig**
+  - By Ji, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20260129_ji.pdf) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3730930)
 
-- **Back to Basics: Let Denoising Generative Models Denoise**
-  - By Yilin, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20251216_yilin.pptx) [[Original Paper]](https://arxiv.org/abs/2511.13720)
+- **LISA: Reasoning Segmentation via Large Language Model**
+  - By Jingjing, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20251216_yilin.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf)
 
 
 
 
 ## Finished Talks:
-- **Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**
-  - By Jing, *Nov 18, 2025* - [[Talk Slides]](/talk_slides/20251118_jing.pdf) [[Original Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2aee1c4159e48407d68fe16ae8e6e49e-Abstract-Conference.html)
+- **Generating Physically Stable and Buildable Brick Structures from Text**
+  - By Hang, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20251216_hang_BrickGPT.pdf) [[Original Paper]](https://arxiv.org/abs/2505.05469)
 
-- **SAM3: Segment Anything with Concepts**
-  - By Pengyu, *Nov 18, 2025* - [[Talk Slides]](/talk_slides/20251118_pengyu.pptx) [[Original Paper]](https://openreview.net/forum?id=r35clVtGzw)
-
+- **Back to Basics: Let Denoising Generative Models Denoise**
+  - By Yilin, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20260129_jingjing.pptx) [[Original Paper]](https://arxiv.org/abs/2511.13720)
 
 
 Check [Full List](/talk).
