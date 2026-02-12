@@ -69,21 +69,20 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-### Jan 2026:
+### Feb 2026:
+- **Structured 3D Latents for Scalable and Versatile 3D Generation**
+  - By Siyuan, *Feb 12, 2026* - [[Talk Slides]](/talk_slides/20260212_siyuan.pptx) [[Original Paper]](https://microsoft.github.io/TRELLIS/)
+
+- **Stratified Avatar Generation from Sparse Observations**
+  - By Yubo, *Feb 12, 2026* - [[Talk Slides]](/talk_slides/20260212_yubo.pptx) [[Original Paper]](https://arxiv.org/abs/2405.20786)
+
+
+
+## Finished Talks:
 - **One Model to Rig Them All: Diverse Skeleton Rigging with UniRig**
   - By Ji, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20260129_ji.pdf) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3730930)
 
 - **LISA: Reasoning Segmentation via Large Language Model**
   - By Jingjing, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20260129_jingjing.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf)
-
-
-
-## Finished Talks:
-- **Generating Physically Stable and Buildable Brick Structures from Text**
-  - By Hang, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20251216_hang_BrickGPT.pdf) [[Original Paper]](https://arxiv.org/abs/2505.05469)
-
-- **Back to Basics: Let Denoising Generative Models Denoise**
-  - By Yilin, *Dec 16, 2025* - [[Talk Slides]](/talk_slides/20260129_jingjing.pptx) [[Original Paper]](https://arxiv.org/abs/2511.13720)
-
 
 Check [Full List](/talk).
