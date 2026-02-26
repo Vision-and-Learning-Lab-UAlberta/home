@@ -71,10 +71,10 @@ subtitle = ""
 ## Coming Talks:
 ### Feb 2026:
 - **3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**
-  - By Akash, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260212_akash.pptx) [[Original Paper]](https://arxiv.org/abs/2412.12507)
+  - By Akash, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260226_akash.pptx) [[Original Paper]](https://arxiv.org/abs/2412.12507)
 
 - **FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space**
-  - By Jiahui, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260212_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
+  - By Jiahui, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260226_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
 
 
 
