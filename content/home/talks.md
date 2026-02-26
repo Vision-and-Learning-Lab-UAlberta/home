@@ -70,19 +70,20 @@ subtitle = ""
 
 ## Coming Talks:
 ### Feb 2026:
+- **3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**
+  - By Akash, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260212_akash.pptx) [[Original Paper]](https://arxiv.org/abs/2412.12507)
+
+- **FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space**
+  - By Jiahui, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260212_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
+
+
+
+
+## Finished Talks:
 - **Structured 3D Latents for Scalable and Versatile 3D Generation**
   - By Siyuan, *Feb 12, 2026* - [[Talk Slides]](/talk_slides/20260212_siyuan.pptx) [[Original Paper]](https://microsoft.github.io/TRELLIS/)
 
 - **Stratified Avatar Generation from Sparse Observations**
   - By Yubo, *Feb 12, 2026* - [[Talk Slides]](/talk_slides/20260212_yubo.pptx) [[Original Paper]](https://arxiv.org/abs/2405.20786)
-
-
-
-## Finished Talks:
-- **One Model to Rig Them All: Diverse Skeleton Rigging with UniRig**
-  - By Ji, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20260129_ji.pdf) [[Original Paper]](https://dl.acm.org/doi/pdf/10.1145/3730930)
-
-- **LISA: Reasoning Segmentation via Large Language Model**
-  - By Jingjing, *Jan 29, 2026* - [[Talk Slides]](/talk_slides/20260129_jingjing.pptx) [[Original Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf)
 
 Check [Full List](/talk).
