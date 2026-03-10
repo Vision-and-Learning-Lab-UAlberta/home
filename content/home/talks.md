@@ -69,17 +69,19 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-### Feb 2026:
-- **3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**
-  - By Akash, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260226_akash.pptx) [[Original Paper]](https://arxiv.org/abs/2412.12507)
+### March 2026:
+- **Tracking and Segmenting Anything in Any Modality**
+  - By Pengyu, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2511.19475)
 
 - **FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space**
-  - By Jiahui, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260226_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
-
+  - By Jiahui, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
 
 
 
 ## Finished Talks:
+- **3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**
+  - By Akash, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260226_akash.pptx) [[Original Paper]](https://arxiv.org/abs/2412.12507)
+
 - **Structured 3D Latents for Scalable and Versatile 3D Generation**
   - By Siyuan, *Feb 12, 2026* - [[Talk Slides]](/talk_slides/20260212_siyuan.pptx) [[Original Paper]](https://microsoft.github.io/TRELLIS/)
 

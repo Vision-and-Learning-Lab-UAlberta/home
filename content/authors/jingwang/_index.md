@@ -64,7 +64,7 @@ email: "jing.wang@mech.ubc.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
- - Lab Members
-#- Alumni
+ #- Lab Members
+ - Alumni
 ---
 Jing Wang is a Postdoctoral Fellow at the University of Alberta, supervised by Prof. Li Cheng. He received his B.A.Sc, M.A.Sc, and Ph.D degrees from The University of British Columbia, Canada in 2018, 2020, and 2024, respectively. From May 2022 to Sept 2022, he was a research scientist intern at Borealis AI, RBC, Canada, supervised by Prof. Greg Mori. He is the area chair for IJCAI 2025 and has served as a reviewer for NeurIPS, ICML, ICLR, AISTATS, IJCAI, AAAI, TIM, PR, TMLR and etc. He received the Top Reviewer award for NeurIPS in both 2024 and 2025. His research interests include transfer learning, neuromorphic computing, multimodal LLMs, and robotics, with a particular focus on deploying large models efficiently on edge devices.
