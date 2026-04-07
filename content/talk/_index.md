@@ -13,10 +13,14 @@ header:
   caption: ""
   image: ""
 ---
-### March 2026:
+### April 2026:
 - **Tracking and Segmenting Anything in Any Modality**
   - By Pengyu, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2511.19475)
 
+- **Advanced Scalable Transformers in Spatial / Temporal Generation**
+  - By Yilin, *April 7, 2026* - [[Talk Slides]](/talk_slides/20260407_yilin.pptx) [[Original Paper]](https://arxiv.org/abs/2502.02216) [[Original Paper]](https://arxiv.org/abs/2509.24695)
+
+### March 2026:
 - **FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space**
   - By Jiahui, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
 

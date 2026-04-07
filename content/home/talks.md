@@ -69,23 +69,21 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-### March 2026:
+### April 2026:
 - **Tracking and Segmenting Anything in Any Modality**
-  - By Pengyu, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2511.19475)
+  - By Pengyu, *April 7, 2026* - [[Talk Slides]](/talk_slides/20260310_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2511.19475)
 
-- **FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space**
-  - By Jiahui, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
+- **Advanced Scalable Transformers in Spatial / Temporal Generation**
+  - By Yilin, *April 7, 2026* - [[Talk Slides]](/talk_slides/20260407_yilin.pptx) [[Original Paper]](https://arxiv.org/abs/2502.02216) [[Original Paper]](https://arxiv.org/abs/2509.24695)
 
 
 
 ## Finished Talks:
+- **FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space**
+  - By Jiahui, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.15742)
+
 - **3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**
   - By Akash, *Feb 26, 2026* - [[Talk Slides]](/talk_slides/20260226_akash.pptx) [[Original Paper]](https://arxiv.org/abs/2412.12507)
 
-- **Structured 3D Latents for Scalable and Versatile 3D Generation**
-  - By Siyuan, *Feb 12, 2026* - [[Talk Slides]](/talk_slides/20260212_siyuan.pptx) [[Original Paper]](https://microsoft.github.io/TRELLIS/)
-
-- **Stratified Avatar Generation from Sparse Observations**
-  - By Yubo, *Feb 12, 2026* - [[Talk Slides]](/talk_slides/20260212_yubo.pptx) [[Original Paper]](https://arxiv.org/abs/2405.20786)
 
 Check [Full List](/talk).
