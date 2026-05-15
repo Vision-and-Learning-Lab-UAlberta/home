@@ -74,7 +74,7 @@ subtitle = ""
   - By Kiarash, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260515_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2509.14353)
 
 - **VACE: All-in-One Video Creation and Editing**
-  - By Siyuan, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260310_siyuan.pptx) [[Original Paper]](https://arxiv.org/abs/2503.07598)
+  - By Siyuan, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260515_siyuan.pptx) [[Original Paper]](https://arxiv.org/abs/2503.07598)
 
 
 ## Finished Talks:
