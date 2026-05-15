@@ -13,6 +13,13 @@ header:
   caption: ""
   image: ""
 ---
+### May 2026:
+- **DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**
+  - By Kiarash, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260515_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2509.14353)
+
+- **VACE: All-in-One Video Creation and Editing**
+  - By Siyuan, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260310_siyuan.pptx) [[Original Paper]](https://arxiv.org/abs/2503.07598)
+
 ### April 2026:
 - **Tracking and Segmenting Anything in Any Modality**
   - By Pengyu, *Mar 10, 2026* - [[Talk Slides]](/talk_slides/20260310_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2511.19475)
