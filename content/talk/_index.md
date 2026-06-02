@@ -13,6 +13,13 @@ header:
   caption: ""
   image: ""
 ---
+### June 2026:
+- **AniGen: Unified S3 Fields for Animatable 3D Asset Generation**
+  - By Ji, *Jun 2, 2026* - [[Talk Slides]](/talk_slides/20260602_ji.pdf) [[Original Paper]](https://arxiv.org/abs/2604.08746)
+
+- **Image Generators are Generalist Vision Learners**
+  - By Jingjing, *Jun 2, 2026* - [[Original Paper]](https://arxiv.org/abs/2604.20329)
+
 ### May 2026:
 - **DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**
   - By Kiarash, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260515_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2509.14353)

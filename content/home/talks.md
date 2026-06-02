@@ -69,19 +69,21 @@ subtitle = ""
 +++
 
 ## Coming Talks:
-### May 2026:
+
+### June 2026:
+- **AniGen: Unified S3 Fields for Animatable 3D Asset Generation**
+  - By Ji, *Jun 2, 2026* - [[Talk Slides]](/talk_slides/20260602_ji.pdf) [[Original Paper]](https://arxiv.org/abs/2604.08746)
+
+- **Image Generators are Generalist Vision Learners**
+  - By Jingjing, *Jun 2, 2026* - [[Original Paper]](https://arxiv.org/abs/2604.20329)
+
+
+## Finished Talks:
 - **DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**
   - By Kiarash, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260515_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2509.14353)
 
 - **VACE: All-in-One Video Creation and Editing**
   - By Siyuan, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260515_siyuan.pptx) [[Original Paper]](https://arxiv.org/abs/2503.07598)
 
-
-## Finished Talks:
-- **Tracking and Segmenting Anything in Any Modality**
-  - By Pengyu, *April 7, 2026* - [[Talk Slides]](/talk_slides/20260310_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2511.19475)
-
-- **Advanced Scalable Transformers in Spatial / Temporal Generation**
-  - By Yilin, *April 7, 2026* - [[Talk Slides]](/talk_slides/20260407_yilin.pptx) [[Original Paper]](https://arxiv.org/abs/2502.02216) [[Original Paper]](https://arxiv.org/abs/2509.24695)
 
 Check [Full List](/talk).
