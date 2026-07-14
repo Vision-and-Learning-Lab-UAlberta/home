@@ -1,5 +1,5 @@
 ---
-title: "Our paper \"SAM3-I: Segment Anything with Instructions\" is accepted by the main track of ACL  2026"
+title: "Our paper \"SAM3-I: Segment Anything with Instructions\" is accepted by the main track of ACL  2026."
 subtitle: ''
 summary: ''
 authors:

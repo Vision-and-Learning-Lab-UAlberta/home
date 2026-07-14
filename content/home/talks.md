@@ -70,29 +70,25 @@ subtitle = ""
 
 ## Coming Talks:
 
-### June 2026:
-- **VACE: All-in-One Video Creation and Editing**
-  - By Siyuan, *Jun 16, 2026* - [[Talk Slides]](/talk_slides/20260515_siyuan.pptx) [[Original Paper]](https://arxiv.org/abs/2503.07598)
+### July 2026:
+- **The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models**
+  - By Hang, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_hang.pdf) [[Original Paper]](https://arxiv.org/abs/2601.15165)
 
-- **ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**
-  - By Jiahui, *Jun 16, 2026* - [[Talk Slides]](/talk_slides/20260616_jiahui.pptx) [[Original Paper]](https://arxiv.org/abs/2506.04941)
+- **Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations**
+  - By Kiarash, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2402.04820)
 
-- **ROGR: Relightable 3D Objects using Generative Relighting**
-  - By Akash, *Jun 16, 2026* - [[Talk Slides]](/talk_slides/20260616_akash.pdf) [[Original Paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/3dd1d3a91d338e209f2de35e7f929748-Paper-Conference.pdf)
-
-- **Graph Tokenization for Bridging Graphs andTransformers**
-  - By Yubo, *Jun 16, 2026* - [[Talk Slides]](/talk_slides/20260616_yubo.pdf) [[Original Paper]](https://arxiv.org/abs/2603.11099)
 
 
 ## Finished Talks:
-- **AniGen: Unified S3 Fields for Animatable 3D Asset Generation**
-  - By Ji, *Jun 2, 2026* - [[Talk Slides]](/talk_slides/20260602_ji.pdf) [[Original Paper]](https://arxiv.org/abs/2604.08746)
+- **ROGR: Relightable 3D Objects using Generative Relighting**
+  - By Akash, *Jun 30, 2026* - [[Talk Slides]](/talk_slides/20260616_akash.pdf) [[Original Paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/3dd1d3a91d338e209f2de35e7f929748-Paper-Conference.pdf)
+
+- **Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-TimeTraining**
+  - By Pengyu, *Jun 30, 2026* - [[Talk Slides]](/talk_slides/20260630_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2603.12255)
 
 - **Image Generators are Generalist Vision Learners**
-  - By Jingjing, *Jun 2, 2026* - [[Original Paper]](https://arxiv.org/abs/2604.20329)
+  - By Jingjing, *Jun 30, 2026* - [[Talk Slides]](/talk_slides/20260630_jingjing.pptx) [[Original Paper]](https://arxiv.org/abs/2604.20329)
 
-- **DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**
-  - By Kiarash, *May 15, 2026* - [[Talk Slides]](/talk_slides/20260515_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2509.14353)
 
 
 
