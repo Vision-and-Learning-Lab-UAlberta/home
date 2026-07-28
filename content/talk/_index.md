@@ -14,11 +14,17 @@ header:
   image: ""
 ---
 ### July 2027:
+- **Shape of Motion: 4D Reconstruction from a Single Video**
+  - By Ji, *July 28, 2026* - [[Talk Slides]](/talk_slides/20260728_ji.html) [[Original Paper]](https://shape-of-motion.github.io/)
+
+- **Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations**
+  - By Kiarash, *July 28, 2026* - [[Talk Slides]](/talk_slides/20260714_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2402.04820)
+
 - **The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models**
   - By Hang, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_hang.pdf) [[Original Paper]](https://arxiv.org/abs/2601.15165)
 
-- **Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations**
-  - By Kiarash, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2402.04820)
+- **Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**
+  - By Emanuel, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_emanuel.pdf)
 
 ### June 2026:
 - **ROGR: Relightable 3D Objects using Generative Relighting**

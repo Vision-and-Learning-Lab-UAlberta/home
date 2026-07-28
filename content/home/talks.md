@@ -71,23 +71,20 @@ subtitle = ""
 ## Coming Talks:
 
 ### July 2026:
-- **The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models**
-  - By Hang, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_hang.pdf) [[Original Paper]](https://arxiv.org/abs/2601.15165)
+- **Shape of Motion: 4D Reconstruction from a Single Video**
+  - By Ji, *July 28, 2026* - [[Talk Slides]](/talk_slides/20260728_ji.html) [[Original Paper]](https://shape-of-motion.github.io/)
 
 - **Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations**
-  - By Kiarash, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2402.04820)
+  - By Kiarash, *July 28, 2026* - [[Talk Slides]](/talk_slides/20260714_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2402.04820)
 
 
 
 ## Finished Talks:
-- **ROGR: Relightable 3D Objects using Generative Relighting**
-  - By Akash, *Jun 30, 2026* - [[Talk Slides]](/talk_slides/20260616_akash.pdf) [[Original Paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/3dd1d3a91d338e209f2de35e7f929748-Paper-Conference.pdf)
+- **The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models**
+  - By Hang, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_hang.pdf) [[Original Paper]](https://arxiv.org/abs/2601.15165)
 
-- **Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-TimeTraining**
-  - By Pengyu, *Jun 30, 2026* - [[Talk Slides]](/talk_slides/20260630_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2603.12255)
-
-- **Image Generators are Generalist Vision Learners**
-  - By Jingjing, *Jun 30, 2026* - [[Talk Slides]](/talk_slides/20260630_jingjing.pptx) [[Original Paper]](https://arxiv.org/abs/2604.20329)
+- **Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**
+  - By Emanuel, *July 14, 2026* - [[Talk Slides]](/talk_slides/20260714_emanuel.pdf)
 
 
 
