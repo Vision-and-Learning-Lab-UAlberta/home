@@ -13,10 +13,11 @@ header:
   caption: ""
   image: ""
 ---
-### August 2026:
-- **Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations**
-  - By Kiarash, *Aug 10, 2026* - [[Talk Slides]](/talk_slides/20260714_kiarash.pptx) [[Original Paper]](https://arxiv.org/abs/2402.04820)
+### September 2026:
+- **GenHOI: Generalized Hand-Object Pose Estimation with Occlusion Awareness**
+  - By Pengyu, *Sep 14, 2026* - [[Talk Slides]](/talk_slides/20260914_pengyu.pptx) [[Original Paper]](https://arxiv.org/abs/2603.19013)
 
+### August 2026:
 - **4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction**
   - By Siyuan, *Aug 10, 2026* - [[Talk Slides]](/talk_slides/20260810_siyuan.pptx) [[Original Paper]](https://arxiv.org/abs/2512.16564)
 
